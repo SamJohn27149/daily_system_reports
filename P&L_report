@@ -1,33 +1,60 @@
 
 ********************************************************************************
-Profit and loss report produced on 24/10/2026 21:24 from 23/10/2026 21:24 to 24/10/2026 21:24
+Profit and loss report produced on 31/10/2026 19:49 from 30/10/2026 19:49 to 31/10/2026 19:49
 ********************************************************************************
 
 
-Total p&l is 0.845%
+Total p&l is 0.079%
 
 ====================================
 P&L by instrument for all strategies
 ====================================
 
-        codes  pandl
-0        CORN   -0.1
-1      YENEUR    0.0
-2     SOYMEAL    0.0
-3  GOLD_micro    0.0
-4        US10    0.1
-5         CHF    0.3
+           codes  pandl
+0        FEEDCOW   -0.5
+1            AEX   -0.1
+2          R1000   -0.1
+3            DOW   -0.1
+4            V2X   -0.0
+5        FTSE250   -0.0
+6   COPPER-micro   -0.0
+7            BRE   -0.0
+8        BRENT_W   -0.0
+9            ZAR   -0.0
+10           EUA   -0.0
+11           MXP   -0.0
+12          US10   -0.0
+13           JPY   -0.0
+14       EURO600   -0.0
+15      VIX_mini   -0.0
+16           DAX   -0.0
+17        GAS_US   -0.0
+18    FTSECHINAA   -0.0
+19        RUBBER   -0.0
+20      HANGTECH   -0.0
+21     EUR_micro    0.0
+22  JGB-SGX-mini    0.0
+23        CANOLA    0.0
+24         US10U    0.0
+25      REDWHEAT    0.0
+26           CHF    0.0
+27       LEANHOG    0.0
+28           OAT    0.0
+29       RUSSELL    0.1
+30        YENEUR    0.1
+31          PLAT    0.3
+32        SILVER    0.3
 
-Total futures p&l is 0.419%
-Residual p&l is 0.427%
+Total futures p&l is -0.134%
+Residual p&l is 0.213%
 
 =======================
     P&L by strategy    
 =======================
 
            codes  pandl
-0  jensen_system   0.42
-0       residual   0.43
+0  jensen_system  -0.13
+0       residual   0.20
 
 
 ==================
@@ -35,10 +62,14 @@ P&L by asset class
 ==================
 
     codes  pandl
-0     Ags  -0.02
-1  Metals   0.04
-2    Bond   0.07
-3      FX   0.33
+0     Ags  -0.46
+1  Equity  -0.23
+2     Vol  -0.04
+3  OilGas  -0.03
+4   Other  -0.00
+5    Bond   0.04
+6      FX   0.05
+7  Metals   0.54
 
 
 ********************************************************************************
