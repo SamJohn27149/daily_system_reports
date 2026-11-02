@@ -1,6 +1,6 @@
 
 ********************************************************************************
-              Removed markets report produced on 31/10/2026 19:58               
+              Removed markets report produced on 02/11/2026 19:59               
 ********************************************************************************
 
 
@@ -17,11 +17,11 @@ Markets too expensive (SR cost per trade > 0.010): ['BUTTER', 'CH10', 'CNH-onsho
 
 
 
-Markets not enough risk volume (Volume in $m ann. risk per day < 1.50): ['ALUMINIUM', 'AUDJPY', 'AUD_micro', 'BBCOMM', 'BONO', 'BOVESPA', 'BUTTER', 'CAD_micro', 'CH10', 'CHFJPY', 'CHF_micro', 'CNH-onshore', 'COAL-GEORDIE', 'COPPER-mini', 'CORN_mini', 'CZK', 'DJSTX-SMALL', 'EU-CHEM', 'EU-CONSTRUCTION', 'EU-DJ-OIL', 'EU-DJ-TECH', 'EU-DJ-TELECOM', 'EU-DJ-UTIL', 'EU-HOUSE', 'EU-MEDIA', 'EU-MID', 'EU-REALESTATE', 'EU-RETAIL', 'EU-TRAVEL', 'EURAUD', 'EURCAD', 'EURCHF', 'EUROSTX-LARGE', 'EUROSTX-SMALL', 'GAS-LAST', 'GAS-PEN', 'GASOILINE_micro', 'GAS_US_mini', 'GBPCHF', 'GBPJPY', 'GBP_micro', 'GICS', 'HIGHYIELD', 'HOUSE-US', 'IG', 'INR', 'IRS', 'JP-REALESTATE', 'JPY_mini', 'LUMBER-new', 'MILKDRY', 'MILKWET', 'NOK', 'OATIES', 'OMX', 'PLN', 'R1000', 'RICE', 'SEK', 'SGD_mini', 'SGX', 'SMI-MID', 'SOYBEAN_mini', 'STEEL', 'SUGAR16', 'SWISSLEAD', 'TIN_LME', 'VIX_mini', 'VNKI', 'WHEAT_ICE', 'WHEAT_mini', 'WHEY']
+Markets not enough risk volume (Volume in $m ann. risk per day < 1.50): ['ALUMINIUM', 'AUDJPY', 'AUD_micro', 'BBCOMM', 'BONO', 'BOVESPA', 'BUTTER', 'CAD_micro', 'CH10', 'CHFJPY', 'CHF_micro', 'CNH-onshore', 'COAL-GEORDIE', 'COPPER-mini', 'CORN_mini', 'CZK', 'DJSTX-SMALL', 'EU-CHEM', 'EU-CONSTRUCTION', 'EU-DJ-OIL', 'EU-DJ-TECH', 'EU-DJ-TELECOM', 'EU-DJ-UTIL', 'EU-HOUSE', 'EU-MEDIA', 'EU-MID', 'EU-REALESTATE', 'EU-RETAIL', 'EU-TRAVEL', 'EURAUD', 'EURCAD', 'EURCHF', 'EUROSTX-LARGE', 'EUROSTX-SMALL', 'GAS-LAST', 'GAS-PEN', 'GASOILINE_micro', 'GAS_US_mini', 'GBPCHF', 'GBPJPY', 'GBP_micro', 'GICS', 'HIGHYIELD', 'HOUSE-US', 'IG', 'INR', 'IRS', 'JP-REALESTATE', 'JPY_mini', 'LEAD_LME', 'LUMBER-new', 'MILKDRY', 'MILKWET', 'NOK', 'OATIES', 'OMX', 'PLN', 'R1000', 'SEK', 'SGD_mini', 'SGX', 'SMI-MID', 'SOYBEAN_mini', 'STEEL', 'SUGAR16', 'SWISSLEAD', 'TIN_LME', 'VIX_mini', 'VNKI', 'WHEAT_ICE', 'WHEAT_mini', 'WHEY', 'YENEUR']
 
 
 
-Markets not enough contract volume (Volume in contracts per day < 100): ['ALUMINIUM', 'AUDJPY', 'BONO', 'BOVESPA', 'BUTTER', 'CH10', 'CHFJPY', 'CHF_micro', 'CNH-onshore', 'COAL', 'COAL-GEORDIE', 'COPPER-mini', 'CZK', 'EU-CHEM', 'EU-CONSTRUCTION', 'EU-DJ-OIL', 'EU-DJ-TECH', 'EU-DJ-TELECOM', 'EU-DJ-UTIL', 'EU-HOUSE', 'EU-MEDIA', 'EU-RETAIL', 'EURAUD', 'EURCAD', 'EUROSTX-LARGE', 'GAS-PEN', 'GASOILINE_micro', 'GBPCHF', 'GBPJPY', 'GICS', 'HIGHYIELD', 'HOUSE-US', 'IG', 'INR', 'IRS', 'JPY_mini', 'KRWUSD', 'MILKDRY', 'MILKWET', 'NOK', 'OMX', 'PLN', 'SEK', 'SGD_mini', 'STEEL', 'SUGAR16', 'SWISSLEAD', 'TIN_LME', 'VNKI', 'WHEY']
+Markets not enough contract volume (Volume in contracts per day < 100): ['ALUMINIUM', 'AUDJPY', 'BONO', 'BOVESPA', 'BUTTER', 'CH10', 'CHFJPY', 'CNH-onshore', 'COAL', 'COAL-GEORDIE', 'COPPER-mini', 'CZK', 'EU-CHEM', 'EU-CONSTRUCTION', 'EU-DJ-OIL', 'EU-DJ-TECH', 'EU-DJ-TELECOM', 'EU-DJ-UTIL', 'EU-HOUSE', 'EU-MEDIA', 'EU-RETAIL', 'EU-TRAVEL', 'EURAUD', 'EURCAD', 'EUROSTX-LARGE', 'GAS-PEN', 'GASOILINE_micro', 'GBPCHF', 'GBPJPY', 'GICS', 'HIGHYIELD', 'HOUSE-US', 'IG', 'INR', 'IRS', 'JPY_mini', 'KRWUSD', 'LEAD_LME', 'MILKDRY', 'MILKWET', 'NOK', 'OMX', 'PLN', 'SEK', 'SGD_mini', 'STEEL', 'SUGAR16', 'SWISSLEAD', 'TIN_LME', 'VNKI', 'WHEY']
 
 
 
@@ -196,6 +196,7 @@ exclude_instrument_lists:
     - JP-REALESTATE 
     - JPY_mini 
     - KRWUSD 
+    - LEAD_LME 
     - LUMBER-new 
     - MILKDRY 
     - MILKWET 
@@ -204,7 +205,6 @@ exclude_instrument_lists:
     - OMX 
     - PLN 
     - R1000 
-    - RICE 
     - SARONA 
     - SEK 
     - SGD_mini 
@@ -229,6 +229,7 @@ exclude_instrument_lists:
     - WHEAT_ICE 
     - WHEAT_mini 
     - WHEY 
+    - YENEUR 
  
 
 

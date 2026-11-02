@@ -1,10 +1,10 @@
 
 ********************************************************************************
-                 Reconcile report produced on 31/10/2026 19:50                  
+                 Reconcile report produced on 02/11/2026 19:51                  
 ********************************************************************************
 
 
-Breaks Optimal vs actual ['jensen_system SILVER', 'jensen_system GOLD_micro', 'jensen_system US-REALESTATE', 'jensen_system HANGTECH', 'jensen_system COPPER-micro', 'jensen_system EUROSTX', 'jensen_system RUSSELL', 'jensen_system DOW', 'jensen_system JPY', 'jensen_system BRE', 'jensen_system FEEDCOW', 'jensen_system ZAR']
+Breaks Optimal vs actual ['jensen_system SILVER', 'jensen_system CRUDE_W_micro', 'jensen_system HANGTECH', 'jensen_system DAX', 'jensen_system COPPER-micro', 'jensen_system RUSSELL', 'jensen_system BRENT_W', 'jensen_system DOW', 'jensen_system JPY', 'jensen_system BRE', 'jensen_system DX', 'jensen_system AEX', 'jensen_system FEEDCOW', 'jensen_system ZAR', 'jensen_system LIVECOW']
  Breaks Instrument vs Contract []
  Breaks Broker vs Contract []
 
@@ -13,20 +13,21 @@ Breaks Optimal vs actual ['jensen_system SILVER', 'jensen_system GOLD_micro', 'j
 ===============================================================
 
    instrument_code contract_date          expiry_date  position
-29             AEX      20261120  2026-11-20 00:00:00       1.0
+30             AEX      20261120  2026-11-20 00:00:00       1.0
 20         BRENT_W      20261230  2026-12-30 00:00:00       3.0
 8           CANOLA      20270114  2027-01-14 00:00:00       1.0
 19             CHF      20261214  2026-12-14 00:00:00      -3.0
-28    COPPER-micro      20270224  2027-02-24 00:00:00       2.0
+29    COPPER-micro      20270224  2027-02-24 00:00:00       2.0
 23             DAX      20261218  2026-12-18 00:00:00       1.0
 0              DOW      20261218  2026-12-18 00:00:00       2.0
 26             EUA      20271220  2027-12-20 00:00:00       1.0
 25         EURO600      20261218  2026-12-18 00:00:00       1.0
-27         FEEDCOW      20270325  2027-03-25 00:00:00       1.0
+27         EUROSTX      20261218  2026-12-18 00:00:00      -1.0
+28         FEEDCOW      20270325  2027-03-25 00:00:00       1.0
 11         FTSE250      20261218  2026-12-18 00:00:00       1.0
 1       FTSECHINAA      20261127  2026-11-27 00:00:00      -3.0
 4           GAS_US      20261229  2026-12-29 00:00:00      -1.0
-5         HANGTECH      20261127  2026-11-27 00:00:00      -1.0
+5         HANGTECH      20261127  2026-11-27 00:00:00      -2.0
 18    JGB-SGX-mini      20261211  2026-12-11 00:00:00       1.0
 3              JPY      20261214  2026-12-14 00:00:00      -2.0
 15         LEANHOG      20270212  2027-02-12 00:00:00      -1.0
@@ -50,68 +51,55 @@ Breaks Optimal vs actual ['jensen_system SILVER', 'jensen_system GOLD_micro', 'j
 ===============================================================
 
    instrument_code contract_date          expiry_date  position
-25             AEX      20261120  2026-11-20 00:00:00       1.0
-29         BRENT_W      20261230  2026-12-30 00:00:00       3.0
-2           CANOLA      20270114  2027-01-14 00:00:00       1.0
-27             CHF      20261214  2026-12-14 00:00:00      -3.0
-13    COPPER-micro      20270224  2027-02-24 00:00:00       2.0
-7              DAX      20261218  2026-12-18 00:00:00       1.0
-1              DOW      20261218  2026-12-18 00:00:00       2.0
-26             EUA      20271220  2027-12-20 00:00:00       1.0
-9          EURO600      20261218  2026-12-18 00:00:00       1.0
-11         FEEDCOW      20270325  2027-03-25 00:00:00       1.0
-16         FTSE250      20261218  2026-12-18 00:00:00       1.0
-6       FTSECHINAA      20261127  2026-11-27 00:00:00      -3.0
-5           GAS_US      20261229  2026-12-29 00:00:00      -1.0
-20        HANGTECH      20261127  2026-11-27 00:00:00      -1.0
-28    JGB-SGX-mini      20261211  2026-12-11 00:00:00       1.0
-18             JPY      20261214  2026-12-14 00:00:00      -2.0
-24         LEANHOG      20270212  2027-02-12 00:00:00      -1.0
-15             MXP      20261214  2026-12-14 00:00:00      -1.0
-21             OAT      20261208  2026-12-08 00:00:00      -3.0
-0             PLAT      20270127  2027-01-27 00:00:00      -1.0
-4            R1000      20261218  2026-12-18 00:00:00       1.0
-14        REDWHEAT      20270312  2027-03-12 00:00:00      -1.0
-3           RUBBER      20261130  2026-11-30 00:00:00       2.0
-12         RUSSELL      20261218  2026-12-18 00:00:00      -2.0
-23          SILVER      20261229  2026-12-29 00:00:00      -2.0
-8             US10      20261221  2026-12-21 00:00:00      -1.0
-22             V2X      20270120  2027-01-20 00:00:00      -9.0
-17        VIX_mini      20270120  2027-01-20 00:00:00      -1.0
-10          YENEUR      20261214  2026-12-14 00:00:00      -1.0
+15             AEX      20261120  2026-11-20 00:00:00       1.0
+28         BRENT_W      20261230  2026-12-30 00:00:00       3.0
+9           CANOLA      20270114  2027-01-14 00:00:00       1.0
+16             CHF      20261214  2026-12-14 00:00:00      -3.0
+21    COPPER-micro      20270224  2027-02-24 00:00:00       2.0
+18             DAX      20261218  2026-12-18 00:00:00       1.0
+3              DOW      20261218  2026-12-18 00:00:00       2.0
+12             EUA      20271220  2027-12-20 00:00:00       1.0
+4          EURO600      20261218  2026-12-18 00:00:00       1.0
+26         EUROSTX      20261218  2026-12-18 00:00:00      -1.0
+10         FEEDCOW      20270325  2027-03-25 00:00:00       1.0
+11         FTSE250      20261218  2026-12-18 00:00:00       1.0
+8       FTSECHINAA      20261127  2026-11-27 00:00:00      -3.0
+22          GAS_US      20261229  2026-12-29 00:00:00      -1.0
+20        HANGTECH      20261127  2026-11-27 00:00:00      -2.0
+2     JGB-SGX-mini      20261211  2026-12-11 00:00:00       1.0
+5              JPY      20261214  2026-12-14 00:00:00      -2.0
+1          LEANHOG      20270212  2027-02-12 00:00:00      -1.0
+7              MXP      20261214  2026-12-14 00:00:00      -1.0
+29             OAT      20261208  2026-12-08 00:00:00      -3.0
+13            PLAT      20270127  2027-01-27 00:00:00      -1.0
+24           R1000      20261218  2026-12-18 00:00:00       1.0
+23        REDWHEAT      20270312  2027-03-12 00:00:00      -1.0
+6           RUBBER      20261130  2026-11-30 00:00:00       2.0
+25         RUSSELL      20261218  2026-12-18 00:00:00      -2.0
+17          SILVER      20261229  2026-12-29 00:00:00      -2.0
+27            US10      20261221  2026-12-21 00:00:00      -1.0
+30             V2X      20270120  2027-01-20 00:00:00      -9.0
+14        VIX_mini      20270120  2027-01-20 00:00:00      -1.0
+0           YENEUR      20261214  2026-12-14 00:00:00      -1.0
 19             ZAR      20261214  2026-12-14 00:00:00       1.0
 
 
-=================================================================================
-                                  Trades in DB                                   
-=================================================================================
+=============================================================================
+                                Trades in DB                                 
+=============================================================================
 
-              strategy_name contract_date       fill_datetime  fill  filled_price
-US10U         jensen_system    [20261200] 2026-10-31 00:10:55   [1]     107.96875
-BRE           jensen_system    [20261200] 2026-10-31 00:11:16  [-1]       0.18305
-YENEUR        jensen_system    [20261200] 2026-10-31 00:11:32   [1]     175.55000
-COPPER-micro  jensen_system    [20270300] 2026-10-31 00:11:38   [1]       6.58700
-US10          jensen_system    [20261200] 2026-10-31 00:11:43   [1]     106.53125
-RUSSELL       jensen_system    [20261200] 2026-10-31 00:11:46   [1]    2815.30000
-SILVER        jensen_system    [20261200] 2026-10-31 00:14:13  [-1]      49.23000
-EUR_micro     jensen_system    [20261200] 2026-10-31 00:14:17   [1]       1.11890
-REDWHEAT      jensen_system    [20270300] 2026-10-31 00:14:18  [-1]     655.00000
+          strategy_name contract_date       fill_datetime  fill  filled_price
+HANGTECH  jensen_system    [20261100] 2026-11-02 10:15:03  [-1]        3802.0
+EUROSTX   jensen_system    [20261200] 2026-11-02 16:00:06  [-1]        6140.0
 
 
-================================================================================
-                               Trades from broker                               
-================================================================================
+============================================================================
+                             Trades from broker                             
+============================================================================
 
-             strategy_name contract_date       fill_datetime  fill  filled_price
-REDWHEAT                      [20270312] 2026-10-30 16:14:18  [-1]     655.00000
-US10                          [20261221] 2026-10-30 16:11:43   [1]     106.53125
-RUSSELL                       [20261218] 2026-10-30 16:11:46   [1]    2815.30000
-SILVER                        [20261229] 2026-10-30 16:14:13  [-1]      49.23000
-EUR_micro                     [20261214] 2026-10-30 16:14:17   [1]       1.11890
-US10U                         [20261221] 2026-10-30 16:10:55   [1]     107.96875
-BRE                           [20261130] 2026-10-30 16:11:16  [-1]       0.18305
-YENEUR                        [20261214] 2026-10-30 16:11:32   [1]     175.55000
-COPPER-micro                  [20270224] 2026-10-30 16:11:38   [1]       6.58700
+         strategy_name contract_date       fill_datetime  fill  filled_price
+HANGTECH                  [20261127] 2026-11-02 02:15:03  [-1]        3802.0
+EUROSTX                   [20261218] 2026-11-02 08:00:06  [-1]        6140.0
 
 
 ======================================================
@@ -150,12 +138,12 @@ jensen_system CHFJPY                 0       0   False
 jensen_system EUR_micro              0       0   False
 jensen_system BBCOMM                 0       0   False
 jensen_system EU-RETAIL              0       0   False
-jensen_system CRUDE_W_micro          0       0   False
+jensen_system CRUDE_W_micro          0       4    True
 jensen_system V2X                   -9      -9   False
 jensen_system EU-FOOD                0       0   False
 jensen_system CAD                    0       0   False
 jensen_system US-DISCRETE            0       0   False
-jensen_system GOLD_micro             0      -1    True
+jensen_system GOLD_micro             0       0   False
 jensen_system NOK                    0       0   False
 jensen_system MSCISING               0       0   False
 jensen_system US-TECH                0       0   False
@@ -164,7 +152,7 @@ jensen_system CNH-onshore            0       0   False
 jensen_system FTSETAIWAN             0       0   False
 jensen_system US-HEALTH              0       0   False
 jensen_system SPI200                 0       0   False
-jensen_system US-REALESTATE          0      -1    True
+jensen_system US-REALESTATE          0       0   False
 jensen_system AUD_micro              0       0   False
 jensen_system MILK                   0       0   False
 jensen_system MSCIEMASIA             0       0   False
@@ -173,11 +161,11 @@ jensen_system CANOLA                 1       1   False
 jensen_system OMX                    0       0   False
 jensen_system EU-DJ-TECH             0       0   False
 jensen_system US-ENERGY              0       0   False
-jensen_system HANGTECH              -1      -2    True
+jensen_system HANGTECH              -2      -1    True
 jensen_system CAD10                  0       0   False
 jensen_system GICS                   0       0   False
 jensen_system STEEL                  0       0   False
-jensen_system DAX                    1       1   False
+jensen_system DAX                    1       2    True
 jensen_system RICE                   0       0   False
 jensen_system BOVESPA                0       0   False
 jensen_system SOYOIL                 0       0   False
@@ -215,7 +203,7 @@ jensen_system HIGHYIELD              0       0   False
 jensen_system EU-TECH                0       0   False
 jensen_system SOYMEAL                0       0   False
 jensen_system CH10                   0       0   False
-jensen_system EUROSTX                0      -1    True
+jensen_system EUROSTX               -1      -1   False
 jensen_system EU-MID                 0       0   False
 jensen_system R1000                  1       1   False
 jensen_system EURCAD                 0       0   False
@@ -237,7 +225,7 @@ jensen_system GILT                   0       0   False
 jensen_system CORN                   0       0   False
 jensen_system RUSSELL               -2      -1    True
 jensen_system US10                  -1      -1   False
-jensen_system BRENT_W                3       3   False
+jensen_system BRENT_W                3       2    True
 jensen_system PLAT                  -1      -1   False
 jensen_system DOW                    2       1    True
 jensen_system LEANHOG               -1      -1   False
@@ -269,14 +257,14 @@ jensen_system ETHEREUM               0       0   False
 jensen_system AUDJPY                 0       0   False
 jensen_system US-UTILS               0       0   False
 jensen_system US-INDUSTRY            0       0   False
-jensen_system DX                     0       0   False
+jensen_system DX                     0       1    True
 jensen_system IBEX                   0       0   False
 jensen_system BTP                    0       0   False
 jensen_system EU-REALESTATE          0       0   False
 jensen_system TOPIX                  0       0   False
 jensen_system MILKDRY                0       0   False
 jensen_system EU-INSURE              0       0   False
-jensen_system AEX                    1       1   False
+jensen_system AEX                    1       0    True
 jensen_system SEK                    0       0   False
 jensen_system GBPEUR                 0       0   False
 jensen_system FEEDCOW                1       0    True
@@ -287,7 +275,7 @@ jensen_system LEAD_LME               0       0   False
 jensen_system US-PROPERTY            0       0   False
 jensen_system EU-CHEM                0       0   False
 jensen_system WHEY                   0       0   False
-jensen_system LIVECOW                0       0   False
+jensen_system LIVECOW                0       1    True
 jensen_system EU-AUTO                0       0   False
 jensen_system CZK                    0       0   False
 
