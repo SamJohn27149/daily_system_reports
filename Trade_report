@@ -1,6 +1,6 @@
 
 ********************************************************************************
-Trades report produced on 03/11/2026 19:51 from 02/11/2026 19:51 to 03/11/2026 19:51
+Trades report produced on 06/11/2026 19:50 from 05/11/2026 19:50 to 06/11/2026 19:50
 ********************************************************************************
 
 
@@ -10,24 +10,13 @@ Trades report produced on 03/11/2026 19:51 from 02/11/2026 19:51 to 03/11/2026 1
 =========================================================================================
 
      instrument_code  strategy_name contract_date       fill_datetime  fill  filled_price
-3564             AEX  jensen_system    [20261100] 2026-11-03 16:00:10  [-1]   1123.700000
-3558             BRE  jensen_system    [20261200] 2026-11-03 00:16:34   [1]      0.182350
-3566         BRENT_W  jensen_system    [20270200] 2026-11-03 17:00:03  [-1]    103.920000
-3554    COPPER-micro  jensen_system    [20270300] 2026-11-03 00:10:41  [-1]      6.675000
-3552   CRUDE_W_micro  jensen_system    [20270200] 2026-11-03 00:10:29   [1]     93.580000
-3561   CRUDE_W_micro  jensen_system    [20270200] 2026-11-03 00:16:51   [1]     93.560000
-3562   CRUDE_W_micro  jensen_system    [20270200] 2026-11-03 00:17:05   [1]     93.580000
-3560   CRUDE_W_micro  jensen_system    [20270200] 2026-11-03 00:16:38   [1]     93.600000
-3565             DAX  jensen_system    [20261200] 2026-11-03 16:00:12   [1]  25810.000000
-3551             DOW  jensen_system    [20261200] 2026-11-03 00:10:26  [-1]  52424.000000
-3559              DX  jensen_system    [20261200] 2026-11-03 00:16:35   [1]    101.585000
-3550         FEEDCOW  jensen_system    [20270300] 2026-11-03 00:10:22  [-1]    328.875000
-3563        HANGTECH  jensen_system    [20261100] 2026-11-03 10:15:03   [1]   3890.000000
-3553             JPY  jensen_system    [20261200] 2026-11-03 00:10:38   [1]      0.006357
-3557         LIVECOW  jensen_system    [20270200] 2026-11-03 00:16:01   [1]    224.800000
-3556         RUSSELL  jensen_system    [20261200] 2026-11-03 00:16:00   [1]   2849.600000
-3549          SILVER  jensen_system    [20261200] 2026-11-03 00:10:19   [1]     50.995000
-3555             ZAR  jensen_system    [20261200] 2026-11-03 00:13:31  [-1]      0.060100
+3596             AEX  jensen_system    [20261100] 2026-11-06 16:00:07   [1]       1112.65
+3598             DAX  jensen_system    [20261200] 2026-11-06 16:00:08  [-1]      26081.00
+3599             DAX  jensen_system    [20261200] 2026-11-06 16:00:11  [-1]      26087.00
+3595        HANGTECH  jensen_system    [20261100] 2026-11-06 10:15:02   [1]       4098.00
+3597             SMI  jensen_system    [20261200] 2026-11-06 16:00:08   [1]      14776.00
+3593           TOPIX  jensen_system    [20261200] 2026-11-06 09:13:14  [-1]       3714.00
+3594           TOPIX  jensen_system    [20261200] 2026-11-06 09:13:18  [-1]       3714.00
 
 
 =========================================================================================================================================================
@@ -35,49 +24,27 @@ Trades report produced on 03/11/2026 19:51 from 02/11/2026 19:51 to 03/11/2026 1
 =========================================================================================================================================================
 
      instrument_code  strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
-3549          SILVER  jensen_system       2026-10-30 00:00:00  2026-11-03 00:10:17.050000  2026-11-03 00:10:19              346217.05                1.95
-3550         FEEDCOW  jensen_system       2026-10-30 00:00:00  2026-11-03 00:10:21.161000  2026-11-03 00:10:22             346221.161               0.839
-3551             DOW  jensen_system       2026-10-30 00:00:00  2026-11-03 00:10:25.276000  2026-11-03 00:10:26             346225.276               0.724
-3553             JPY  jensen_system       2026-10-30 00:00:00  2026-11-03 00:10:30.858000  2026-11-03 00:10:38             346230.858               7.142
-3554    COPPER-micro  jensen_system       2026-10-30 00:00:00  2026-11-03 00:10:40.116000  2026-11-03 00:10:41             346240.116               0.884
-3555             ZAR  jensen_system       2026-10-30 00:00:00  2026-11-03 00:10:42.617000  2026-11-03 00:13:31             346242.617             168.383
-3556         RUSSELL  jensen_system       2026-10-30 00:00:00  2026-11-03 00:15:59.608000  2026-11-03 00:16:00             346559.608               0.392
-3557         LIVECOW  jensen_system       2026-10-30 00:00:00  2026-11-03 00:16:00.602000  2026-11-03 00:16:01             346560.602               0.398
-3558             BRE  jensen_system       2026-10-30 00:00:00  2026-11-03 00:16:01.683000  2026-11-03 00:16:34             346561.683              32.317
-3559              DX  jensen_system       2026-11-02 00:00:00  2026-11-03 00:16:35.026000  2026-11-03 00:16:35              87395.026                 NaN
-3552   CRUDE_W_micro  jensen_system       2026-10-30 00:00:00  2026-11-03 00:10:27.634000  2026-11-03 00:10:29             346227.634               1.366
-3561   CRUDE_W_micro  jensen_system       2026-10-30 00:00:00  2026-11-03 00:16:41.090000  2026-11-03 00:16:51              346601.09                9.91
-3562   CRUDE_W_micro  jensen_system       2026-10-30 00:00:00  2026-11-03 00:16:54.086000  2026-11-03 00:17:05             346614.086              10.914
-3560   CRUDE_W_micro  jensen_system       2026-10-30 00:00:00  2026-11-03 00:16:35.704000  2026-11-03 00:16:38             346595.704               2.296
-3563        HANGTECH  jensen_system       2026-11-02 00:00:00  2026-11-03 10:15:02.028000  2026-11-03 10:15:03             123302.028               0.972
-3564             AEX  jensen_system       2026-11-02 00:00:00  2026-11-03 16:00:10.367000  2026-11-03 16:00:10             144010.367                 NaN
-3565             DAX  jensen_system       2026-11-02 00:00:00  2026-11-03 16:00:12.109000  2026-11-03 16:00:12             144012.109                 NaN
-3566         BRENT_W  jensen_system       2026-11-02 00:00:00  2026-11-03 17:00:02.676000  2026-11-03 17:00:03             147602.676               0.324
+3593           TOPIX  jensen_system       2026-11-05 00:00:00  2026-11-06 09:13:12.770000  2026-11-06 09:13:14              119592.77                1.23
+3594           TOPIX  jensen_system       2026-11-05 00:00:00  2026-11-06 09:13:16.773000  2026-11-06 09:13:18             119596.773               1.227
+3595        HANGTECH  jensen_system       2026-11-05 00:00:00  2026-11-06 10:15:01.816000  2026-11-06 10:15:02             123301.816               0.184
+3596             AEX  jensen_system       2026-11-05 00:00:00  2026-11-06 16:00:07.030000  2026-11-06 16:00:07              144007.03                 NaN
+3597             SMI  jensen_system       2026-11-05 00:00:00  2026-11-06 16:00:07.856000  2026-11-06 16:00:08             144007.856               0.144
+3598             DAX  jensen_system       2026-11-05 00:00:00  2026-11-06 16:00:08.530000  2026-11-06 16:00:08              144008.53                 NaN
+3599             DAX  jensen_system       2026-11-05 00:00:00  2026-11-06 16:00:11.520000  2026-11-06 16:00:11              144011.52                 NaN
 
 
-============================================================================================================================================================================================================================
-                                                                                                  Slippage (ticks per lot)                                                                                                  
-============================================================================================================================================================================================================================
+=========================================================================================================================================================================================================================
+                                                                                                Slippage (ticks per lot)                                                                                                 
+=========================================================================================================================================================================================================================
 
-     instrument_code  strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price     delay   bid_ask execution versus_limit versus_parent_limit total_trading
-3549          SILVER  jensen_system   [1]                  49.31               None     50.99     50.995        50.985      50.985       50.995     -1.68    -0.005       0.0        -0.01                 NaN        -0.005
-3550         FEEDCOW  jensen_system  [-1]                328.375               None   328.975    328.925       329.025     329.025      328.875       0.6     -0.05     -0.05        -0.15                 NaN          -0.1
-3551             DOW  jensen_system  [-1]                51994.0               None   52425.5    52425.0       52426.0     52426.0      52424.0     431.5      -0.5      -1.0         -2.0                 NaN          -1.5
-3553             JPY  jensen_system   [1]               0.006373               None  0.006356   0.006356      0.006356    0.006356     0.006357  0.000018      -0.0 -0.000001    -0.000001                 NaN     -0.000001
-3554    COPPER-micro  jensen_system  [-1]                 6.5875               None   6.67625     6.6755         6.677       6.677        6.675   0.08875  -0.00075   -0.0005       -0.002                 NaN      -0.00125
-3555             ZAR  jensen_system  [-1]               0.059625               None  0.060088   0.060075        0.0601      0.0601       0.0601  0.000463 -0.000012  0.000025         -0.0                 NaN      0.000012
-3556         RUSSELL  jensen_system   [1]                 2810.7               None    2849.6     2849.7        2849.5      2849.5       2849.6     -38.9      -0.1       0.1         -0.1                 NaN           0.0
-3557         LIVECOW  jensen_system   [1]                224.475               None  224.7875      224.8       224.775     224.775        224.8   -0.3125   -0.0125       0.0       -0.025                 NaN       -0.0125
-3558             BRE  jensen_system   [1]                0.18305               None  0.182275     0.1823       0.18225     0.18225      0.18235  0.000775 -0.000025  -0.00005      -0.0001                 NaN     -0.000075
-3559              DX  jensen_system   [1]                101.645               None  101.5975      101.6       101.595     101.595      101.585    0.0475   -0.0025     0.015         0.01                 NaN        0.0125
-3552   CRUDE_W_micro  jensen_system   [1]                 100.63               None     93.58       93.6         93.56       93.56        93.58      7.05     -0.02      0.02        -0.02                 NaN           0.0
-3561   CRUDE_W_micro  jensen_system   [1]                 100.63               None     93.58       93.6         93.56       93.56        93.56      7.05     -0.02      0.04          0.0                 NaN          0.02
-3562   CRUDE_W_micro  jensen_system   [1]                 100.63               None     93.55      93.57         93.53       93.53        93.58      7.08     -0.02     -0.01        -0.05                 NaN         -0.03
-3560   CRUDE_W_micro  jensen_system   [1]                 100.63               None     93.56      93.58         93.54       93.54         93.6      7.07     -0.02     -0.02        -0.06                 NaN         -0.04
-3563        HANGTECH  jensen_system   [1]                 3847.0               None    3890.5     3891.0        3890.0      3890.0       3890.0     -43.5      -0.5       1.0          0.0                 NaN           0.5
-3564             AEX  jensen_system  [-1]                 1132.4               None    1122.8    1122.65       1122.95     1122.95       1123.7      -9.6     -0.15      1.05         0.75                 NaN           0.9
-3565             DAX  jensen_system   [1]                25910.0               None   25811.5    25813.0       25810.0     25810.0      25810.0      98.5      -1.5       3.0          0.0                 NaN           1.5
-3566         BRENT_W  jensen_system  [-1]                 106.36               None   103.685     103.67         103.7       103.7       103.92    -2.675    -0.015      0.25         0.22                 NaN         0.235
+     instrument_code  strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price    delay bid_ask execution versus_limit versus_parent_limit total_trading
+3593           TOPIX  jensen_system  [-1]                3948.25               None  3713.625    3713.25        3714.0      3714.0       3714.0 -234.625  -0.375      0.75         -0.0                 NaN         0.375
+3594           TOPIX  jensen_system  [-1]                3948.25               None    3714.5    3714.25       3714.75     3714.75       3714.0  -233.75   -0.25     -0.25        -0.75                 NaN          -0.5
+3595        HANGTECH  jensen_system   [1]                 4165.0               None    4096.5     4097.0        4096.0      4096.0       4098.0     68.5    -0.5      -1.0         -2.0                 NaN          -1.5
+3596             AEX  jensen_system   [1]                1139.35               None   1113.25    1113.85       1112.65     1112.65      1112.65     26.1    -0.6       1.2          0.0                 NaN           0.6
+3597             SMI  jensen_system   [1]                15053.0               None   14783.0    14784.0       14782.0     14782.0      14776.0    270.0    -1.0       8.0          6.0                 NaN           7.0
+3598             DAX  jensen_system  [-1]                26713.0               None   26078.5    26077.0       26080.0     26080.0      26081.0   -634.5    -1.5       4.0          1.0                 NaN           2.5
+3599             DAX  jensen_system  [-1]                26713.0               None   26094.5    26093.0       26096.0     26096.0      26087.0   -618.5    -1.5      -6.0         -9.0                 NaN          -7.5
 
 
 ===========================================================================================================================================================
@@ -85,156 +52,84 @@ Trades report produced on 03/11/2026 19:51 from 02/11/2026 19:51 to 03/11/2026 1
 ===========================================================================================================================================================
 
      instrument_code  strategy_name trade last_annual_vol    delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
-3549          SILVER  jensen_system   [1]       26.998554  -622.255543   -1.851951           0.0        -3.703902                     NaN         -1.851951
-3550         FEEDCOW  jensen_system  [-1]       59.853741    100.24436   -8.353697     -8.353697        -25.06109                     NaN        -16.707393
-3551             DOW  jensen_system  [-1]     5689.971606   758.351763   -0.878739     -1.757478        -3.514956                     NaN         -2.636217
-3553             JPY  jensen_system   [1]        0.000457   388.721809   -5.474955     -21.89982        -32.84973                     NaN        -27.374775
-3554    COPPER-micro  jensen_system  [-1]        1.368533   648.504719   -5.480322     -3.653548       -14.614191                     NaN         -9.133869
-3555             ZAR  jensen_system  [-1]        0.005822   794.436925  -21.471268     42.942536             -0.0                     NaN         21.471268
-3556         RUSSELL  jensen_system   [1]      408.514124  -952.231458   -2.447896      2.447896        -2.447896                     NaN               0.0
-3557         LIVECOW  jensen_system   [1]       36.579048   -85.431419   -3.417257           0.0        -6.834514                     NaN         -3.417257
-3558             BRE  jensen_system   [1]        0.044124   175.642839   -5.665898    -11.331796       -22.663592                     NaN        -16.997694
-3559              DX  jensen_system   [1]        5.070128     93.68599   -4.930842     29.585049        19.723366                     NaN         24.654208
-3552   CRUDE_W_micro  jensen_system   [1]       36.429613  1935.238763   -5.490039      5.490039        -5.490039                     NaN               0.0
-3561   CRUDE_W_micro  jensen_system   [1]       36.429613  1935.238763   -5.490039     10.980078              0.0                     NaN          5.490039
-3562   CRUDE_W_micro  jensen_system   [1]       36.429613  1943.473821   -5.490039      -2.74502       -13.725098                     NaN         -8.235059
-3560   CRUDE_W_micro  jensen_system   [1]       36.429613  1940.728802   -5.490039     -5.490039       -16.470117                     NaN        -10.980078
-3563        HANGTECH  jensen_system   [1]     1257.120077  -346.028997   -3.977345       7.95469              0.0                     NaN          3.977345
-3564             AEX  jensen_system  [-1]      121.217445  -791.965213  -12.374456     86.621195        61.872282                     NaN         74.246739
-3565             DAX  jensen_system   [1]     3869.263944   254.570382   -3.876706      7.753413              0.0                     NaN          3.876706
-3566         BRENT_W  jensen_system  [-1]       41.572401  -643.455745   -3.608163     60.136051        52.919725                     NaN         56.527888
+3593           TOPIX  jensen_system  [-1]     1063.740271 -2205.660596   -3.525297      7.050593             -0.0                     NaN          3.525297
+3594           TOPIX  jensen_system  [-1]     1063.740271 -2197.434904   -2.350198     -2.350198        -7.050593                     NaN         -4.700396
+3595        HANGTECH  jensen_system   [1]     1485.393294   461.157326   -3.366112     -6.732224       -13.464447                     NaN        -10.098336
+3596             AEX  jensen_system   [1]      134.582368  1939.332793  -44.582363     89.164726              0.0                     NaN         44.582363
+3597             SMI  jensen_system   [1]     1875.084528  1439.935085   -5.333093     42.664743        31.998557                     NaN          37.33165
+3598             DAX  jensen_system  [-1]      4514.35133 -1405.517545   -3.322737      8.860631         2.215158                     NaN          5.537894
+3599             DAX  jensen_system  [-1]      4514.35133 -1370.075022   -3.322737    -13.290946       -19.936419                     NaN        -16.613683
 
 
-====================================================================================================================================================================
-                                                                    Slippage (In base currency)                                                                     
-====================================================================================================================================================================
+=====================================================================================================================================================================
+                                                                     Slippage (In base currency)                                                                     
+=====================================================================================================================================================================
 
-     instrument_code  strategy_name trade value_of_price_point  delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
-3549          SILVER  jensen_system   [1]               1000.0     -1680.0         -5.0            0.0             -10.0                      NaN               -5.0
-3550         FEEDCOW  jensen_system  [-1]                500.0       300.0        -25.0          -25.0             -75.0                      NaN              -50.0
-3551             DOW  jensen_system  [-1]                  0.5      215.75        -0.25           -0.5              -1.0                      NaN              -0.75
-3553             JPY  jensen_system   [1]           12500000.0     221.875       -3.125          -12.5            -18.75                      NaN            -15.625
-3554    COPPER-micro  jensen_system  [-1]               2500.0     221.875       -1.875          -1.25              -5.0                      NaN             -3.125
-3555             ZAR  jensen_system  [-1]             500000.0      231.25        -6.25           12.5              -0.0                      NaN               6.25
-3556         RUSSELL  jensen_system   [1]                  5.0      -194.5         -0.5            0.5              -0.5                      NaN                0.0
-3557         LIVECOW  jensen_system   [1]                400.0      -125.0         -5.0            0.0             -10.0                      NaN               -5.0
-3558             BRE  jensen_system   [1]             100000.0        77.5         -2.5           -5.0             -10.0                      NaN               -7.5
-3559              DX  jensen_system   [1]               1000.0        47.5         -2.5           15.0              10.0                      NaN               12.5
-3552   CRUDE_W_micro  jensen_system   [1]                100.0       705.0         -2.0            2.0              -2.0                      NaN                0.0
-3561   CRUDE_W_micro  jensen_system   [1]                100.0       705.0         -2.0            4.0               0.0                      NaN                2.0
-3562   CRUDE_W_micro  jensen_system   [1]                100.0       708.0         -2.0           -1.0              -5.0                      NaN               -3.0
-3560   CRUDE_W_micro  jensen_system   [1]                100.0       707.0         -2.0           -2.0              -6.0                      NaN               -4.0
-3563        HANGTECH  jensen_system   [1]             6.372174 -277.189591    -3.186087       6.372174               0.0                      NaN           3.186087
-3564             AEX  jensen_system  [-1]              223.879  -2149.2384    -33.58185      235.07295         167.90925                      NaN           201.4911
-3565             DAX  jensen_system   [1]             1.119395  110.260407    -1.679092       3.358185               0.0                      NaN           1.679092
-3566         BRENT_W  jensen_system  [-1]               1000.0     -2675.0        -15.0          250.0             220.0                      NaN              235.0
+     instrument_code  strategy_name trade value_of_price_point   delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
+3593           TOPIX  jensen_system  [-1]             6.332481 -1485.758251     -2.37468        4.74936              -0.0                      NaN            2.37468
+3594           TOPIX  jensen_system  [-1]             6.332481 -1480.217331     -1.58312       -1.58312          -4.74936                      NaN           -3.16624
+3595        HANGTECH  jensen_system   [1]             6.380253   437.047321    -3.190126      -6.380253        -12.760506                      NaN          -9.570379
+3596             AEX  jensen_system   [1]              223.861    5842.7721    -134.3166       268.6332               0.0                      NaN           134.3166
+3597             SMI  jensen_system   [1]             12.24015    3304.8405    -12.24015        97.9212           73.4409                      NaN           85.68105
+3598             DAX  jensen_system  [-1]             1.119305  -710.199022    -1.678958        4.47722          1.119305                      NaN           2.798262
+3599             DAX  jensen_system  [-1]             1.119305  -692.290143    -1.678958       -6.71583        -10.073745                      NaN          -8.394787
 
 delay_cash Sum
-                               delay_cash
-strategy_name instrument_code            
-jensen_system AEX              -2149.2384
-              BRE                    77.5
-              BRENT_W             -2675.0
-              COPPER-micro        221.875
-              CRUDE_W_micro        2825.0
-              DAX              110.260407
-              DOW                  215.75
-              DX                     47.5
-              FEEDCOW               300.0
-              HANGTECH        -277.189591
-              JPY                 221.875
-              LIVECOW              -125.0
-              RUSSELL              -194.5
-              SILVER              -1680.0
-              ZAR                  231.25
+                                delay_cash
+strategy_name instrument_code             
+jensen_system AEX                5842.7721
+              DAX             -1402.489165
+              HANGTECH          437.047321
+              SMI                3304.8405
+              TOPIX           -2965.975582
 delay_cash Total Sum
                 delay_cash
 strategy_name             
-jensen_system -2849.917583
+jensen_system  5216.195174
 bid_ask_cash Sum
                               bid_ask_cash
 strategy_name instrument_code             
-jensen_system AEX                -33.58185
-              BRE                     -2.5
-              BRENT_W                -15.0
-              COPPER-micro          -1.875
-              CRUDE_W_micro           -8.0
-              DAX                -1.679092
-              DOW                    -0.25
-              DX                      -2.5
-              FEEDCOW                -25.0
-              HANGTECH           -3.186087
-              JPY                   -3.125
-              LIVECOW                 -5.0
-              RUSSELL                 -0.5
-              SILVER                  -5.0
-              ZAR                    -6.25
+jensen_system AEX                -134.3166
+              DAX                -3.357915
+              HANGTECH           -3.190126
+              SMI                -12.24015
+              TOPIX                -3.9578
 bid_ask_cash Total Sum
               bid_ask_cash
 strategy_name             
-jensen_system   -113.44703
+jensen_system  -157.062592
 execution_cash Sum
                               execution_cash
 strategy_name instrument_code               
-jensen_system AEX                  235.07295
-              BRE                       -5.0
-              BRENT_W                  250.0
-              COPPER-micro             -1.25
-              CRUDE_W_micro              3.0
-              DAX                   3.358185
-              DOW                       -0.5
-              DX                        15.0
-              FEEDCOW                  -25.0
-              HANGTECH              6.372174
-              JPY                      -12.5
-              LIVECOW                    0.0
-              RUSSELL                    0.5
-              SILVER                     0.0
-              ZAR                       12.5
+jensen_system AEX                   268.6332
+              DAX                   -2.23861
+              HANGTECH             -6.380253
+              SMI                    97.9212
+              TOPIX                  3.16624
 execution_cash Total Sum
               execution_cash
 strategy_name               
-jensen_system     481.553309
+jensen_system     361.101777
 versus_limit_cash Sum
                               versus_limit_cash
 strategy_name instrument_code                  
-jensen_system AEX                     167.90925
-              BRE                         -10.0
-              BRENT_W                     220.0
-              COPPER-micro                 -5.0
-              CRUDE_W_micro               -13.0
-              DAX                           0.0
-              DOW                          -1.0
-              DX                           10.0
-              FEEDCOW                     -75.0
-              HANGTECH                      0.0
-              JPY                        -18.75
-              LIVECOW                     -10.0
-              RUSSELL                      -0.5
-              SILVER                      -10.0
-              ZAR                          -0.0
+jensen_system AEX                           0.0
+              DAX                      -8.95444
+              HANGTECH               -12.760506
+              SMI                       73.4409
+              TOPIX                    -4.74936
 versus_limit_cash Total Sum
               versus_limit_cash
 strategy_name                  
-jensen_system         254.65925
+jensen_system         46.976594
 versus_parent_limit_cash Sum
                               versus_parent_limit_cash
 strategy_name instrument_code                         
 jensen_system AEX                                    0
-              BRE                                    0
-              BRENT_W                                0
-              COPPER-micro                           0
-              CRUDE_W_micro                          0
               DAX                                    0
-              DOW                                    0
-              DX                                     0
-              FEEDCOW                                0
               HANGTECH                               0
-              JPY                                    0
-              LIVECOW                                0
-              RUSSELL                                0
-              SILVER                                 0
-              ZAR                                    0
+              SMI                                    0
+              TOPIX                                  0
 versus_parent_limit_cash Total Sum
               versus_parent_limit_cash
 strategy_name                         
@@ -242,25 +137,15 @@ jensen_system                        0
 total_trading_cash Sum
                               total_trading_cash
 strategy_name instrument_code                   
-jensen_system AEX                       201.4911
-              BRE                           -7.5
-              BRENT_W                      235.0
-              COPPER-micro                -3.125
-              CRUDE_W_micro                 -5.0
-              DAX                       1.679092
-              DOW                          -0.75
-              DX                            12.5
-              FEEDCOW                      -50.0
-              HANGTECH                  3.186087
-              JPY                        -15.625
-              LIVECOW                       -5.0
-              RUSSELL                        0.0
-              SILVER                        -5.0
-              ZAR                           6.25
+jensen_system AEX                       134.3166
+              DAX                      -5.596525
+              HANGTECH                 -9.570379
+              SMI                       85.68105
+              TOPIX                     -0.79156
 total_trading_cash Total Sum
               total_trading_cash
 strategy_name                   
-jensen_system          368.10628
+jensen_system         204.039186
 
 ********************************************************************************
                                  END OF REPORT                                  
