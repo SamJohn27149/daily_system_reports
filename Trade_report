@@ -1,162 +1,130 @@
 
 ********************************************************************************
-Trades report produced on 10/11/2026 19:51 from 09/11/2026 19:51 to 10/11/2026 19:51
+Trades report produced on 11/11/2026 19:50 from 10/11/2026 19:50 to 11/11/2026 19:50
 ********************************************************************************
 
 
 
-=================================================================================================
-                                          Broker orders                                          
-=================================================================================================
+=========================================================================================
+                                      Broker orders                                      
+=========================================================================================
 
-     instrument_code          strategy_name contract_date       fill_datetime  fill  filled_price
-3616   CRUDE_W_micro          jensen_system    [20270200] 2026-11-10 00:10:17  [-1]        85.610
-3623             DAX          jensen_system    [20261200] 2026-11-10 16:00:09  [-1]     26612.000
-3618             NZD          jensen_system    [20261200] 2026-11-10 00:13:33  [-1]         0.562
-3619          RUBBER  _ROLL_PSEUDO_STRATEGY    [20270100] 2026-11-10 09:00:05   [1]       240.500
-3620          RUBBER  _ROLL_PSEUDO_STRATEGY    [20261200] 2026-11-10 09:00:08  [-1]       239.600
-3621          RUBBER  _ROLL_PSEUDO_STRATEGY    [20270100] 2026-11-10 09:00:09   [1]       239.900
-3622          RUBBER  _ROLL_PSEUDO_STRATEGY    [20261200] 2026-11-10 09:00:12  [-1]       239.700
-3617            US10          jensen_system    [20261200] 2026-11-10 00:12:59   [1]       107.000
+     instrument_code  strategy_name contract_date       fill_datetime  fill  filled_price
+3624             DOW  jensen_system    [20261200] 2026-11-11 00:10:14   [1]     52159.000
+3625         LEANHOG  jensen_system    [20270200] 2026-11-11 00:10:52  [-1]        60.575
+3626          SILVER  jensen_system    [20261200] 2026-11-11 00:13:26   [1]        51.470
+3627           TOPIX  jensen_system    [20261200] 2026-11-11 09:00:04   [1]      3930.250
 
 
-=================================================================================================================================================================
-                                                                             Delays                                                                              
-=================================================================================================================================================================
+=========================================================================================================================================================
+                                                                         Delays                                                                          
+=========================================================================================================================================================
 
-     instrument_code          strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
-3616   CRUDE_W_micro          jensen_system       2026-11-06 00:00:00  2026-11-10 00:10:16.562000  2026-11-10 00:10:17             346216.562               0.438
-3617            US10          jensen_system       2026-11-06 00:00:00  2026-11-10 00:12:52.803000  2026-11-10 00:12:59             346372.803               6.197
-3618             NZD          jensen_system       2026-11-06 00:00:00  2026-11-10 00:13:00.581000  2026-11-10 00:13:33             346380.581              32.419
-3619          RUBBER  _ROLL_PSEUDO_STRATEGY       2026-11-06 23:00:00  2026-11-10 09:00:03.541000  2026-11-10 09:00:05             295203.541               1.459
-3620          RUBBER  _ROLL_PSEUDO_STRATEGY       2026-11-06 23:00:00  2026-11-10 09:00:08.376000  2026-11-10 09:00:08             295208.376                 NaN
-3621          RUBBER  _ROLL_PSEUDO_STRATEGY       2026-11-06 23:00:00  2026-11-10 09:00:09.068000  2026-11-10 09:00:09             295209.068                 NaN
-3622          RUBBER  _ROLL_PSEUDO_STRATEGY       2026-11-06 23:00:00  2026-11-10 09:00:11.724000  2026-11-10 09:00:12             295211.724               0.276
-3623             DAX          jensen_system       2026-11-06 00:00:00  2026-11-10 16:00:08.600000  2026-11-10 16:00:09               403208.6                 0.4
+     instrument_code  strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
+3624             DOW  jensen_system       2026-11-10 00:00:00  2026-11-11 00:10:13.368000  2026-11-11 00:10:14              87013.368               0.632
+3625         LEANHOG  jensen_system       2026-11-10 00:00:00  2026-11-11 00:10:17.036000  2026-11-11 00:10:52              87017.036              34.964
+3626          SILVER  jensen_system       2026-11-10 00:00:00  2026-11-11 00:13:25.552000  2026-11-11 00:13:26              87205.552               0.448
+3627           TOPIX  jensen_system       2026-11-10 00:00:00  2026-11-11 09:00:04.100000  2026-11-11 09:00:04               118804.1                 NaN
 
 
-=======================================================================================================================================================================================================================================
-                                                                                                       Slippage (ticks per lot)                                                                                                        
-=======================================================================================================================================================================================================================================
+========================================================================================================================================================================================================================
+                                                                                                Slippage (ticks per lot)                                                                                                
+========================================================================================================================================================================================================================
 
-     instrument_code          strategy_name trade parent_reference_price parent_limit_price   mid_price  side_price offside_price limit_price filled_price     delay   bid_ask execution versus_limit versus_parent_limit total_trading
-3616   CRUDE_W_micro          jensen_system  [-1]                  87.57               None      85.635       85.62         85.65       85.65        85.61    -1.935    -0.015     -0.01        -0.04                 NaN        -0.025
-3617            US10          jensen_system   [1]                107.125               None  106.976562  106.984375     106.96875   106.96875        107.0  0.148438 -0.007812 -0.015625     -0.03125                 NaN     -0.023438
-3618             NZD          jensen_system  [-1]                  0.555               None    0.561975     0.56195         0.562       0.562        0.562  0.006975 -0.000025   0.00005         -0.0                 NaN      0.000025
-3619          RUBBER  _ROLL_PSEUDO_STRATEGY   [1]                  237.9               None      240.55       240.6         240.5       240.5        240.5     -2.65     -0.05       0.1          0.0                 NaN          0.05
-3620          RUBBER  _ROLL_PSEUDO_STRATEGY  [-1]                  237.8               None       239.9       239.8         240.0         NaN        239.6       2.1      -0.1      -0.2          NaN                 NaN          -0.3
-3621          RUBBER  _ROLL_PSEUDO_STRATEGY   [1]                  237.9               None       240.5       240.6         240.4       240.4        239.9      -2.6      -0.1       0.7          0.5                 NaN           0.6
-3622          RUBBER  _ROLL_PSEUDO_STRATEGY  [-1]                  237.8               None       239.8       239.7         239.9         NaN        239.7       2.0      -0.1      -0.0          NaN                 NaN          -0.1
-3623             DAX          jensen_system  [-1]                25777.0               None     26619.0     26618.0       26620.0     26620.0      26612.0     842.0      -1.0      -6.0         -8.0                 NaN          -7.0
+     instrument_code  strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price   delay bid_ask execution versus_limit versus_parent_limit total_trading
+3624             DOW  jensen_system   [1]                52518.0               None   52158.0    52159.0       52157.0     52157.0      52159.0   360.0    -1.0       0.0         -2.0                 NaN          -1.0
+3625         LEANHOG  jensen_system  [-1]                 60.825               None   60.5625      60.55        60.575      60.575       60.575 -0.2625 -0.0125     0.025         -0.0                 NaN        0.0125
+3626          SILVER  jensen_system   [1]                  53.46               None    51.465      51.47         51.46       51.46        51.47   1.995  -0.005       0.0        -0.01                 NaN        -0.005
+3627           TOPIX  jensen_system   [1]                 3895.0               None   3930.75     3931.0        3930.5      3930.5      3930.25  -35.75   -0.25      0.75         0.25                 NaN           0.5
 
 
-===================================================================================================================================================================
-                                                       Slippage (normalised by annual vol, BP of annual SR)                                                        
-===================================================================================================================================================================
+==========================================================================================================================================================
+                                                   Slippage (normalised by annual vol, BP of annual SR)                                                   
+==========================================================================================================================================================
 
-     instrument_code          strategy_name trade last_annual_vol    delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
-3616   CRUDE_W_micro          jensen_system  [-1]         38.4203  -503.640008   -3.904186     -2.602791       -10.411163                     NaN         -6.506977
-3617            US10          jensen_system   [1]        5.552014   267.357912  -14.071469    -28.142938       -56.285876                     NaN        -42.214407
-3618             NZD          jensen_system  [-1]        0.051055  1366.172651   -4.896676      9.793352             -0.0                     NaN          4.896676
-3619          RUBBER  _ROLL_PSEUDO_STRATEGY   [1]       51.502179  -514.541332   -9.708327     19.416654              0.0                     NaN          9.708327
-3620          RUBBER  _ROLL_PSEUDO_STRATEGY  [-1]       51.502179   407.749735  -19.416654    -38.833308              NaN                     NaN        -58.249962
-3621          RUBBER  _ROLL_PSEUDO_STRATEGY   [1]       51.502179  -504.833005  -19.416654    135.916578         97.08327                     NaN        116.499924
-3622          RUBBER  _ROLL_PSEUDO_STRATEGY  [-1]       51.502179   388.333081  -19.416654          -0.0              NaN                     NaN        -19.416654
-3623             DAX          jensen_system  [-1]     4923.361054  1710.213797   -2.031133    -12.186797       -16.249062                     NaN        -14.217929
+     instrument_code  strategy_name trade last_annual_vol   delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
+3624             DOW  jensen_system   [1]     8754.865468  411.199922   -1.142222           0.0        -2.284444                     NaN         -1.142222
+3625         LEANHOG  jensen_system  [-1]       17.686025 -148.422268   -7.067727     14.135454             -0.0                     NaN          7.067727
+3626          SILVER  jensen_system   [1]       26.126261  763.599505   -1.913783           0.0        -3.827566                     NaN         -1.913783
+3627           TOPIX  jensen_system   [1]      890.217409 -401.587294   -2.808303      8.424908         2.808303                     NaN          5.616606
 
 
-===========================================================================================================================================================================
-                                                                        Slippage (In base currency)                                                                        
-===========================================================================================================================================================================
+====================================================================================================================================================================
+                                                                    Slippage (In base currency)                                                                     
+====================================================================================================================================================================
 
-     instrument_code          strategy_name trade value_of_price_point delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
-3616   CRUDE_W_micro          jensen_system  [-1]                100.0     -193.5         -1.5           -1.0              -4.0                      NaN               -2.5
-3617            US10          jensen_system   [1]               1000.0   148.4375      -7.8125        -15.625            -31.25                      NaN           -23.4375
-3618             NZD          jensen_system  [-1]             100000.0      697.5         -2.5            5.0              -0.0                      NaN                2.5
-3619          RUBBER  _ROLL_PSEUDO_STRATEGY   [1]                 50.0     -132.5         -2.5            5.0               0.0                      NaN                2.5
-3620          RUBBER  _ROLL_PSEUDO_STRATEGY  [-1]                 50.0      105.0         -5.0          -10.0               NaN                      NaN              -15.0
-3621          RUBBER  _ROLL_PSEUDO_STRATEGY   [1]                 50.0     -130.0         -5.0           35.0              25.0                      NaN               30.0
-3622          RUBBER  _ROLL_PSEUDO_STRATEGY  [-1]                 50.0      100.0         -5.0           -0.0               NaN                      NaN               -5.0
-3623             DAX          jensen_system  [-1]              1.12273  945.33866     -1.12273       -6.73638          -8.98184                      NaN           -7.85911
+     instrument_code  strategy_name trade value_of_price_point  delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
+3624             DOW  jensen_system   [1]                  0.5       180.0         -0.5            0.0              -1.0                      NaN               -0.5
+3625         LEANHOG  jensen_system  [-1]                400.0      -105.0         -5.0           10.0              -0.0                      NaN                5.0
+3626          SILVER  jensen_system   [1]               1000.0      1995.0         -5.0            0.0             -10.0                      NaN               -5.0
+3627           TOPIX  jensen_system   [1]              6.29394 -225.008339    -1.573485       4.720455          1.573485                      NaN            3.14697
 
 delay_cash Sum
-                                      delay_cash
-strategy_name         instrument_code           
-_ROLL_PSEUDO_STRATEGY RUBBER               -57.5
-jensen_system         CRUDE_W_micro       -193.5
-                      DAX              945.33866
-                      NZD                  697.5
-                      US10              148.4375
+                               delay_cash
+strategy_name instrument_code            
+jensen_system DOW                   180.0
+              LEANHOG              -105.0
+              SILVER               1995.0
+              TOPIX           -225.008339
 delay_cash Total Sum
-                       delay_cash
-strategy_name                    
-_ROLL_PSEUDO_STRATEGY       -57.5
-jensen_system          1597.77616
+                delay_cash
+strategy_name             
+jensen_system  1844.991661
 bid_ask_cash Sum
-                                      bid_ask_cash
-strategy_name         instrument_code             
-_ROLL_PSEUDO_STRATEGY RUBBER                 -17.5
-jensen_system         CRUDE_W_micro           -1.5
-                      DAX                 -1.12273
-                      NZD                     -2.5
-                      US10                 -7.8125
+                              bid_ask_cash
+strategy_name instrument_code             
+jensen_system DOW                     -0.5
+              LEANHOG                 -5.0
+              SILVER                  -5.0
+              TOPIX              -1.573485
 bid_ask_cash Total Sum
-                      bid_ask_cash
-strategy_name                     
-_ROLL_PSEUDO_STRATEGY        -17.5
-jensen_system            -12.93523
+              bid_ask_cash
+strategy_name             
+jensen_system   -12.073485
 execution_cash Sum
-                                      execution_cash
-strategy_name         instrument_code               
-_ROLL_PSEUDO_STRATEGY RUBBER                    30.0
-jensen_system         CRUDE_W_micro             -1.0
-                      DAX                   -6.73638
-                      NZD                        5.0
-                      US10                   -15.625
+                              execution_cash
+strategy_name instrument_code               
+jensen_system DOW                        0.0
+              LEANHOG                   10.0
+              SILVER                     0.0
+              TOPIX                 4.720455
 execution_cash Total Sum
-                      execution_cash
-strategy_name                       
-_ROLL_PSEUDO_STRATEGY           30.0
-jensen_system              -18.36138
+              execution_cash
+strategy_name               
+jensen_system      14.720455
 versus_limit_cash Sum
-                                      versus_limit_cash
-strategy_name         instrument_code                  
-_ROLL_PSEUDO_STRATEGY RUBBER                       25.0
-jensen_system         CRUDE_W_micro                -4.0
-                      DAX                      -8.98184
-                      NZD                          -0.0
-                      US10                       -31.25
+                              versus_limit_cash
+strategy_name instrument_code                  
+jensen_system DOW                          -1.0
+              LEANHOG                      -0.0
+              SILVER                      -10.0
+              TOPIX                    1.573485
 versus_limit_cash Total Sum
-                      versus_limit_cash
-strategy_name                          
-_ROLL_PSEUDO_STRATEGY              25.0
-jensen_system                 -44.23184
+              versus_limit_cash
+strategy_name                  
+jensen_system         -9.426515
 versus_parent_limit_cash Sum
-                                      versus_parent_limit_cash
-strategy_name         instrument_code                         
-_ROLL_PSEUDO_STRATEGY RUBBER                                 0
-jensen_system         CRUDE_W_micro                          0
-                      DAX                                    0
-                      NZD                                    0
-                      US10                                   0
+                              versus_parent_limit_cash
+strategy_name instrument_code                         
+jensen_system DOW                                    0
+              LEANHOG                                0
+              SILVER                                 0
+              TOPIX                                  0
 versus_parent_limit_cash Total Sum
-                      versus_parent_limit_cash
-strategy_name                                 
-_ROLL_PSEUDO_STRATEGY                        0
-jensen_system                                0
+              versus_parent_limit_cash
+strategy_name                         
+jensen_system                        0
 total_trading_cash Sum
-                                      total_trading_cash
-strategy_name         instrument_code                   
-_ROLL_PSEUDO_STRATEGY RUBBER                        12.5
-jensen_system         CRUDE_W_micro                 -2.5
-                      DAX                       -7.85911
-                      NZD                            2.5
-                      US10                      -23.4375
+                              total_trading_cash
+strategy_name instrument_code                   
+jensen_system DOW                           -0.5
+              LEANHOG                        5.0
+              SILVER                        -5.0
+              TOPIX                      3.14697
 total_trading_cash Total Sum
-                      total_trading_cash
-strategy_name                           
-_ROLL_PSEUDO_STRATEGY               12.5
-jensen_system                  -31.29661
+              total_trading_cash
+strategy_name                   
+jensen_system            2.64697
 
 ********************************************************************************
                                  END OF REPORT                                  

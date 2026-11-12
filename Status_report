@@ -1,6 +1,6 @@
 
 ********************************************************************************
-                   Status report produced on 10/11/2026 19:53                   
+                   Status report produced on 11/11/2026 19:52                   
 ********************************************************************************
 
 
@@ -13,10 +13,10 @@ Delayed methods: No delays
                       last_update
 HOUSE-US      2026-10-27 03:00:00
 TIN_LME       2026-11-04 23:00:00
-LEAD_LME      2026-11-05 01:00:00
 ZINC_LME      2026-11-05 01:00:00
-ALUMINIUM_LME 2026-11-05 02:00:00
+LEAD_LME      2026-11-05 01:00:00
 COPPER_LME    2026-11-05 02:00:00
+ALUMINIUM_LME 2026-11-05 02:00:00
 NICKEL_LME    2026-11-05 02:00:02
 
 Delayed optimal positions: No delays
@@ -54,238 +54,238 @@ Status of adjusted price / FX price collection
                         last_update
 HOUSE-US        2026-10-27 03:00:00
 TIN_LME         2026-11-04 23:00:00
-LEAD_LME        2026-11-05 01:00:00
 ZINC_LME        2026-11-05 01:00:00
-ALUMINIUM_LME   2026-11-05 02:00:00
+LEAD_LME        2026-11-05 01:00:00
 COPPER_LME      2026-11-05 02:00:00
+ALUMINIUM_LME   2026-11-05 02:00:00
 NICKEL_LME      2026-11-05 02:00:02
-EU-AUTO         2026-11-09 23:00:00
-EU-HOUSE        2026-11-09 23:00:00
-GASOILINE_micro 2026-11-09 23:00:00
-CNH-onshore     2026-11-09 23:00:00
-COAL            2026-11-09 23:00:00
-PLN             2026-11-09 23:00:00
-COCOA_LDN       2026-11-09 23:00:00
-EU-FOOD         2026-11-09 23:00:00
-EU-DJ-TELECOM   2026-11-09 23:00:00
-EU-DJ-OIL       2026-11-09 23:00:00
-OMX             2026-11-09 23:00:00
-EU-INSURE       2026-11-09 23:00:00
-EU-CONSTRUCTION 2026-11-09 23:00:00
-EU-CHEM         2026-11-09 23:00:00
-GAS-PEN         2026-11-09 23:00:00
-CZK             2026-11-09 23:00:00
-DJSTX-SMALL     2026-11-09 23:00:00
-EU-BASIC        2026-11-09 23:00:00
-FTSE250*        2026-11-09 23:00:00
-EU-DJ-TECH      2026-11-09 23:00:00
-CHFJPY          2026-11-09 23:00:00
-MSCIWORLD       2026-11-09 23:00:00
-SUGAR16         2026-11-09 23:00:00
-EUROSTX-SMALL   2026-11-09 23:00:00
-EUROSTX-LARGE   2026-11-09 23:00:00
-AUDJPY          2026-11-09 23:00:00
-MILKDRY         2026-11-09 23:00:00
-BOVESPA         2026-11-09 23:00:00
-MSCIEMASIA      2026-11-09 23:00:00
-SWISSLEAD       2026-11-09 23:00:00
-EUA*            2026-11-09 23:00:00
-EU-TRAVEL       2026-11-09 23:00:00
-SMI-MID         2026-11-09 23:00:00
-EU-RETAIL       2026-11-09 23:00:00
-EU-REALESTATE   2026-11-09 23:00:00
-EU-MID          2026-11-09 23:00:00
-EU-MEDIA        2026-11-09 23:00:00
-CH10            2026-11-09 23:00:00
-EU-TECH         2026-11-09 23:00:00
-WHEAT_ICE       2026-11-10 01:00:00
-EU-HEALTH       2026-11-10 01:00:00
-EU-OIL          2026-11-10 01:00:00
-SUGAR_WHITE*    2026-11-10 01:00:00
-IRS             2026-11-10 01:00:00
-BONO            2026-11-10 01:00:00
-MILKWET         2026-11-10 01:00:00
-SARONA          2026-11-10 01:00:00
-ROBUSTA         2026-11-10 01:00:00
-EU-DIV30        2026-11-10 02:00:00
-OJ              2026-11-10 02:00:00
-WHEY            2026-11-10 02:00:00
-COFFEE          2026-11-10 02:00:00
-COCOA           2026-11-10 02:00:00
-KRWUSD          2026-11-10 03:00:00
-SOYOIL          2026-11-10 03:00:00
-SOYMEAL         2026-11-10 03:00:00
-BBCOMM          2026-11-10 03:00:00
-SOYBEAN_mini    2026-11-10 03:00:00
-MILLWHEAT       2026-11-10 03:00:00
-SOYBEAN         2026-11-10 03:00:00
-EU-UTILS        2026-11-10 03:00:00
-WHEAT_mini      2026-11-10 03:00:00
-GBPJPY          2026-11-10 03:00:00
-WHEAT           2026-11-10 03:00:00
-FEEDCOW         2026-11-10 03:00:00
-STEEL           2026-11-10 03:00:00
-RICE            2026-11-10 03:00:00
-REDWHEAT*       2026-11-10 03:00:00
-EU-DJ-UTIL      2026-11-10 03:00:00
-CORN            2026-11-10 03:00:00
-CORN_mini       2026-11-10 03:00:00
-LEANHOG*        2026-11-10 03:00:00
-OATIES          2026-11-10 03:00:00
-LIVECOW         2026-11-10 03:00:00
-US-DISCRETE     2026-11-10 04:00:00
-IBEX            2026-11-10 04:00:00
-IG              2026-11-10 04:00:00
-GICS            2026-11-10 04:00:00
-INR             2026-11-10 04:00:00
-US-TECH         2026-11-10 04:00:00
-US-PROPERTY     2026-11-10 04:00:00
-HIGHYIELD       2026-11-10 04:00:00
-US-INDUSTRY     2026-11-10 04:00:00
-R1000*          2026-11-10 04:00:00
-ALUMINIUM       2026-11-10 04:00:00
-NOK             2026-11-10 04:00:00
-LUMBER-new      2026-11-10 04:00:00
-US-FINANCE      2026-11-10 05:00:00
-SOFR            2026-11-10 05:00:00
-US-ENERGY       2026-11-10 05:00:00
-SP500_micro     2026-11-10 05:00:00
-HEATOIL         2026-11-10 05:00:00
-SILVER*         2026-11-10 05:00:00
-SEK             2026-11-10 05:00:00
-RUSSELL_mini    2026-11-10 05:00:00
-MILK            2026-11-10 05:00:00
-PLAT            2026-11-10 05:00:00
-PALLAD*         2026-11-10 05:00:00
-NZD*            2026-11-10 05:00:00
-JPY*            2026-11-10 05:00:00
-JPY_mini        2026-11-10 05:00:00
-NASDAQ_micro    2026-11-10 05:00:00
-NASDAQ          2026-11-10 05:00:00
-MXP             2026-11-10 05:00:00
-US-HEALTH       2026-11-10 05:00:00
-RUSSELL         2026-11-10 05:00:00
-US-UTILS        2026-11-10 05:00:00
-SP500           2026-11-10 05:00:00
-GOLD_micro      2026-11-10 05:00:00
-US20            2026-11-10 05:00:00
-DOW_mini        2026-11-10 05:00:00
-US-MATERIAL     2026-11-10 05:00:00
-US3             2026-11-10 05:00:00
-CRUDE_W_mini    2026-11-10 05:00:00
-CRUDE_W_micro*  2026-11-10 05:00:00
-CRUDE_W         2026-11-10 05:00:00
-COPPER-mini     2026-11-10 05:00:00
-COPPER-micro    2026-11-10 05:00:00
-COPPER          2026-11-10 05:00:00
-US30            2026-11-10 05:00:00
-US5             2026-11-10 05:00:00
-ETHEREUM        2026-11-10 05:00:00
-CHF_micro       2026-11-10 05:00:00
-CHEESE          2026-11-10 05:00:00
-CAD_micro       2026-11-10 05:00:00
-VIX             2026-11-10 05:00:00
-VIX_mini*       2026-11-10 05:00:00
-CAD             2026-11-10 05:00:00
-BUTTER          2026-11-10 05:00:00
-YENEUR          2026-11-10 05:00:00
-ZAR             2026-11-10 05:00:00
-BRE             2026-11-10 05:00:00
-BITCOIN         2026-11-10 05:00:00
-AUD_micro       2026-11-10 05:00:00
-AUD             2026-11-10 05:00:00
-CHF*            2026-11-10 05:00:00
-US2             2026-11-10 05:00:00
-DOW*            2026-11-10 05:00:00
-EURAUD          2026-11-10 05:00:00
-US-REALESTATE   2026-11-10 05:00:00
-GAS_US*         2026-11-10 05:00:00
-EUR             2026-11-10 05:00:00
-GAS_US_mini     2026-11-10 05:00:00
-GBP             2026-11-10 05:00:00
-GAS-LAST        2026-11-10 05:00:00
-US-STAPLES      2026-11-10 05:00:00
-SP400           2026-11-10 05:00:00
-FED             2026-11-10 05:00:00
-GBPCHF          2026-11-10 05:00:00
-EUR_mini        2026-11-10 05:00:00
-EUR_micro       2026-11-10 05:00:00
-GBP_micro       2026-11-10 05:00:00
-GOLD            2026-11-10 05:00:00
-US10            2026-11-10 05:00:00
-US10U           2026-11-10 05:00:00
-EURCHF          2026-11-10 05:00:00
-EURCAD          2026-11-10 05:00:00
-GOLD-mini       2026-11-10 05:00:00
-GBPEUR          2026-11-10 05:00:00
-GASOILINE       2026-11-10 05:00:00
-VNKI            2026-11-10 08:00:00
-SGD_mini        2026-11-10 12:00:00
-SONIA3          2026-11-10 14:00:00
-JGB-SGX-mini*   2026-11-10 14:00:00
-IRON            2026-11-10 14:00:00
-CANOLA          2026-11-10 14:00:00
-TOPIX*          2026-11-10 14:00:00
-V2X*            2026-11-10 14:00:00
-JP-REALESTATE   2026-11-10 14:00:00
-COTTON2         2026-11-10 14:00:00
-CRUDE_ICE       2026-11-10 14:00:00
-FANG            2026-11-10 14:00:00
-NIKKEI400       2026-11-10 14:00:00
-NIKKEI          2026-11-10 14:00:00
-MUMMY           2026-11-10 14:00:00
-GASOILINE_ICE   2026-11-10 14:00:00
-SPI200          2026-11-10 15:00:00
-AEX*            2026-11-10 15:00:00
-HANGENT_mini    2026-11-10 15:00:00
-SHATZ           2026-11-10 15:00:00
-DX*             2026-11-10 15:00:00
-DAX             2026-11-10 15:00:00
-SMI             2026-11-10 15:00:00
-CNH             2026-11-10 15:00:00
-CHINAA-CON      2026-11-10 15:00:00
-CAD5            2026-11-10 15:00:00
-CAD2            2026-11-10 15:00:00
-CAD10           2026-11-10 15:00:00
-CAC             2026-11-10 15:00:00
-BUXL            2026-11-10 15:00:00
-BUND            2026-11-10 15:00:00
-BTP3            2026-11-10 15:00:00
-BTP             2026-11-10 15:00:00
-BRENT_W*        2026-11-10 15:00:00
-BOBL            2026-11-10 15:00:00
-EU-BANKS        2026-11-10 15:00:00
-EURO600         2026-11-10 15:00:00
-COAL-GEORDIE    2026-11-10 15:00:00
-FTSE100         2026-11-10 15:00:00
-SGX             2026-11-10 15:00:00
-RUBBER*         2026-11-10 15:00:00
-EUROSTX         2026-11-10 15:00:00
-MSCISING        2026-11-10 15:00:00
-MSCIEAFA        2026-11-10 15:00:00
-JGB             2026-11-10 15:00:00
-HEATOIL-ICE     2026-11-10 15:00:00
-HANG_mini       2026-11-10 15:00:00
-OAT*            2026-11-10 15:00:00
-HANGENT         2026-11-10 15:00:00
-HANG            2026-11-10 15:00:00
-GILT*           2026-11-10 15:00:00
-GASOIL          2026-11-10 15:00:00
-FTSETAIWAN      2026-11-10 15:00:00
-FTSECHINAA*     2026-11-10 15:00:00
-HANGTECH        2026-11-10 15:00:00
-GBPUSD          2026-11-10 23:00:00
-CADUSD          2026-11-10 23:00:00
-CNHUSD          2026-11-10 23:00:00
-AUDUSD          2026-11-10 23:00:00
-CHFUSD          2026-11-10 23:00:00
-JPYUSD          2026-11-10 23:00:00
-EURUSD          2026-11-10 23:00:00
-HKDUSD          2026-11-10 23:00:00
-SEKUSD          2026-11-10 23:00:00
-MXPUSD          2026-11-10 23:00:00
-SGDUSD          2026-11-10 23:00:00
+VNKI            2026-11-10 23:00:00
+CNH-onshore     2026-11-10 23:00:00
+COAL-GEORDIE    2026-11-10 23:00:00
+COCOA_LDN       2026-11-10 23:00:00
 KRWUSD          2026-11-10 23:00:00
+SMI-MID         2026-11-10 23:00:00
+IRS             2026-11-10 23:00:00
+CZK             2026-11-10 23:00:00
+SWISSLEAD       2026-11-10 23:00:00
+EU-DJ-TECH      2026-11-10 23:00:00
+EU-DJ-UTIL      2026-11-10 23:00:00
+GBPCHF          2026-11-10 23:00:00
+GASOILINE_micro 2026-11-10 23:00:00
+EU-MEDIA        2026-11-10 23:00:00
+EU-MID          2026-11-10 23:00:00
+FTSE250*        2026-11-10 23:00:00
+EU-TECH         2026-11-10 23:00:00
+EU-TRAVEL       2026-11-10 23:00:00
+EU-UTILS        2026-11-10 23:00:00
+EU-DJ-OIL       2026-11-10 23:00:00
+CHFJPY          2026-11-10 23:00:00
+EUROSTX-LARGE   2026-11-10 23:00:00
+AUDJPY          2026-11-10 23:00:00
+BOVESPA         2026-11-10 23:00:00
+CH10            2026-11-10 23:00:00
+MSCIEMASIA      2026-11-10 23:00:00
+BONO            2026-11-10 23:00:00
+OMX             2026-11-10 23:00:00
+SUGAR16         2026-11-10 23:00:00
+MSCIWORLD       2026-11-10 23:00:00
+SUGAR_WHITE*    2026-11-11 01:00:00
+EU-INSURE       2026-11-11 01:00:00
+WHEAT_ICE       2026-11-11 01:00:00
+EURCAD          2026-11-11 01:00:00
+ROBUSTA         2026-11-11 01:00:00
+COAL            2026-11-11 01:00:00
+CAD2            2026-11-11 02:00:00
+COFFEE          2026-11-11 02:00:00
+CAD10           2026-11-11 02:00:00
+CAD5            2026-11-11 02:00:00
+COCOA           2026-11-11 02:00:00
+GAS-PEN         2026-11-11 02:00:00
+WHEY            2026-11-11 02:00:00
+OJ              2026-11-11 02:00:00
+RICE            2026-11-11 02:00:00
+BBCOMM          2026-11-11 03:00:00
+OATIES          2026-11-11 03:00:00
+SOYOIL          2026-11-11 03:00:00
+FEEDCOW         2026-11-11 03:00:00
+GBPJPY          2026-11-11 03:00:00
+SOYMEAL         2026-11-11 03:00:00
+LEANHOG*        2026-11-11 03:00:00
+SOYBEAN         2026-11-11 03:00:00
+WHEAT_mini      2026-11-11 03:00:00
+LIVECOW         2026-11-11 03:00:00
+MILKDRY         2026-11-11 03:00:00
+CANOLA          2026-11-11 03:00:00
+MILKWET         2026-11-11 03:00:00
+WHEAT           2026-11-11 03:00:00
+REDWHEAT*       2026-11-11 03:00:00
+MILLWHEAT       2026-11-11 03:00:00
+SOYBEAN_mini    2026-11-11 03:00:00
+CORN_mini       2026-11-11 03:00:00
+CORN            2026-11-11 03:00:00
+US-INDUSTRY     2026-11-11 04:00:00
+JPY_mini        2026-11-11 04:00:00
+R1000*          2026-11-11 04:00:00
+US-ENERGY       2026-11-11 04:00:00
+GAS-LAST        2026-11-11 04:00:00
+US-DISCRETE     2026-11-11 04:00:00
+INR             2026-11-11 04:00:00
+IG              2026-11-11 04:00:00
+HIGHYIELD       2026-11-11 04:00:00
+GICS            2026-11-11 04:00:00
+US-HEALTH       2026-11-11 04:00:00
+PLN             2026-11-11 04:00:00
+EURAUD          2026-11-11 04:00:00
+US-PROPERTY     2026-11-11 04:00:00
+US-UTILS        2026-11-11 04:00:00
+US-TECH         2026-11-11 04:00:00
+US-STAPLES      2026-11-11 04:00:00
+COPPER-micro    2026-11-11 04:00:00
+BUTTER          2026-11-11 04:00:00
+EURCHF          2026-11-11 04:00:00
+COPPER-mini     2026-11-11 05:00:00
+JPY*            2026-11-11 05:00:00
+CRUDE_W_micro*  2026-11-11 05:00:00
+COPPER          2026-11-11 05:00:00
+CAD_micro       2026-11-11 05:00:00
+CRUDE_W_mini    2026-11-11 05:00:00
+VIX_mini*       2026-11-11 05:00:00
+CHF_micro       2026-11-11 05:00:00
+CHF*            2026-11-11 05:00:00
+LUMBER-new      2026-11-11 05:00:00
+MILK            2026-11-11 05:00:00
+CHEESE          2026-11-11 05:00:00
+CRUDE_W         2026-11-11 05:00:00
+SOFR            2026-11-11 05:00:00
+US-MATERIAL     2026-11-11 05:00:00
+VIX             2026-11-11 05:00:00
+ALUMINIUM       2026-11-11 05:00:00
+AUD             2026-11-11 05:00:00
+AUD_micro       2026-11-11 05:00:00
+SP500           2026-11-11 05:00:00
+NZD*            2026-11-11 05:00:00
+NOK             2026-11-11 05:00:00
+CAD             2026-11-11 05:00:00
+SP500_micro     2026-11-11 05:00:00
+BRE             2026-11-11 05:00:00
+NASDAQ_micro    2026-11-11 05:00:00
+NASDAQ          2026-11-11 05:00:00
+MXP             2026-11-11 05:00:00
+ZAR             2026-11-11 05:00:00
+STEEL           2026-11-11 05:00:00
+BITCOIN         2026-11-11 05:00:00
+YENEUR          2026-11-11 05:00:00
+DOW_mini        2026-11-11 05:00:00
+SILVER          2026-11-11 05:00:00
+PALLAD*         2026-11-11 05:00:00
+EUR_micro       2026-11-11 05:00:00
+EUR_mini        2026-11-11 05:00:00
+FED             2026-11-11 05:00:00
+EUR             2026-11-11 05:00:00
+SEK             2026-11-11 05:00:00
+US-REALESTATE   2026-11-11 05:00:00
+RUSSELL_mini    2026-11-11 05:00:00
+US-FINANCE      2026-11-11 05:00:00
+GASOILINE       2026-11-11 05:00:00
+US10            2026-11-11 05:00:00
+GAS_US*         2026-11-11 05:00:00
+GAS_US_mini     2026-11-11 05:00:00
+DOW             2026-11-11 05:00:00
+US10U           2026-11-11 05:00:00
+GBP             2026-11-11 05:00:00
+US2             2026-11-11 05:00:00
+ETHEREUM        2026-11-11 05:00:00
+HEATOIL         2026-11-11 05:00:00
+US5             2026-11-11 05:00:00
+US30            2026-11-11 05:00:00
+SP400           2026-11-11 05:00:00
+EU-BASIC        2026-11-11 05:00:00
+GBPEUR          2026-11-11 05:00:00
+US3             2026-11-11 05:00:00
+GOLD-mini       2026-11-11 05:00:00
+GOLD            2026-11-11 05:00:00
+RUSSELL         2026-11-11 05:00:00
+US20            2026-11-11 05:00:00
+GBP_micro       2026-11-11 05:00:00
+GOLD_micro      2026-11-11 05:00:00
+PLAT            2026-11-11 05:00:00
+SGD_mini        2026-11-11 11:00:00
+GASOILINE_ICE   2026-11-11 12:00:00
+JP-REALESTATE   2026-11-11 14:00:00
+MUMMY           2026-11-11 14:00:00
+FANG            2026-11-11 15:00:00
+JGB-SGX-mini*   2026-11-11 15:00:00
+CHINAA-CON      2026-11-11 15:00:00
+COTTON2         2026-11-11 15:00:00
+CRUDE_ICE       2026-11-11 15:00:00
+V2X*            2026-11-11 15:00:00
+EU-DIV30        2026-11-11 15:00:00
+EUA*            2026-11-11 15:00:00
+SONIA3          2026-11-11 15:00:00
+FTSE100         2026-11-11 15:00:00
+FTSECHINAA*     2026-11-11 15:00:00
+GILT*           2026-11-11 15:00:00
+HEATOIL-ICE     2026-11-11 15:00:00
+IBEX            2026-11-11 15:00:00
+IRON            2026-11-11 15:00:00
+SARONA          2026-11-11 15:30:00
+TOPIX           2026-11-11 16:00:00
+SPI200          2026-11-11 16:00:00
+AEX*            2026-11-11 16:00:00
+HANGENT_mini    2026-11-11 16:00:00
+SHATZ           2026-11-11 16:00:00
+EU-HEALTH       2026-11-11 16:00:00
+EU-FOOD         2026-11-11 16:00:00
+EU-DJ-TELECOM   2026-11-11 16:00:00
+SMI             2026-11-11 16:00:00
+EU-CHEM         2026-11-11 16:00:00
+EU-BANKS        2026-11-11 16:00:00
+EU-AUTO         2026-11-11 16:00:00
+DX*             2026-11-11 16:00:00
+EU-HOUSE        2026-11-11 16:00:00
+DJSTX-SMALL     2026-11-11 16:00:00
+CNH             2026-11-11 16:00:00
+CAC             2026-11-11 16:00:00
+BUXL            2026-11-11 16:00:00
+BUND            2026-11-11 16:00:00
+BTP3            2026-11-11 16:00:00
+BTP             2026-11-11 16:00:00
+BRENT_W*        2026-11-11 16:00:00
+BOBL            2026-11-11 16:00:00
+DAX             2026-11-11 16:00:00
+EU-OIL          2026-11-11 16:00:00
+EU-CONSTRUCTION 2026-11-11 16:00:00
+EU-RETAIL       2026-11-11 16:00:00
+SGX             2026-11-11 16:00:00
+RUBBER*         2026-11-11 16:00:00
+OAT*            2026-11-11 16:00:00
+EU-REALESTATE   2026-11-11 16:00:00
+NIKKEI          2026-11-11 16:00:00
+MSCISING        2026-11-11 16:00:00
+MSCIEAFA        2026-11-11 16:00:00
+JGB             2026-11-11 16:00:00
+HANG_mini       2026-11-11 16:00:00
+NIKKEI400       2026-11-11 16:00:00
+HANGENT         2026-11-11 16:00:00
+HANG            2026-11-11 16:00:00
+GASOIL          2026-11-11 16:00:00
+FTSETAIWAN      2026-11-11 16:00:00
+EUROSTX-SMALL   2026-11-11 16:00:00
+EUROSTX         2026-11-11 16:00:00
+EURO600         2026-11-11 16:00:00
+HANGTECH        2026-11-11 16:00:00
+GBPUSD          2026-11-11 23:00:00
+CADUSD          2026-11-11 23:00:00
+CNHUSD          2026-11-11 23:00:00
+AUDUSD          2026-11-11 23:00:00
+CHFUSD          2026-11-11 23:00:00
+SEKUSD          2026-11-11 23:00:00
+EURUSD          2026-11-11 23:00:00
+HKDUSD          2026-11-11 23:00:00
+JPYUSD          2026-11-11 23:00:00
+MXPUSD          2026-11-11 23:00:00
+SGDUSD          2026-11-11 23:00:00
+KRWUSD          2026-11-11 23:00:00
 
 
 ========================================================
@@ -293,177 +293,177 @@ KRWUSD          2026-11-10 23:00:00
 ========================================================
 
                                              last_update
-jensen_system/EURO600         2026-11-10 19:46:48.488024
-jensen_system/SILVER          2026-11-10 19:46:48.488117
-jensen_system/ETHEREUM        2026-11-10 19:46:48.488197
-jensen_system/JPY             2026-11-10 19:46:48.488276
-jensen_system/IBEX            2026-11-10 19:46:48.488353
-jensen_system/RUBBER          2026-11-10 19:46:48.488430
-jensen_system/EU-RETAIL       2026-11-10 19:46:48.488507
-jensen_system/EU-TRAVEL       2026-11-10 19:46:48.488582
-jensen_system/DOW             2026-11-10 19:46:48.488658
-jensen_system/DJSTX-SMALL     2026-11-10 19:46:48.488735
-jensen_system/BOBL            2026-11-10 19:46:48.488812
-jensen_system/MUMMY           2026-11-10 19:46:48.488888
-jensen_system/SOYMEAL         2026-11-10 19:46:48.488964
-jensen_system/EU-OIL          2026-11-10 19:46:48.489040
-jensen_system/EU-MID          2026-11-10 19:46:48.489116
-jensen_system/EU-HOUSE        2026-11-10 19:46:48.489196
-jensen_system/FTSECHINAA      2026-11-10 19:46:48.489271
-jensen_system/BTP3            2026-11-10 19:46:48.489347
-jensen_system/CHF             2026-11-10 19:46:48.489425
-jensen_system/CHINAA-CON      2026-11-10 19:46:48.489501
-jensen_system/BONO            2026-11-10 19:46:48.489577
-jensen_system/BRENT_W         2026-11-10 19:46:48.489654
-jensen_system/US-INDUSTRY     2026-11-10 19:46:48.489731
-jensen_system/MILK            2026-11-10 19:46:48.489809
-jensen_system/ROBUSTA         2026-11-10 19:46:48.489887
-jensen_system/LEAD_LME        2026-11-10 19:46:48.489964
-jensen_system/MILKDRY         2026-11-10 19:46:48.490040
-jensen_system/NICKEL_LME      2026-11-10 19:46:48.490117
-jensen_system/BTP             2026-11-10 19:46:48.490193
-jensen_system/US-TECH         2026-11-10 19:46:48.490273
-jensen_system/EUROSTX-LARGE   2026-11-10 19:46:48.490350
-jensen_system/PALLAD          2026-11-10 19:46:48.490427
-jensen_system/SGD_mini        2026-11-10 19:46:48.490505
-jensen_system/SOFR            2026-11-10 19:46:48.490582
-jensen_system/PLN             2026-11-10 19:46:48.490659
-jensen_system/CAD             2026-11-10 19:46:48.490735
-jensen_system/SARONA          2026-11-10 19:46:48.490814
-jensen_system/US-STAPLES      2026-11-10 19:46:48.490890
-jensen_system/EU-DJ-TELECOM   2026-11-10 19:46:48.490965
-jensen_system/SOYBEAN_mini    2026-11-10 19:46:48.491042
-jensen_system/SP500_micro     2026-11-10 19:46:48.491118
-jensen_system/NIKKEI          2026-11-10 19:46:48.491194
-jensen_system/EU-AUTO         2026-11-10 19:46:48.491273
-jensen_system/MXP             2026-11-10 19:46:48.491350
-jensen_system/CAD2            2026-11-10 19:46:48.491429
-jensen_system/US-DISCRETE     2026-11-10 19:46:48.491504
-jensen_system/US-HEALTH       2026-11-10 19:46:48.491580
-jensen_system/US-PROPERTY     2026-11-10 19:46:48.491655
-jensen_system/BUXL            2026-11-10 19:46:48.491731
-jensen_system/SOYOIL          2026-11-10 19:46:48.491807
-jensen_system/GBP             2026-11-10 19:46:48.491884
-jensen_system/ZINC_LME        2026-11-10 19:46:48.491959
-jensen_system/ALUMINIUM_LME   2026-11-10 19:46:48.492034
-jensen_system/EU-DJ-TECH      2026-11-10 19:46:48.492109
-jensen_system/FTSE100         2026-11-10 19:46:48.492184
-jensen_system/US-MATERIAL     2026-11-10 19:46:48.492260
-jensen_system/CNH-onshore     2026-11-10 19:46:48.492339
-jensen_system/EU-UTILS        2026-11-10 19:46:48.492415
-jensen_system/GILT            2026-11-10 19:46:48.492491
-jensen_system/BUND            2026-11-10 19:46:48.492566
-jensen_system/V2X             2026-11-10 19:46:48.492640
-jensen_system/US-UTILS        2026-11-10 19:46:48.492715
-jensen_system/PLAT            2026-11-10 19:46:48.492792
-jensen_system/AEX             2026-11-10 19:46:48.492868
-jensen_system/RICE            2026-11-10 19:46:48.492944
-jensen_system/COPPER-micro    2026-11-10 19:46:48.493019
-jensen_system/SGX             2026-11-10 19:46:48.493095
-jensen_system/IRON            2026-11-10 19:46:48.493171
-jensen_system/US-REALESTATE   2026-11-10 19:46:48.493246
-jensen_system/BOVESPA         2026-11-10 19:46:48.493322
-jensen_system/EU-REALESTATE   2026-11-10 19:46:48.493402
-jensen_system/ZAR             2026-11-10 19:46:48.493477
-jensen_system/YENEUR          2026-11-10 19:46:48.493553
-jensen_system/BITCOIN         2026-11-10 19:46:48.493629
-jensen_system/EUA             2026-11-10 19:46:48.493706
-jensen_system/EU-BASIC        2026-11-10 19:46:48.493784
-jensen_system/GAS_US          2026-11-10 19:46:48.493860
-jensen_system/US5             2026-11-10 19:46:48.493936
-jensen_system/EURCAD          2026-11-10 19:46:48.494013
-jensen_system/LUMBER-new      2026-11-10 19:46:48.494090
-jensen_system/CANOLA          2026-11-10 19:46:48.494166
-jensen_system/IG              2026-11-10 19:46:48.494242
-jensen_system/US20            2026-11-10 19:46:48.494319
-jensen_system/MSCISING        2026-11-10 19:46:48.494395
-jensen_system/EURCHF          2026-11-10 19:46:48.494475
-jensen_system/CHEESE          2026-11-10 19:46:48.494551
-jensen_system/US-FINANCE      2026-11-10 19:46:48.494627
-jensen_system/R1000           2026-11-10 19:46:48.494703
-jensen_system/GOLD_micro      2026-11-10 19:46:48.494781
-jensen_system/GICS            2026-11-10 19:46:48.494857
-jensen_system/CAC             2026-11-10 19:46:48.494933
-jensen_system/CRUDE_W_micro   2026-11-10 19:46:48.495009
-jensen_system/OMX             2026-11-10 19:46:48.495085
-jensen_system/JGB             2026-11-10 19:46:48.495161
-jensen_system/AUD_micro       2026-11-10 19:46:48.495238
-jensen_system/CH10            2026-11-10 19:46:48.495314
-jensen_system/GBPCHF          2026-11-10 19:46:48.495389
-jensen_system/FEEDCOW         2026-11-10 19:46:48.495466
-jensen_system/SEK             2026-11-10 19:46:48.495544
-jensen_system/NZD             2026-11-10 19:46:48.495621
-jensen_system/GBPEUR          2026-11-10 19:46:48.495697
-jensen_system/MSCIEMASIA      2026-11-10 19:46:48.495774
-jensen_system/RUSSELL         2026-11-10 19:46:48.495850
-jensen_system/SWISSLEAD       2026-11-10 19:46:48.495926
-jensen_system/EU-HEALTH       2026-11-10 19:46:48.496002
-jensen_system/US30            2026-11-10 19:46:48.496078
-jensen_system/EU-MEDIA        2026-11-10 19:46:48.496154
-jensen_system/SUGAR_WHITE     2026-11-10 19:46:48.496230
-jensen_system/CAD5            2026-11-10 19:46:48.496306
-jensen_system/REDWHEAT        2026-11-10 19:46:48.496381
-jensen_system/US2             2026-11-10 19:46:48.496457
-jensen_system/WHEAT           2026-11-10 19:46:48.496531
-jensen_system/CHFJPY          2026-11-10 19:46:48.496609
-jensen_system/FED             2026-11-10 19:46:48.496685
-jensen_system/MILKWET         2026-11-10 19:46:48.496835
-jensen_system/US10            2026-11-10 19:46:48.496909
-jensen_system/NIKKEI400       2026-11-10 19:46:48.496985
-jensen_system/IRS             2026-11-10 19:46:48.497060
-jensen_system/AUDJPY          2026-11-10 19:46:48.497134
-jensen_system/US10U           2026-11-10 19:46:48.497210
-jensen_system/COTTON2         2026-11-10 19:46:48.497285
-jensen_system/MILLWHEAT       2026-11-10 19:46:48.497360
-jensen_system/EU-INSURE       2026-11-10 19:46:48.497434
-jensen_system/CORN            2026-11-10 19:46:48.497509
-jensen_system/EU-CHEM         2026-11-10 19:46:48.497584
-jensen_system/LIVECOW         2026-11-10 19:46:48.497661
-jensen_system/FTSETAIWAN      2026-11-10 19:46:48.497736
-jensen_system/DX              2026-11-10 19:46:48.497813
-jensen_system/DAX             2026-11-10 19:46:48.497888
-jensen_system/STEEL           2026-11-10 19:46:48.497964
-jensen_system/TOPIX           2026-11-10 19:46:48.498041
-jensen_system/SPI200          2026-11-10 19:46:48.498117
-jensen_system/OATIES          2026-11-10 19:46:48.498193
-jensen_system/NOK             2026-11-10 19:46:48.498268
-jensen_system/EURAUD          2026-11-10 19:46:48.498344
-jensen_system/FTSE250         2026-11-10 19:46:48.498418
-jensen_system/BBCOMM          2026-11-10 19:46:48.498494
-jensen_system/LEANHOG         2026-11-10 19:46:48.498570
-jensen_system/SMI             2026-11-10 19:46:48.498647
-jensen_system/OAT             2026-11-10 19:46:48.498727
-jensen_system/VIX_mini        2026-11-10 19:46:48.498805
-jensen_system/EU-TECH         2026-11-10 19:46:48.498881
-jensen_system/BRE             2026-11-10 19:46:48.498957
-jensen_system/EU-CONSTRUCTION 2026-11-10 19:46:48.499034
-jensen_system/CNH             2026-11-10 19:46:48.499109
-jensen_system/JP-REALESTATE   2026-11-10 19:46:48.499185
-jensen_system/EUROSTX         2026-11-10 19:46:48.499260
-jensen_system/SHATZ           2026-11-10 19:46:48.499337
-jensen_system/EUR_micro       2026-11-10 19:46:48.499414
-jensen_system/GBPJPY          2026-11-10 19:46:48.499492
-jensen_system/SONIA3          2026-11-10 19:46:48.499570
-jensen_system/COFFEE          2026-11-10 19:46:48.499647
-jensen_system/CZK             2026-11-10 19:46:48.499726
-jensen_system/HANGTECH        2026-11-10 19:46:48.499804
-jensen_system/JGB-SGX-mini    2026-11-10 19:46:48.499881
-jensen_system/EUROSTX-SMALL   2026-11-10 19:46:48.499958
-jensen_system/TIN_LME         2026-11-10 19:46:48.500034
-jensen_system/SP400           2026-11-10 19:46:48.500110
-jensen_system/US3             2026-11-10 19:46:48.500186
-jensen_system/FANG            2026-11-10 19:46:48.500262
-jensen_system/WHEY            2026-11-10 19:46:48.500338
-jensen_system/HIGHYIELD       2026-11-10 19:46:48.500414
-jensen_system/SMI-MID         2026-11-10 19:46:48.500491
-jensen_system/CAD10           2026-11-10 19:46:48.500568
-jensen_system/US-ENERGY       2026-11-10 19:46:48.500645
-jensen_system/EU-DJ-OIL       2026-11-10 19:46:48.500722
-jensen_system/VNKI            2026-11-10 19:46:48.500803
-jensen_system/EU-DJ-UTIL      2026-11-10 19:46:48.500879
-jensen_system/EU-FOOD         2026-11-10 19:46:48.500959
-jensen_system/EU-DIV30        2026-11-10 19:46:48.501037
-jensen_system/INR             2026-11-10 19:46:48.501113
+jensen_system/SOYMEAL         2026-11-11 19:46:48.746849
+jensen_system/CHEESE          2026-11-11 19:46:48.746971
+jensen_system/MXP             2026-11-11 19:46:48.747079
+jensen_system/US-TECH         2026-11-11 19:46:48.747183
+jensen_system/FEEDCOW         2026-11-11 19:46:48.747286
+jensen_system/CANOLA          2026-11-11 19:46:48.747390
+jensen_system/COFFEE          2026-11-11 19:46:48.747492
+jensen_system/LUMBER-new      2026-11-11 19:46:48.747595
+jensen_system/EU-UTILS        2026-11-11 19:46:48.747696
+jensen_system/EU-CHEM         2026-11-11 19:46:48.747800
+jensen_system/BBCOMM          2026-11-11 19:46:48.747902
+jensen_system/BTP3            2026-11-11 19:46:48.748004
+jensen_system/AUDJPY          2026-11-11 19:46:48.748105
+jensen_system/WHEY            2026-11-11 19:46:48.748207
+jensen_system/SMI-MID         2026-11-11 19:46:48.748308
+jensen_system/SOFR            2026-11-11 19:46:48.748410
+jensen_system/DAX             2026-11-11 19:46:48.748512
+jensen_system/SP500_micro     2026-11-11 19:46:48.748614
+jensen_system/NZD             2026-11-11 19:46:48.748716
+jensen_system/ALUMINIUM_LME   2026-11-11 19:46:48.748820
+jensen_system/JP-REALESTATE   2026-11-11 19:46:48.748922
+jensen_system/EU-DIV30        2026-11-11 19:46:48.749022
+jensen_system/EU-FOOD         2026-11-11 19:46:48.749123
+jensen_system/EUROSTX-SMALL   2026-11-11 19:46:48.749225
+jensen_system/EU-DJ-TELECOM   2026-11-11 19:46:48.749325
+jensen_system/EU-MEDIA        2026-11-11 19:46:48.749426
+jensen_system/JPY             2026-11-11 19:46:48.749527
+jensen_system/EU-REALESTATE   2026-11-11 19:46:48.749628
+jensen_system/BRENT_W         2026-11-11 19:46:48.749729
+jensen_system/US-INDUSTRY     2026-11-11 19:46:48.749832
+jensen_system/LEAD_LME        2026-11-11 19:46:48.749933
+jensen_system/FTSE100         2026-11-11 19:46:48.750034
+jensen_system/IBEX            2026-11-11 19:46:48.750135
+jensen_system/GBP             2026-11-11 19:46:48.750236
+jensen_system/BUXL            2026-11-11 19:46:48.750337
+jensen_system/US3             2026-11-11 19:46:48.750439
+jensen_system/GBPEUR          2026-11-11 19:46:48.750539
+jensen_system/CHINAA-CON      2026-11-11 19:46:48.750640
+jensen_system/SPI200          2026-11-11 19:46:48.750743
+jensen_system/US20            2026-11-11 19:46:48.750845
+jensen_system/TIN_LME         2026-11-11 19:46:48.750946
+jensen_system/EU-HOUSE        2026-11-11 19:46:48.751047
+jensen_system/DOW             2026-11-11 19:46:48.751147
+jensen_system/LIVECOW         2026-11-11 19:46:48.751248
+jensen_system/US-FINANCE      2026-11-11 19:46:48.751349
+jensen_system/SEK             2026-11-11 19:46:48.751449
+jensen_system/CAD5            2026-11-11 19:46:48.751550
+jensen_system/EU-TECH         2026-11-11 19:46:48.751651
+jensen_system/AUD_micro       2026-11-11 19:46:48.751754
+jensen_system/SMI             2026-11-11 19:46:48.751856
+jensen_system/IRON            2026-11-11 19:46:48.751957
+jensen_system/CORN            2026-11-11 19:46:48.752058
+jensen_system/EUA             2026-11-11 19:46:48.752159
+jensen_system/SOYBEAN_mini    2026-11-11 19:46:48.752259
+jensen_system/RUBBER          2026-11-11 19:46:48.752360
+jensen_system/EURAUD          2026-11-11 19:46:48.752461
+jensen_system/EU-MID          2026-11-11 19:46:48.752562
+jensen_system/REDWHEAT        2026-11-11 19:46:48.752663
+jensen_system/RUSSELL         2026-11-11 19:46:48.752766
+jensen_system/MILLWHEAT       2026-11-11 19:46:48.752868
+jensen_system/FTSE250         2026-11-11 19:46:48.752969
+jensen_system/GILT            2026-11-11 19:46:48.753070
+jensen_system/EURCAD          2026-11-11 19:46:48.753171
+jensen_system/SOYOIL          2026-11-11 19:46:48.753272
+jensen_system/BONO            2026-11-11 19:46:48.753372
+jensen_system/US-HEALTH       2026-11-11 19:46:48.753473
+jensen_system/GBPCHF          2026-11-11 19:46:48.753574
+jensen_system/US-PROPERTY     2026-11-11 19:46:48.753675
+jensen_system/CAD             2026-11-11 19:46:48.753778
+jensen_system/EURCHF          2026-11-11 19:46:48.753879
+jensen_system/YENEUR          2026-11-11 19:46:48.753980
+jensen_system/BITCOIN         2026-11-11 19:46:48.754081
+jensen_system/US-DISCRETE     2026-11-11 19:46:48.754183
+jensen_system/US-UTILS        2026-11-11 19:46:48.754284
+jensen_system/EUROSTX-LARGE   2026-11-11 19:46:48.754385
+jensen_system/SP400           2026-11-11 19:46:48.754486
+jensen_system/R1000           2026-11-11 19:46:48.754587
+jensen_system/NOK             2026-11-11 19:46:48.754689
+jensen_system/CRUDE_W_micro   2026-11-11 19:46:48.754793
+jensen_system/GICS            2026-11-11 19:46:48.754895
+jensen_system/EU-HEALTH       2026-11-11 19:46:48.754996
+jensen_system/EU-AUTO         2026-11-11 19:46:48.755098
+jensen_system/FANG            2026-11-11 19:46:48.755199
+jensen_system/MILK            2026-11-11 19:46:48.755300
+jensen_system/US30            2026-11-11 19:46:48.755401
+jensen_system/RICE            2026-11-11 19:46:48.755501
+jensen_system/AEX             2026-11-11 19:46:48.755603
+jensen_system/MSCIEMASIA      2026-11-11 19:46:48.755704
+jensen_system/MILKDRY         2026-11-11 19:46:48.755807
+jensen_system/INR             2026-11-11 19:46:48.755908
+jensen_system/PLAT            2026-11-11 19:46:48.756009
+jensen_system/BOBL            2026-11-11 19:46:48.756110
+jensen_system/CAC             2026-11-11 19:46:48.756211
+jensen_system/IG              2026-11-11 19:46:48.756312
+jensen_system/DJSTX-SMALL     2026-11-11 19:46:48.756413
+jensen_system/CNH-onshore     2026-11-11 19:46:48.756513
+jensen_system/EU-DJ-UTIL      2026-11-11 19:46:48.756614
+jensen_system/V2X             2026-11-11 19:46:48.756714
+jensen_system/EU-TRAVEL       2026-11-11 19:46:48.756817
+jensen_system/GBPJPY          2026-11-11 19:46:48.756917
+jensen_system/COPPER-micro    2026-11-11 19:46:48.757018
+jensen_system/HANGTECH        2026-11-11 19:46:48.757119
+jensen_system/CH10            2026-11-11 19:46:48.757220
+jensen_system/VIX_mini        2026-11-11 19:46:48.757320
+jensen_system/EU-BASIC        2026-11-11 19:46:48.757421
+jensen_system/SILVER          2026-11-11 19:46:48.757522
+jensen_system/ETHEREUM        2026-11-11 19:46:48.757623
+jensen_system/FED             2026-11-11 19:46:48.757723
+jensen_system/EU-RETAIL       2026-11-11 19:46:48.757825
+jensen_system/GOLD_micro      2026-11-11 19:46:48.757926
+jensen_system/TOPIX           2026-11-11 19:46:48.758027
+jensen_system/FTSECHINAA      2026-11-11 19:46:48.758127
+jensen_system/HIGHYIELD       2026-11-11 19:46:48.758227
+jensen_system/NIKKEI400       2026-11-11 19:46:48.758328
+jensen_system/ZINC_LME        2026-11-11 19:46:48.758428
+jensen_system/OAT             2026-11-11 19:46:48.758528
+jensen_system/ZAR             2026-11-11 19:46:48.758629
+jensen_system/CZK             2026-11-11 19:46:48.758729
+jensen_system/SONIA3          2026-11-11 19:46:48.758831
+jensen_system/ROBUSTA         2026-11-11 19:46:48.758932
+jensen_system/US-MATERIAL     2026-11-11 19:46:48.759032
+jensen_system/NIKKEI          2026-11-11 19:46:48.759133
+jensen_system/CHF             2026-11-11 19:46:48.759234
+jensen_system/FTSETAIWAN      2026-11-11 19:46:48.759334
+jensen_system/EU-DJ-TECH      2026-11-11 19:46:48.759434
+jensen_system/EUROSTX         2026-11-11 19:46:48.759535
+jensen_system/SGD_mini        2026-11-11 19:46:48.759636
+jensen_system/US2             2026-11-11 19:46:48.759736
+jensen_system/IRS             2026-11-11 19:46:48.759839
+jensen_system/US10U           2026-11-11 19:46:48.759940
+jensen_system/MSCISING        2026-11-11 19:46:48.760041
+jensen_system/CAD10           2026-11-11 19:46:48.760142
+jensen_system/US-STAPLES      2026-11-11 19:46:48.760242
+jensen_system/MILKWET         2026-11-11 19:46:48.760343
+jensen_system/JGB             2026-11-11 19:46:48.760443
+jensen_system/CAD2            2026-11-11 19:46:48.760545
+jensen_system/LEANHOG         2026-11-11 19:46:48.760645
+jensen_system/OATIES          2026-11-11 19:46:48.760747
+jensen_system/SGX             2026-11-11 19:46:48.760848
+jensen_system/EU-CONSTRUCTION 2026-11-11 19:46:48.760950
+jensen_system/CHFJPY          2026-11-11 19:46:48.761051
+jensen_system/EU-INSURE       2026-11-11 19:46:48.761152
+jensen_system/GAS_US          2026-11-11 19:46:48.761252
+jensen_system/US-ENERGY       2026-11-11 19:46:48.761353
+jensen_system/DX              2026-11-11 19:46:48.761454
+jensen_system/SUGAR_WHITE     2026-11-11 19:46:48.761555
+jensen_system/VNKI            2026-11-11 19:46:48.761656
+jensen_system/US5             2026-11-11 19:46:48.761760
+jensen_system/COTTON2         2026-11-11 19:46:48.761862
+jensen_system/EURO600         2026-11-11 19:46:48.761964
+jensen_system/SHATZ           2026-11-11 19:46:48.762067
+jensen_system/US10            2026-11-11 19:46:48.762167
+jensen_system/CNH             2026-11-11 19:46:48.762269
+jensen_system/US-REALESTATE   2026-11-11 19:46:48.762369
+jensen_system/MUMMY           2026-11-11 19:46:48.762470
+jensen_system/SARONA          2026-11-11 19:46:48.762571
+jensen_system/BUND            2026-11-11 19:46:48.762672
+jensen_system/EU-DJ-OIL       2026-11-11 19:46:48.762775
+jensen_system/SWISSLEAD       2026-11-11 19:46:48.762875
+jensen_system/NICKEL_LME      2026-11-11 19:46:48.762976
+jensen_system/BRE             2026-11-11 19:46:48.763077
+jensen_system/WHEAT           2026-11-11 19:46:48.763178
+jensen_system/BTP             2026-11-11 19:46:48.763279
+jensen_system/EU-OIL          2026-11-11 19:46:48.763380
+jensen_system/PALLAD          2026-11-11 19:46:48.763481
+jensen_system/JGB-SGX-mini    2026-11-11 19:46:48.763583
+jensen_system/BOVESPA         2026-11-11 19:46:48.763684
+jensen_system/PLN             2026-11-11 19:46:48.763786
+jensen_system/OMX             2026-11-11 19:46:48.763887
+jensen_system/STEEL           2026-11-11 19:46:48.763988
+jensen_system/EUR_micro       2026-11-11 19:46:48.764090
 
 
 ======================
@@ -480,56 +480,50 @@ Index: []
 ============================================================
 
                            keys  position pos_limit    spare
-0          jensen_system GAS_US        -1  No limit  9999999
-22        jensen_system BRENT_W         1  No limit  9999999
-21            jensen_system V2X        -9  No limit  9999999
-20            jensen_system EUA         1  No limit  9999999
-19           jensen_system GILT         1  No limit  9999999
-18   jensen_system JGB-SGX-mini         3  No limit  9999999
-17  jensen_system CRUDE_W_micro         1  No limit  9999999
-16            jensen_system OAT        -1  No limit  9999999
-15         jensen_system RUBBER         2  No limit  9999999
-14            jensen_system AEX         1  No limit  9999999
-13            jensen_system DOW        -1  No limit  9999999
-23       jensen_system VIX_mini        -1  No limit  9999999
-12            jensen_system JPY        -1  No limit  9999999
-10         jensen_system PALLAD        -1  No limit  9999999
-9     jensen_system SUGAR_WHITE        -1  No limit  9999999
-8           jensen_system TOPIX        -1  No limit  9999999
-7         jensen_system FTSE250         1  No limit  9999999
-6         jensen_system LEANHOG        -2  No limit  9999999
-5             jensen_system CHF        -2  No limit  9999999
-4        jensen_system REDWHEAT        -1  No limit  9999999
-3      jensen_system FTSECHINAA        -2  No limit  9999999
-2              jensen_system DX         1  No limit  9999999
-1          jensen_system SILVER        -1  No limit  9999999
-11          jensen_system R1000         1  No limit  9999999
-24            jensen_system NZD        -1  No limit  9999999
-0                           DOW        -1  No limit  9999999
-22                  SUGAR_WHITE        -1  No limit  9999999
-21                       PALLAD        -1  No limit  9999999
-20                        TOPIX        -1  No limit  9999999
-19                      FTSE250         1  No limit  9999999
-18                      LEANHOG        -2  No limit  9999999
-17                          CHF        -2  No limit  9999999
-16                     REDWHEAT        -1  No limit  9999999
-15                   FTSECHINAA        -2  No limit  9999999
-14                           DX         1  No limit  9999999
-13                       SILVER        -1  No limit  9999999
-23                        R1000         1  No limit  9999999
-12                       GAS_US        -1  No limit  9999999
-10                     VIX_mini        -1  No limit  9999999
-9                       BRENT_W         1  No limit  9999999
-8                           V2X        -9  No limit  9999999
-7                           EUA         1  No limit  9999999
-6                           OAT        -1  No limit  9999999
-5                          GILT         1  No limit  9999999
-4                 CRUDE_W_micro         1  No limit  9999999
-3                  JGB-SGX-mini         3  No limit  9999999
+0    jensen_system JGB-SGX-mini         3  No limit  9999999
+19            jensen_system V2X        -9  No limit  9999999
+18            jensen_system CHF        -2  No limit  9999999
+17        jensen_system LEANHOG        -3  No limit  9999999
+16            jensen_system JPY        -1  No limit  9999999
+15            jensen_system NZD        -1  No limit  9999999
+14            jensen_system OAT        -1  No limit  9999999
+13            jensen_system AEX         1  No limit  9999999
+12           jensen_system GILT         1  No limit  9999999
+11         jensen_system RUBBER         2  No limit  9999999
+10         jensen_system GAS_US        -1  No limit  9999999
+9      jensen_system FTSECHINAA        -2  No limit  9999999
+8             jensen_system EUA         1  No limit  9999999
+7     jensen_system SUGAR_WHITE        -1  No limit  9999999
+6        jensen_system REDWHEAT        -1  No limit  9999999
+5          jensen_system PALLAD        -1  No limit  9999999
+4           jensen_system R1000         1  No limit  9999999
+3              jensen_system DX         1  No limit  9999999
+2   jensen_system CRUDE_W_micro         1  No limit  9999999
+1         jensen_system BRENT_W         1  No limit  9999999
+20        jensen_system FTSE250         1  No limit  9999999
+21       jensen_system VIX_mini        -1  No limit  9999999
+0                    FTSECHINAA        -2  No limit  9999999
+19                     REDWHEAT        -1  No limit  9999999
+18                       PALLAD        -1  No limit  9999999
+17                        R1000         1  No limit  9999999
+16                           DX         1  No limit  9999999
+15                CRUDE_W_micro         1  No limit  9999999
+14                      BRENT_W         1  No limit  9999999
+13                 JGB-SGX-mini         3  No limit  9999999
+12                     VIX_mini        -1  No limit  9999999
+11                      FTSE250         1  No limit  9999999
+10                          V2X        -9  No limit  9999999
+9                       LEANHOG        -3  No limit  9999999
+8                           CHF        -2  No limit  9999999
+7                           JPY        -1  No limit  9999999
+6                           NZD        -1  No limit  9999999
+5                           OAT        -1  No limit  9999999
+4                           AEX         1  No limit  9999999
+3                   SUGAR_WHITE        -1  No limit  9999999
 2                        RUBBER         2  No limit  9999999
-1                           AEX         1  No limit  9999999
-11                          NZD        -1  No limit  9999999
-24                          JPY        -1  No limit  9999999
+1                          GILT         1  No limit  9999999
+20                          EUA         1  No limit  9999999
+21                       GAS_US        -1  No limit  9999999
 
 
 ==================================================================
@@ -687,21 +681,21 @@ run_systems                                         True         False          
 run_strategy_order_generator                        True         False          True
 
 
-===============================================================================================================
-                                           Status of process control                                           
-===============================================================================================================
+================================================================================================================
+                                           Status of process control                                            
+================================================================================================================
 
-                                                         start                  end status     PID      running
-run_backups                                2026-11-10 19:49:10  2026-11-10 19:51:11     GO       0  not running
-run_capital_update                         2026-11-10 01:00:03  2026-11-10 19:00:04     GO       0  not running
-run_cleaners                               2026-11-10 19:48:11  2026-11-10 19:48:12     GO       0  not running
-run_daily_fx_and_contract_updates          2026-11-10 14:30:03  2026-11-10 14:38:12     GO       0  not running
-run_daily_prices_updates                   2026-11-10 15:00:03  2026-11-10 15:47:15     GO       0  not running
-run_daily_update_multiple_adjusted_prices  2026-11-10 15:48:05  2026-11-10 15:48:22     GO       0  not running
-run_reports                                2026-11-10 19:48:10  2026-11-09 21:33:03     GO  841331      running
-run_stack_handler                          2026-11-10 00:10:02  2026-11-10 19:45:01     GO       0  not running
-run_strategy_order_generator               2026-11-10 19:46:14  2026-11-10 19:47:23     GO       0  not running
-run_systems                                2026-11-10 19:30:14  2026-11-10 19:43:04     GO       0  not running
+                                                         start                  end status      PID      running
+run_backups                                2026-11-11 19:49:10  2026-11-11 19:51:13     GO        0  not running
+run_capital_update                         2026-11-11 01:00:03  2026-11-11 19:00:04     GO        0  not running
+run_cleaners                               2026-11-11 19:48:10  2026-11-11 19:48:11     GO        0  not running
+run_daily_fx_and_contract_updates          2026-11-11 15:50:41  2026-11-11 15:52:22     GO        0  not running
+run_daily_prices_updates                   2026-11-11 15:52:47  2026-11-11 16:33:04     GO        0  not running
+run_daily_update_multiple_adjusted_prices  2026-11-11 18:28:01  2026-11-11 18:28:16     GO        0  not running
+run_reports                                2026-11-11 19:48:10  2026-11-10 20:17:15     GO  1669757      running
+run_stack_handler                          2026-11-11 00:10:02  2026-11-11 15:49:01     GO        0      crashed
+run_strategy_order_generator               2026-11-11 19:46:14  2026-11-11 19:47:22     GO        0  not running
+run_systems                                2026-11-11 19:30:13  2026-11-11 19:43:18     GO        0  not running
 
 
 ========================================================================================================================================================
@@ -709,45 +703,45 @@ run_systems                                2026-11-10 19:30:14  2026-11-10 19:43
 ========================================================================================================================================================
 
                                                                           process_name              last_start                last_end currently_running
-liquidity_report                                                           run_reports 2026-11-09 20:55:58.141 2026-11-09 20:57:04.121             False
-instrument_risk_report                                                     run_reports 2026-11-09 20:57:04.123 2026-11-09 20:57:58.558             False
-min_capital                                                                run_reports 2026-11-09 20:57:58.561 2026-11-09 20:58:53.289             False
-duplicate_market                                                           run_reports 2026-11-09 20:58:53.293 2026-11-09 21:01:23.864             False
-remove_markets_report                                                      run_reports 2026-11-09 21:01:23.871 2026-11-09 21:03:33.224             False
-market_monitor_report                                                      run_reports 2026-11-09 21:03:33.226 2026-11-09 21:07:49.355             False
-account_curve_report                                                       run_reports 2026-11-09 21:07:49.363 2026-11-09 21:07:49.628             False
-generate_force_roll_orders                                           run_stack_handler 2026-11-10 00:10:10.937 2026-11-10 00:10:11.538             False
-strategy_allocation                                                 run_capital_update 2026-11-10 01:00:09.831 2026-11-10 01:00:09.864             False
-update_fx_prices                                     run_daily_fx_and_contract_updates 2026-11-10 14:30:04.190 2026-11-10 14:30:34.858             False
-update_sampled_contracts                             run_daily_fx_and_contract_updates 2026-11-10 14:30:34.861 2026-11-10 14:38:12.352             False
-update_historical_prices                                      run_daily_prices_updates 2026-11-10 15:00:04.130 2026-11-10 15:47:15.319             False
-update_multiple_adjusted_prices              run_daily_update_multiple_adjusted_prices 2026-11-10 15:48:06.082 2026-11-10 15:48:21.904             False
-update_total_capital                                                run_capital_update 2026-11-10 19:00:04.456 2026-11-10 19:00:04.604             False
-refresh_additional_sampling_all_instruments                          run_stack_handler 2026-11-10 19:10:38.204 2026-11-10 19:10:57.447             False
-jensen_system                                                              run_systems 2026-11-10 19:30:14.882 2026-11-10 19:43:03.944             False
-spawn_children_from_new_instrument_orders                            run_stack_handler 2026-11-10 19:44:59.156 2026-11-10 19:44:59.158             False
-create_broker_orders_from_contract_orders                            run_stack_handler 2026-11-10 19:44:59.160 2026-11-10 19:44:59.164             False
-process_fills_stack                                                  run_stack_handler 2026-11-10 19:44:59.166 2026-11-10 19:44:59.171             False
-handle_completed_orders                                              run_stack_handler 2026-11-10 19:44:59.172 2026-11-10 19:44:59.173             False
-check_external_position_break                                        run_stack_handler 2026-11-10 19:44:59.682 2026-11-10 19:45:01.249             False
 safe_stack_removal                                                   run_stack_handler 2026-11-10 19:45:01.254 2026-11-10 19:45:01.288             False
-jensen_system                                             run_strategy_order_generator 2026-11-10 19:46:15.394 2026-11-10 19:47:22.778             False
-slippage_report                                                            run_reports 2026-11-10 19:48:10.568 2026-11-10 19:50:04.078             False
-clean_backtest_states                                                     run_cleaners 2026-11-10 19:48:11.964 2026-11-10 19:48:11.976             False
-clean_echo_files                                                          run_cleaners 2026-11-10 19:48:11.978 2026-11-10 19:48:11.981             False
-clean_log_files                                                           run_cleaners 2026-11-10 19:48:11.982 2026-11-10 19:48:11.983             False
-backup_db_to_csv                                                           run_backups 2026-11-10 19:49:11.313 2026-11-10 19:51:07.188             False
-costs_report                                                               run_reports 2026-11-10 19:50:04.086 2026-11-10 19:50:37.726             False
-roll_report                                                                run_reports 2026-11-10 19:50:37.729 2026-11-10 19:50:54.073             False
-daily_pandl_report                                                         run_reports 2026-11-10 19:50:54.075 2026-11-10 19:51:24.709             False
-backup_mongo_data_as_dump                                                  run_backups 2026-11-10 19:51:07.196 2026-11-10 19:51:07.333             False
-backup_files                                                               run_backups 2026-11-10 19:51:07.340 2026-11-10 19:51:10.486             False
-backup_parquet                                                             run_backups 2026-11-10 19:51:10.493 2026-11-10 19:51:10.869             False
-reconcile_report                                                           run_reports 2026-11-10 19:51:24.718 2026-11-10 19:51:35.388             False
-trade_report                                                               run_reports 2026-11-10 19:51:35.391 2026-11-10 19:51:36.027             False
-strategy_report                                                            run_reports 2026-11-10 19:51:36.029 2026-11-10 19:52:16.857             False
-risk_report                                                                run_reports 2026-11-10 19:52:16.860 2026-11-10 19:53:40.033             False
-status_report                                                              run_reports 2026-11-10 19:53:40.041 2026-11-09 20:55:58.138              True
+liquidity_report                                                           run_reports 2026-11-10 19:53:48.837 2026-11-10 19:54:54.348             False
+instrument_risk_report                                                     run_reports 2026-11-10 19:54:54.350 2026-11-10 19:55:48.086             False
+min_capital                                                                run_reports 2026-11-10 19:55:48.089 2026-11-10 19:56:41.448             False
+duplicate_market                                                           run_reports 2026-11-10 19:56:41.451 2026-11-10 19:59:11.039             False
+remove_markets_report                                                      run_reports 2026-11-10 19:59:11.042 2026-11-10 20:01:19.470             False
+market_monitor_report                                                      run_reports 2026-11-10 20:01:19.473 2026-11-10 20:05:32.941             False
+account_curve_report                                                       run_reports 2026-11-10 20:05:32.944 2026-11-10 20:05:33.200             False
+generate_force_roll_orders                                           run_stack_handler 2026-11-11 00:10:10.275 2026-11-11 00:10:10.864             False
+strategy_allocation                                                 run_capital_update 2026-11-11 01:00:09.337 2026-11-11 01:00:09.366             False
+refresh_additional_sampling_all_instruments                          run_stack_handler 2026-11-11 15:11:05.098 2026-11-11 15:11:07.318             False
+spawn_children_from_new_instrument_orders                            run_stack_handler 2026-11-11 15:48:36.476 2026-11-11 15:48:36.479             False
+create_broker_orders_from_contract_orders                            run_stack_handler 2026-11-11 15:48:36.481 2026-11-11 15:48:36.487             False
+process_fills_stack                                                  run_stack_handler 2026-11-11 15:48:36.489 2026-11-11 15:48:36.493             False
+handle_completed_orders                                              run_stack_handler 2026-11-11 15:48:36.494 2026-11-11 15:48:36.495             False
+check_external_position_break                                        run_stack_handler 2026-11-11 15:48:37.004 2026-11-11 15:48:36.472              True
+update_fx_prices                                     run_daily_fx_and_contract_updates 2026-11-11 15:50:42.159 2026-11-11 15:51:02.485             False
+update_sampled_contracts                             run_daily_fx_and_contract_updates 2026-11-11 15:51:02.487 2026-11-11 15:52:21.772             False
+update_historical_prices                                      run_daily_prices_updates 2026-11-11 15:52:47.526 2026-11-11 16:33:03.767             False
+update_multiple_adjusted_prices              run_daily_update_multiple_adjusted_prices 2026-11-11 18:28:02.050 2026-11-11 18:28:16.330             False
+update_total_capital                                                run_capital_update 2026-11-11 19:00:03.976 2026-11-11 19:00:04.157             False
+jensen_system                                                              run_systems 2026-11-11 19:30:14.293 2026-11-11 19:43:17.581             False
+jensen_system                                             run_strategy_order_generator 2026-11-11 19:46:14.876 2026-11-11 19:47:21.938             False
+slippage_report                                                            run_reports 2026-11-11 19:48:10.577 2026-11-11 19:48:45.618             False
+clean_backtest_states                                                     run_cleaners 2026-11-11 19:48:11.425 2026-11-11 19:48:11.434             False
+clean_echo_files                                                          run_cleaners 2026-11-11 19:48:11.437 2026-11-11 19:48:11.441             False
+clean_log_files                                                           run_cleaners 2026-11-11 19:48:11.443 2026-11-11 19:48:11.444             False
+costs_report                                                               run_reports 2026-11-11 19:48:45.627 2026-11-11 19:49:20.051             False
+backup_db_to_csv                                                           run_backups 2026-11-11 19:49:11.412 2026-11-11 19:51:09.114             False
+roll_report                                                                run_reports 2026-11-11 19:49:20.052 2026-11-11 19:49:36.050             False
+daily_pandl_report                                                         run_reports 2026-11-11 19:49:36.052 2026-11-11 19:50:06.574             False
+reconcile_report                                                           run_reports 2026-11-11 19:50:06.576 2026-11-11 19:50:16.653             False
+trade_report                                                               run_reports 2026-11-11 19:50:16.656 2026-11-11 19:50:17.226             False
+strategy_report                                                            run_reports 2026-11-11 19:50:17.229 2026-11-11 19:50:58.953             False
+risk_report                                                                run_reports 2026-11-11 19:50:58.957 2026-11-11 19:52:09.251             False
+backup_mongo_data_as_dump                                                  run_backups 2026-11-11 19:51:09.116 2026-11-11 19:51:09.235             False
+backup_files                                                               run_backups 2026-11-11 19:51:09.239 2026-11-11 19:51:12.558             False
+backup_parquet                                                             run_backups 2026-11-11 19:51:12.562 2026-11-11 19:51:12.878             False
+status_report                                                              run_reports 2026-11-11 19:52:09.255 2026-11-10 19:53:48.834              True
 
 
 =========================================================================================================
