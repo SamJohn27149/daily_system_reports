@@ -1,6 +1,6 @@
 
 ********************************************************************************
-Trades report produced on 11/11/2026 19:50 from 10/11/2026 19:50 to 11/11/2026 19:50
+Trades report produced on 12/11/2026 19:51 from 11/11/2026 19:51 to 12/11/2026 19:51
 ********************************************************************************
 
 
@@ -10,10 +10,11 @@ Trades report produced on 11/11/2026 19:50 from 10/11/2026 19:50 to 11/11/2026 1
 =========================================================================================
 
      instrument_code  strategy_name contract_date       fill_datetime  fill  filled_price
-3624             DOW  jensen_system    [20261200] 2026-11-11 00:10:14   [1]     52159.000
-3625         LEANHOG  jensen_system    [20270200] 2026-11-11 00:10:52  [-1]        60.575
-3626          SILVER  jensen_system    [20261200] 2026-11-11 00:13:26   [1]        51.470
-3627           TOPIX  jensen_system    [20261200] 2026-11-11 09:00:04   [1]      3930.250
+3632         BRENT_W  jensen_system    [20270200] 2026-11-12 17:06:04  [-1]      90.79000
+3630             CHF  jensen_system    [20261200] 2026-11-12 00:13:18  [-1]       1.20580
+3631             DAX  jensen_system    [20261200] 2026-11-12 16:00:14   [1]   26949.00000
+3629      GOLD_micro  jensen_system    [20261200] 2026-11-12 00:13:15  [-1]    4011.60000
+3628             NZD  jensen_system    [20261200] 2026-11-12 00:13:14   [1]       0.55705
 
 
 =========================================================================================================================================================
@@ -21,95 +22,104 @@ Trades report produced on 11/11/2026 19:50 from 10/11/2026 19:50 to 11/11/2026 1
 =========================================================================================================================================================
 
      instrument_code  strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
-3624             DOW  jensen_system       2026-11-10 00:00:00  2026-11-11 00:10:13.368000  2026-11-11 00:10:14              87013.368               0.632
-3625         LEANHOG  jensen_system       2026-11-10 00:00:00  2026-11-11 00:10:17.036000  2026-11-11 00:10:52              87017.036              34.964
-3626          SILVER  jensen_system       2026-11-10 00:00:00  2026-11-11 00:13:25.552000  2026-11-11 00:13:26              87205.552               0.448
-3627           TOPIX  jensen_system       2026-11-10 00:00:00  2026-11-11 09:00:04.100000  2026-11-11 09:00:04               118804.1                 NaN
+3628             NZD  jensen_system       2026-11-11 00:00:00  2026-11-12 00:12:43.921000  2026-11-12 00:13:14              87163.921              30.079
+3629      GOLD_micro  jensen_system       2026-11-11 00:00:00  2026-11-12 00:13:14.649000  2026-11-12 00:13:15              87194.649               0.351
+3630             CHF  jensen_system       2026-11-11 00:00:00  2026-11-12 00:13:15.517000  2026-11-12 00:13:18              87195.517               2.483
+3631             DAX  jensen_system       2026-11-11 00:00:00  2026-11-12 16:00:13.846000  2026-11-12 16:00:14             144013.846               0.154
+3632         BRENT_W  jensen_system       2026-11-10 00:00:00  2026-11-12 17:00:04.248000  2026-11-12 17:06:04             234004.248             359.752
 
 
-========================================================================================================================================================================================================================
-                                                                                                Slippage (ticks per lot)                                                                                                
-========================================================================================================================================================================================================================
+============================================================================================================================================================================================================================
+                                                                                                  Slippage (ticks per lot)                                                                                                  
+============================================================================================================================================================================================================================
 
-     instrument_code  strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price   delay bid_ask execution versus_limit versus_parent_limit total_trading
-3624             DOW  jensen_system   [1]                52518.0               None   52158.0    52159.0       52157.0     52157.0      52159.0   360.0    -1.0       0.0         -2.0                 NaN          -1.0
-3625         LEANHOG  jensen_system  [-1]                 60.825               None   60.5625      60.55        60.575      60.575       60.575 -0.2625 -0.0125     0.025         -0.0                 NaN        0.0125
-3626          SILVER  jensen_system   [1]                  53.46               None    51.465      51.47         51.46       51.46        51.47   1.995  -0.005       0.0        -0.01                 NaN        -0.005
-3627           TOPIX  jensen_system   [1]                 3895.0               None   3930.75     3931.0        3930.5      3930.5      3930.25  -35.75   -0.25      0.75         0.25                 NaN           0.5
-
-
-==========================================================================================================================================================
-                                                   Slippage (normalised by annual vol, BP of annual SR)                                                   
-==========================================================================================================================================================
-
-     instrument_code  strategy_name trade last_annual_vol   delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
-3624             DOW  jensen_system   [1]     8754.865468  411.199922   -1.142222           0.0        -2.284444                     NaN         -1.142222
-3625         LEANHOG  jensen_system  [-1]       17.686025 -148.422268   -7.067727     14.135454             -0.0                     NaN          7.067727
-3626          SILVER  jensen_system   [1]       26.126261  763.599505   -1.913783           0.0        -3.827566                     NaN         -1.913783
-3627           TOPIX  jensen_system   [1]      890.217409 -401.587294   -2.808303      8.424908         2.808303                     NaN          5.616606
+     instrument_code  strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price     delay   bid_ask execution versus_limit versus_parent_limit total_trading
+3628             NZD  jensen_system   [1]                0.56105               None  0.556975      0.557       0.55695     0.55695      0.55705  0.004075 -0.000025  -0.00005      -0.0001                 NaN     -0.000075
+3629      GOLD_micro  jensen_system  [-1]                 4040.5               None    4011.6     4011.5        4011.7      4011.7       4011.6     -28.9      -0.1       0.1         -0.1                 NaN           0.0
+3630             CHF  jensen_system  [-1]                1.21635               None   1.20585     1.2058        1.2059      1.2059       1.2058   -0.0105  -0.00005      -0.0      -0.0001                 NaN      -0.00005
+3631             DAX  jensen_system   [1]                26715.0               None   26953.0    26954.0       26952.0     26952.0      26949.0    -238.0      -1.0       5.0          3.0                 NaN           4.0
+3632         BRENT_W  jensen_system  [-1]                  89.24               None    91.125      91.12         91.13       91.13        90.79     1.885    -0.005     -0.33        -0.34                 NaN        -0.335
 
 
-====================================================================================================================================================================
-                                                                    Slippage (In base currency)                                                                     
-====================================================================================================================================================================
+===========================================================================================================================================================
+                                                   Slippage (normalised by annual vol, BP of annual SR)                                                    
+===========================================================================================================================================================
 
-     instrument_code  strategy_name trade value_of_price_point  delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
-3624             DOW  jensen_system   [1]                  0.5       180.0         -0.5            0.0              -1.0                      NaN               -0.5
-3625         LEANHOG  jensen_system  [-1]                400.0      -105.0         -5.0           10.0              -0.0                      NaN                5.0
-3626          SILVER  jensen_system   [1]               1000.0      1995.0         -5.0            0.0             -10.0                      NaN               -5.0
-3627           TOPIX  jensen_system   [1]              6.29394 -225.008339    -1.573485       4.720455          1.573485                      NaN            3.14697
+     instrument_code  strategy_name trade last_annual_vol    delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
+3628             NZD  jensen_system   [1]        0.049737   819.308662   -5.026434    -10.052867       -20.105734                     NaN        -15.079301
+3629      GOLD_micro  jensen_system  [-1]     1010.149463  -286.096276   -0.989953      0.989953        -0.989953                     NaN               0.0
+3630             CHF  jensen_system  [-1]        0.089341 -1175.266017   -5.596505          -0.0        -11.19301                     NaN         -5.596505
+3631             DAX  jensen_system   [1]     4872.805105  -488.425034   -2.052206      10.26103         6.156618                     NaN          8.208824
+3632         BRENT_W  jensen_system  [-1]       42.664966   441.814484   -1.171922    -77.346833       -79.690676                     NaN        -78.518754
+
+
+===================================================================================================================================================================
+                                                                    Slippage (In base currency)                                                                    
+===================================================================================================================================================================
+
+     instrument_code  strategy_name trade value_of_price_point delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
+3628             NZD  jensen_system   [1]             100000.0      407.5         -2.5           -5.0             -10.0                      NaN               -7.5
+3629      GOLD_micro  jensen_system  [-1]                 10.0     -289.0         -1.0            1.0              -1.0                      NaN                0.0
+3630             CHF  jensen_system  [-1]             125000.0    -1312.5        -6.25           -0.0             -12.5                      NaN              -6.25
+3631             DAX  jensen_system   [1]              1.10786 -263.67068     -1.10786         5.5393           3.32358                      NaN            4.43144
+3632         BRENT_W  jensen_system  [-1]               1000.0     1885.0         -5.0         -330.0            -340.0                      NaN             -335.0
 
 delay_cash Sum
-                               delay_cash
-strategy_name instrument_code            
-jensen_system DOW                   180.0
-              LEANHOG              -105.0
-              SILVER               1995.0
-              TOPIX           -225.008339
+                              delay_cash
+strategy_name instrument_code           
+jensen_system BRENT_W             1885.0
+              CHF                -1312.5
+              DAX             -263.67068
+              GOLD_micro          -289.0
+              NZD                  407.5
 delay_cash Total Sum
-                delay_cash
-strategy_name             
-jensen_system  1844.991661
+              delay_cash
+strategy_name           
+jensen_system  427.32932
 bid_ask_cash Sum
                               bid_ask_cash
 strategy_name instrument_code             
-jensen_system DOW                     -0.5
-              LEANHOG                 -5.0
-              SILVER                  -5.0
-              TOPIX              -1.573485
+jensen_system BRENT_W                 -5.0
+              CHF                    -6.25
+              DAX                 -1.10786
+              GOLD_micro              -1.0
+              NZD                     -2.5
 bid_ask_cash Total Sum
               bid_ask_cash
 strategy_name             
-jensen_system   -12.073485
+jensen_system    -15.85786
 execution_cash Sum
                               execution_cash
 strategy_name instrument_code               
-jensen_system DOW                        0.0
-              LEANHOG                   10.0
-              SILVER                     0.0
-              TOPIX                 4.720455
+jensen_system BRENT_W                 -330.0
+              CHF                       -0.0
+              DAX                     5.5393
+              GOLD_micro                 1.0
+              NZD                       -5.0
 execution_cash Total Sum
               execution_cash
 strategy_name               
-jensen_system      14.720455
+jensen_system      -328.4607
 versus_limit_cash Sum
                               versus_limit_cash
 strategy_name instrument_code                  
-jensen_system DOW                          -1.0
-              LEANHOG                      -0.0
-              SILVER                      -10.0
-              TOPIX                    1.573485
+jensen_system BRENT_W                    -340.0
+              CHF                         -12.5
+              DAX                       3.32358
+              GOLD_micro                   -1.0
+              NZD                         -10.0
 versus_limit_cash Total Sum
               versus_limit_cash
 strategy_name                  
-jensen_system         -9.426515
+jensen_system        -360.17642
 versus_parent_limit_cash Sum
                               versus_parent_limit_cash
 strategy_name instrument_code                         
-jensen_system DOW                                    0
-              LEANHOG                                0
-              SILVER                                 0
-              TOPIX                                  0
+jensen_system BRENT_W                                0
+              CHF                                    0
+              DAX                                    0
+              GOLD_micro                             0
+              NZD                                    0
 versus_parent_limit_cash Total Sum
               versus_parent_limit_cash
 strategy_name                         
@@ -117,14 +127,15 @@ jensen_system                        0
 total_trading_cash Sum
                               total_trading_cash
 strategy_name instrument_code                   
-jensen_system DOW                           -0.5
-              LEANHOG                        5.0
-              SILVER                        -5.0
-              TOPIX                      3.14697
+jensen_system BRENT_W                     -335.0
+              CHF                          -6.25
+              DAX                        4.43144
+              GOLD_micro                     0.0
+              NZD                           -7.5
 total_trading_cash Total Sum
               total_trading_cash
 strategy_name                   
-jensen_system            2.64697
+jensen_system         -344.31856
 
 ********************************************************************************
                                  END OF REPORT                                  

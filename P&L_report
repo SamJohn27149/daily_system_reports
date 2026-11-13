@@ -1,52 +1,50 @@
 
 ********************************************************************************
-Profit and loss report produced on 11/11/2026 19:49 from 10/11/2026 19:49 to 11/11/2026 19:49
+Profit and loss report produced on 12/11/2026 19:50 from 11/11/2026 19:50 to 12/11/2026 19:50
 ********************************************************************************
 
 
-Total p&l is 0.596%
+Total p&l is 0.970%
 
 ====================================
 P&L by instrument for all strategies
 ====================================
 
             codes  pandl
-0    JGB-SGX-mini   -0.2
-1            GILT   -0.1
-2          GAS_US   -0.0
-3         FTSE250   -0.0
-4           TOPIX   -0.0
-5      FTSECHINAA   -0.0
-6        REDWHEAT   -0.0
-7         LEANHOG   -0.0
-8   CRUDE_W_micro   -0.0
-9        VIX_mini    0.0
-10          R1000    0.0
-11            DOW    0.0
-12    SUGAR_WHITE    0.0
-13            V2X    0.0
-14            NZD    0.0
-15            JPY    0.0
-16             DX    0.1
-17            OAT    0.1
-18         RUBBER    0.1
-19            EUA    0.1
-20         PALLAD    0.1
-21        BRENT_W    0.2
-22         SILVER    0.2
-23            CHF    0.2
-24            AEX    0.2
+0          PALLAD   -0.1
+1     SUGAR_WHITE   -0.0
+2        REDWHEAT   -0.0
+3          GAS_US   -0.0
+4    JGB-SGX-mini   -0.0
+5          RUBBER   -0.0
+6            GILT   -0.0
+7   CRUDE_W_micro    0.0
+8        VIX_mini    0.0
+9      FTSECHINAA    0.0
+10        BRENT_W    0.0
+11     GOLD_micro    0.0
+12            V2X    0.0
+13        FTSE250    0.0
+14            OAT    0.0
+15            NZD    0.0
+16        LEANHOG    0.0
+17          R1000    0.1
+18            JPY    0.1
+19             DX    0.1
+20            EUA    0.1
+21            AEX    0.1
+22            CHF    0.3
 
-Total futures p&l is 1.017%
-Residual p&l is -0.421%
+Total futures p&l is 0.650%
+Residual p&l is 0.320%
 
 =======================
     P&L by strategy    
 =======================
 
            codes  pandl
-0  jensen_system   0.82
-0       residual  -0.22
+0  jensen_system   0.58
+0       residual   0.39
 
 
 ==================
@@ -54,14 +52,14 @@ P&L by asset class
 ==================
 
     codes  pandl
-0    Bond  -0.20
-1     Ags   0.00
-2     Vol   0.03
-3   Other   0.08
-4  Equity   0.19
-5  OilGas   0.23
-6  Metals   0.34
-7      FX   0.35
+0  Metals  -0.04
+1     Ags  -0.04
+2   Other  -0.01
+3    Bond   0.01
+4     Vol   0.03
+5  OilGas   0.06
+6  Equity   0.19
+7      FX   0.45
 
 
 ********************************************************************************
