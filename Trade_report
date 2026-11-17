@@ -1,150 +1,15 @@
 
 ********************************************************************************
-Trades report produced on 14/11/2026 19:50 from 13/11/2026 19:50 to 14/11/2026 19:50
+Trades report produced on 16/11/2026 19:51 from 15/11/2026 19:51 to 16/11/2026 19:51
 ********************************************************************************
 
 
-
-=========================================================================================
-                                      Broker orders                                      
-=========================================================================================
-
-     instrument_code  strategy_name contract_date       fill_datetime  fill  filled_price
-3663           CAD10  jensen_system    [20261200] 2026-11-14 00:22:09  [-1]     116.63000
-3660             CHF  jensen_system    [20261200] 2026-11-14 00:12:55  [-1]       1.19735
-3662          GAS_US  jensen_system    [20270100] 2026-11-14 00:16:41   [1]       3.62900
-3661        VIX_mini  jensen_system    [20270100] 2026-11-14 00:16:35  [-1]      20.28000
-3664        VIX_mini  jensen_system    [20270100] 2026-11-14 00:22:21  [-1]      20.38000
-3665        VIX_mini  jensen_system    [20270100] 2026-11-14 00:23:16  [-1]      20.32000
-3666        VIX_mini  jensen_system    [20270100] 2026-11-14 00:24:18  [-1]      20.27000
-3667        VIX_mini  jensen_system    [20270100] 2026-11-14 00:26:30  [-1]      20.22000
-
-
-=========================================================================================================================================================
-                                                                         Delays                                                                          
-=========================================================================================================================================================
-
-     instrument_code  strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
-3660             CHF  jensen_system       2026-11-13 00:00:00  2026-11-14 00:12:48.519000  2026-11-14 00:12:55              87168.519               6.481
-3662          GAS_US  jensen_system       2026-11-13 00:00:00  2026-11-14 00:16:35.917000  2026-11-14 00:16:41              87395.917               5.083
-3663           CAD10  jensen_system       2026-11-13 00:00:00  2026-11-14 00:16:42.208000  2026-11-14 00:22:09              87402.208             326.792
-3661        VIX_mini  jensen_system       2026-11-13 00:00:00  2026-11-14 00:12:56.126000  2026-11-14 00:16:35              87176.126             218.874
-3664        VIX_mini  jensen_system       2026-11-13 00:00:00  2026-11-14 00:22:12.489000  2026-11-14 00:22:21              87732.489               8.511
-3665        VIX_mini  jensen_system       2026-11-13 00:00:00  2026-11-14 00:22:23.855000  2026-11-14 00:23:16              87743.855              52.145
-3666        VIX_mini  jensen_system       2026-11-13 00:00:00  2026-11-14 00:23:19.307000  2026-11-14 00:24:18              87799.307              58.693
-3667        VIX_mini  jensen_system       2026-11-13 00:00:00  2026-11-14 00:24:21.547000  2026-11-14 00:26:30              87861.547             128.453
-
-
-=========================================================================================================================================================================================================================
-                                                                                                Slippage (ticks per lot)                                                                                                 
-=========================================================================================================================================================================================================================
-
-     instrument_code  strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price   delay  bid_ask execution versus_limit versus_parent_limit total_trading
-3660             CHF  jensen_system  [-1]                 1.2013               None    1.1974    1.19735       1.19745     1.19745      1.19735 -0.0039 -0.00005      -0.0      -0.0001                 NaN      -0.00005
-3662          GAS_US  jensen_system   [1]                  3.749               None    3.6295       3.63         3.629       3.629        3.629  0.1195  -0.0005     0.001          0.0                 NaN        0.0005
-3663           CAD10  jensen_system  [-1]                 117.02               None   116.645     116.64        116.65      116.65       116.63  -0.375   -0.005     -0.01        -0.02                 NaN        -0.015
-3661        VIX_mini  jensen_system  [-1]                  19.71               None    20.225      20.17         20.28       20.28        20.28   0.515   -0.055      0.11         -0.0                 NaN         0.055
-3664        VIX_mini  jensen_system  [-1]                  19.71               None    20.375      20.37         20.38       20.38        20.38   0.665   -0.005      0.01         -0.0                 NaN         0.005
-3665        VIX_mini  jensen_system  [-1]                  19.71               None    20.425      20.37         20.48       20.48        20.32   0.715   -0.055     -0.05        -0.16                 NaN        -0.105
-3666        VIX_mini  jensen_system  [-1]                  19.71               None    20.375      20.32         20.43       20.43        20.27   0.665   -0.055     -0.05        -0.16                 NaN        -0.105
-3667        VIX_mini  jensen_system  [-1]                  19.71               None    20.325      20.27         20.38       20.38        20.22   0.615   -0.055     -0.05        -0.16                 NaN        -0.105
-
-
-==========================================================================================================================================================
-                                                   Slippage (normalised by annual vol, BP of annual SR)                                                   
-==========================================================================================================================================================
-
-     instrument_code  strategy_name trade last_annual_vol   delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
-3660             CHF  jensen_system  [-1]        0.091177 -427.741013   -5.483859          -0.0       -10.967718                     NaN         -5.483859
-3662          GAS_US  jensen_system   [1]        1.221515  978.293335   -4.093278      8.186555              0.0                     NaN          4.093278
-3663           CAD10  jensen_system  [-1]        6.445016 -581.844919   -7.757932    -15.515865       -31.031729                     NaN        -23.273797
-3661        VIX_mini  jensen_system  [-1]       10.779582  477.755093  -51.022389    102.044777             -0.0                     NaN         51.022389
-3664        VIX_mini  jensen_system  [-1]       10.779582  616.907061   -4.638399      9.276798             -0.0                     NaN          4.638399
-3665        VIX_mini  jensen_system  [-1]       10.779582  663.291051  -51.022389     -46.38399      -148.428767                     NaN        -97.406378
-3666        VIX_mini  jensen_system  [-1]       10.779582  616.907061  -51.022389     -46.38399      -148.428767                     NaN        -97.406378
-3667        VIX_mini  jensen_system  [-1]       10.779582  570.523072  -51.022389     -46.38399      -148.428767                     NaN        -97.406378
-
-
-====================================================================================================================================================================
-                                                                    Slippage (In base currency)                                                                     
-====================================================================================================================================================================
-
-     instrument_code  strategy_name trade value_of_price_point  delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
-3660             CHF  jensen_system  [-1]             125000.0      -487.5        -6.25           -0.0             -12.5                      NaN              -6.25
-3662          GAS_US  jensen_system   [1]              10000.0      1195.0         -5.0           10.0               0.0                      NaN                5.0
-3663           CAD10  jensen_system  [-1]           701.038589 -262.889471    -3.505193      -7.010386        -14.020772                      NaN         -10.515579
-3661        VIX_mini  jensen_system  [-1]                100.0        51.5         -5.5           11.0              -0.0                      NaN                5.5
-3664        VIX_mini  jensen_system  [-1]                100.0        66.5         -0.5            1.0              -0.0                      NaN                0.5
-3665        VIX_mini  jensen_system  [-1]                100.0        71.5         -5.5           -5.0             -16.0                      NaN              -10.5
-3666        VIX_mini  jensen_system  [-1]                100.0        66.5         -5.5           -5.0             -16.0                      NaN              -10.5
-3667        VIX_mini  jensen_system  [-1]                100.0        61.5         -5.5           -5.0             -16.0                      NaN              -10.5
-
-delay_cash Sum
-                               delay_cash
-strategy_name instrument_code            
-jensen_system CAD10           -262.889471
-              CHF                  -487.5
-              GAS_US               1195.0
-              VIX_mini              317.5
-delay_cash Total Sum
-               delay_cash
-strategy_name            
-jensen_system  762.110529
-bid_ask_cash Sum
-                              bid_ask_cash
-strategy_name instrument_code             
-jensen_system CAD10              -3.505193
-              CHF                    -6.25
-              GAS_US                  -5.0
-              VIX_mini               -22.5
-bid_ask_cash Total Sum
-              bid_ask_cash
-strategy_name             
-jensen_system   -37.255193
-execution_cash Sum
-                              execution_cash
-strategy_name instrument_code               
-jensen_system CAD10                -7.010386
-              CHF                       -0.0
-              GAS_US                    10.0
-              VIX_mini                  -3.0
-execution_cash Total Sum
-              execution_cash
-strategy_name               
-jensen_system      -0.010386
-versus_limit_cash Sum
-                              versus_limit_cash
-strategy_name instrument_code                  
-jensen_system CAD10                  -14.020772
-              CHF                         -12.5
-              GAS_US                        0.0
-              VIX_mini                    -48.0
-versus_limit_cash Total Sum
-              versus_limit_cash
-strategy_name                  
-jensen_system        -74.520772
-versus_parent_limit_cash Sum
-                              versus_parent_limit_cash
-strategy_name instrument_code                         
-jensen_system CAD10                                  0
-              CHF                                    0
-              GAS_US                                 0
-              VIX_mini                               0
-versus_parent_limit_cash Total Sum
-              versus_parent_limit_cash
-strategy_name                         
-jensen_system                        0
-total_trading_cash Sum
-                              total_trading_cash
-strategy_name instrument_code                   
-jensen_system CAD10                   -10.515579
-              CHF                          -6.25
-              GAS_US                         5.0
-              VIX_mini                     -25.5
-total_trading_cash Total Sum
-              total_trading_cash
-strategy_name                   
-jensen_system         -37.265579
+No trades
+No trades
+No trades
+No trades
+No trades
+No trades
 
 ********************************************************************************
                                  END OF REPORT                                  

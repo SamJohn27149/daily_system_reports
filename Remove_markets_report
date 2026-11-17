@@ -1,6 +1,6 @@
 
 ********************************************************************************
-              Removed markets report produced on 14/11/2026 19:57               
+              Removed markets report produced on 16/11/2026 19:59               
 ********************************************************************************
 
 
@@ -9,7 +9,7 @@ Following should be removed from trading (add to config.bad_markets) [0.300000 t
 
 
 
-Following should be allowed to trade (delete from config.bad_markets) [0.300000 threshold]: ['MUMMY']
+Following should be allowed to trade (delete from config.bad_markets) [0.300000 threshold]: ['MUMMY', 'GAS_US_mini']
 
 
 
@@ -17,15 +17,15 @@ Markets too expensive (SR cost per trade > 0.010): ['BUTTER', 'CH10', 'CNH-onsho
 
 
 
-Markets not enough risk volume (Volume in $m ann. risk per day < 1.50): ['ALUMINIUM', 'AUDJPY', 'AUD_micro', 'BBCOMM', 'BONO', 'BOVESPA', 'BUTTER', 'CAD_micro', 'CH10', 'CHFJPY', 'CHF_micro', 'CNH-onshore', 'COAL-GEORDIE', 'COPPER-mini', 'CORN_mini', 'CZK', 'DJSTX-SMALL', 'EU-CHEM', 'EU-CONSTRUCTION', 'EU-DJ-OIL', 'EU-DJ-TECH', 'EU-DJ-TELECOM', 'EU-DJ-UTIL', 'EU-HOUSE', 'EU-MEDIA', 'EU-MID', 'EU-REALESTATE', 'EU-RETAIL', 'EU-TRAVEL', 'EURAUD', 'EURCAD', 'EURCHF', 'EUROSTX-LARGE', 'EUROSTX-SMALL', 'GASOILINE_micro', 'GAS_US_mini', 'GBPCHF', 'GBPJPY', 'GBP_micro', 'GICS', 'HIGHYIELD', 'HOUSE-US', 'IG', 'INR', 'IRS', 'JP-REALESTATE', 'JPY_mini', 'KRWUSD', 'LUMBER-new', 'MILKDRY', 'MILKWET', 'NOK', 'OATIES', 'OMX', 'PLN', 'SGD_mini', 'SMI-MID', 'SOYBEAN_mini', 'STEEL', 'SUGAR16', 'SWISSLEAD', 'VNKI', 'WHEAT_ICE', 'WHEAT_mini', 'WHEY']
+Markets not enough risk volume (Volume in $m ann. risk per day < 1.50): ['ALUMINIUM', 'AUDJPY', 'AUD_micro', 'BBCOMM', 'BONO', 'BOVESPA', 'BUTTER', 'CAD_micro', 'CH10', 'CHEESE', 'CHFJPY', 'CHF_micro', 'CNH-onshore', 'COAL-GEORDIE', 'COPPER-mini', 'CORN_mini', 'CZK', 'DJSTX-SMALL', 'EU-CHEM', 'EU-CONSTRUCTION', 'EU-DJ-OIL', 'EU-DJ-TECH', 'EU-DJ-TELECOM', 'EU-DJ-UTIL', 'EU-HOUSE', 'EU-MEDIA', 'EU-MID', 'EU-REALESTATE', 'EU-RETAIL', 'EU-TRAVEL', 'EURAUD', 'EURCAD', 'EURCHF', 'EUROSTX-LARGE', 'EUROSTX-SMALL', 'GASOILINE_micro', 'GBPCHF', 'GBPJPY', 'GBP_micro', 'GICS', 'HIGHYIELD', 'HOUSE-US', 'IG', 'INR', 'IRS', 'JP-REALESTATE', 'JPY_mini', 'KRWUSD', 'LUMBER-new', 'MILKDRY', 'MILKWET', 'NOK', 'OATIES', 'OMX', 'PLN', 'SGD_mini', 'SMI-MID', 'SOYBEAN_mini', 'STEEL', 'SUGAR16', 'SWISSLEAD', 'VNKI', 'WHEAT_ICE', 'WHEAT_mini', 'WHEY']
 
 
 
-Markets not enough contract volume (Volume in contracts per day < 100): ['ALUMINIUM', 'AUDJPY', 'BONO', 'BOVESPA', 'BUTTER', 'CH10', 'CHFJPY', 'CHF_micro', 'CNH-onshore', 'COAL', 'COAL-GEORDIE', 'COPPER-mini', 'CZK', 'EU-CHEM', 'EU-DJ-OIL', 'EU-DJ-TECH', 'EU-DJ-TELECOM', 'EU-DJ-UTIL', 'EU-HOUSE', 'EU-MEDIA', 'EU-RETAIL', 'EURAUD', 'EURCAD', 'EUROSTX-LARGE', 'GASOILINE_micro', 'GBPCHF', 'GBPJPY', 'GICS', 'HIGHYIELD', 'HOUSE-US', 'INR', 'IRS', 'JPY_mini', 'KRWUSD', 'MILKDRY', 'MILKWET', 'NOK', 'OMX', 'PLN', 'SEK', 'SGD_mini', 'STEEL', 'SUGAR16', 'SWISSLEAD', 'VNKI', 'WHEY']
+Markets not enough contract volume (Volume in contracts per day < 100): ['ALUMINIUM', 'AUDJPY', 'BONO', 'BOVESPA', 'BUTTER', 'CH10', 'CHFJPY', 'CHF_micro', 'CNH-onshore', 'COAL', 'COAL-GEORDIE', 'COPPER-mini', 'CZK', 'EU-CHEM', 'EU-DJ-OIL', 'EU-DJ-TECH', 'EU-DJ-TELECOM', 'EU-DJ-UTIL', 'EU-HOUSE', 'EU-MEDIA', 'EU-RETAIL', 'EURAUD', 'EURCAD', 'EUROSTX-LARGE', 'EUROSTX-SMALL', 'GASOILINE_micro', 'GBPCHF', 'GBPJPY', 'GICS', 'HIGHYIELD', 'HOUSE-US', 'IRS', 'JPY_mini', 'KRWUSD', 'MILKDRY', 'MILKWET', 'NOK', 'OMX', 'PLN', 'SGD_mini', 'STEEL', 'SUGAR16', 'SWISSLEAD', 'VNKI', 'WHEY']
 
 
 
-Markets too safe (Annual % std. dev < 5.0): ['BOBL', 'BTP3', 'BUND', 'CAD2', 'CAD5', 'CAD_micro', 'CNH', 'CNH-onshore', 'EURCAD', 'EURCHF', 'FED', 'GBPEUR', 'HIGHYIELD', 'HOUSE-US', 'INR', 'JGB-SGX-mini', 'SARONA', 'SGD_mini', 'SHATZ', 'SOFR', 'SONIA3', 'US2', 'US3', 'US5']
+Markets too safe (Annual % std. dev < 5.0): ['BOBL', 'BTP3', 'BUND', 'CAD2', 'CAD5', 'CAD_micro', 'CNH', 'CNH-onshore', 'EURCAD', 'EURCHF', 'FED', 'GBPEUR', 'HIGHYIELD', 'HOUSE-US', 'INR', 'JGB', 'JGB-SGX-mini', 'SARONA', 'SGD_mini', 'SHATZ', 'SOFR', 'SONIA3', 'US2', 'US3', 'US5']
 
 
 
@@ -81,7 +81,6 @@ exclude_instrument_lists:
     - FED 
     - GAS-PEN 
     - GASOILINE_micro 
-    - GAS_US_mini 
     - GBPCHF 
     - GBPEUR 
     - GBPJPY 
@@ -146,6 +145,7 @@ exclude_instrument_lists:
     - CAD5 
     - CAD_micro 
     - CH10 
+    - CHEESE 
     - CHFJPY 
     - CHF_micro 
     - CNH 
@@ -175,7 +175,6 @@ exclude_instrument_lists:
     - EUROSTX-SMALL 
     - FED 
     - GASOILINE_micro 
-    - GAS_US_mini 
     - GBPCHF 
     - GBPEUR 
     - GBPJPY 
@@ -186,6 +185,7 @@ exclude_instrument_lists:
     - IG 
     - INR 
     - IRS 
+    - JGB 
     - JGB-SGX-mini 
     - JP-REALESTATE 
     - JPY_mini 
@@ -199,7 +199,6 @@ exclude_instrument_lists:
     - OMX 
     - PLN 
     - SARONA 
-    - SEK 
     - SGD_mini 
     - SHATZ 
     - SMI-MID 
