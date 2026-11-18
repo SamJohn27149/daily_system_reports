@@ -1,15 +1,119 @@
 
 ********************************************************************************
-Trades report produced on 16/11/2026 19:51 from 15/11/2026 19:51 to 16/11/2026 19:51
+Trades report produced on 17/11/2026 19:51 from 16/11/2026 19:51 to 17/11/2026 19:51
 ********************************************************************************
 
 
-No trades
-No trades
-No trades
-No trades
-No trades
-No trades
+
+=========================================================================================
+                                      Broker orders                                      
+=========================================================================================
+
+     instrument_code  strategy_name contract_date       fill_datetime  fill  filled_price
+3668           CAD10  jensen_system    [20261200] 2026-11-17 00:12:49  [-1]        117.02
+3670             OAT  jensen_system    [20261200] 2026-11-17 16:00:13  [-1]        108.67
+3669         RUSSELL  jensen_system    [20261200] 2026-11-17 00:12:50  [-1]       2767.10
+
+
+=========================================================================================================================================================
+                                                                         Delays                                                                          
+=========================================================================================================================================================
+
+     instrument_code  strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
+3668           CAD10  jensen_system       2026-11-16 00:00:00  2026-11-17 00:12:48.898000  2026-11-17 00:12:49              87168.898               0.102
+3669         RUSSELL  jensen_system       2026-11-13 00:00:00  2026-11-17 00:12:49.660000  2026-11-17 00:12:50              346369.66                0.34
+3670             OAT  jensen_system       2026-11-16 00:00:00  2026-11-17 16:00:04.486000  2026-11-17 16:00:13             144004.486               8.514
+
+
+=======================================================================================================================================================================================================================
+                                                                                               Slippage (ticks per lot)                                                                                                
+=======================================================================================================================================================================================================================
+
+     instrument_code  strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price  delay bid_ask execution versus_limit versus_parent_limit total_trading
+3668           CAD10  jensen_system  [-1]                 116.69               None   116.985     116.98        116.99      116.99       117.02  0.295  -0.005      0.04         0.03                 NaN         0.035
+3669         RUSSELL  jensen_system  [-1]                 2784.3               None    2767.2     2767.1        2767.3      2767.3       2767.1  -17.1    -0.1      -0.0         -0.2                 NaN          -0.1
+3670             OAT  jensen_system  [-1]                 108.82               None   108.675     108.67        108.68      108.68       108.67 -0.145  -0.005      -0.0        -0.01                 NaN        -0.005
+
+
+==========================================================================================================================================================
+                                                   Slippage (normalised by annual vol, BP of annual SR)                                                   
+==========================================================================================================================================================
+
+     instrument_code  strategy_name trade last_annual_vol   delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
+3668           CAD10  jensen_system  [-1]        6.297024  468.475247   -7.940258     63.522067         47.64155                     NaN         55.581809
+3669         RUSSELL  jensen_system  [-1]       553.12863 -309.150513   -1.807898          -0.0        -3.615795                     NaN         -1.807898
+3670             OAT  jensen_system  [-1]        8.054751 -180.017978   -6.207516          -0.0       -12.415033                     NaN         -6.207516
+
+
+====================================================================================================================================================================
+                                                                    Slippage (In base currency)                                                                     
+====================================================================================================================================================================
+
+     instrument_code  strategy_name trade value_of_price_point  delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
+3668           CAD10  jensen_system  [-1]           699.136915   206.24539    -3.495685      27.965477         20.974107                      NaN          24.469792
+3669         RUSSELL  jensen_system  [-1]                  5.0       -85.5         -0.5           -0.0              -1.0                      NaN               -0.5
+3670             OAT  jensen_system  [-1]             1100.685 -159.599325    -5.503425           -0.0         -11.00685                      NaN          -5.503425
+
+delay_cash Sum
+                               delay_cash
+strategy_name instrument_code            
+jensen_system CAD10             206.24539
+              OAT             -159.599325
+              RUSSELL               -85.5
+delay_cash Total Sum
+              delay_cash
+strategy_name           
+jensen_system -38.853935
+bid_ask_cash Sum
+                              bid_ask_cash
+strategy_name instrument_code             
+jensen_system CAD10              -3.495685
+              OAT                -5.503425
+              RUSSELL                 -0.5
+bid_ask_cash Total Sum
+              bid_ask_cash
+strategy_name             
+jensen_system     -9.49911
+execution_cash Sum
+                              execution_cash
+strategy_name instrument_code               
+jensen_system CAD10                27.965477
+              OAT                       -0.0
+              RUSSELL                   -0.0
+execution_cash Total Sum
+              execution_cash
+strategy_name               
+jensen_system      27.965477
+versus_limit_cash Sum
+                              versus_limit_cash
+strategy_name instrument_code                  
+jensen_system CAD10                   20.974107
+              OAT                     -11.00685
+              RUSSELL                      -1.0
+versus_limit_cash Total Sum
+              versus_limit_cash
+strategy_name                  
+jensen_system          8.967257
+versus_parent_limit_cash Sum
+                              versus_parent_limit_cash
+strategy_name instrument_code                         
+jensen_system CAD10                                  0
+              OAT                                    0
+              RUSSELL                                0
+versus_parent_limit_cash Total Sum
+              versus_parent_limit_cash
+strategy_name                         
+jensen_system                        0
+total_trading_cash Sum
+                              total_trading_cash
+strategy_name instrument_code                   
+jensen_system CAD10                    24.469792
+              OAT                      -5.503425
+              RUSSELL                       -0.5
+total_trading_cash Total Sum
+              total_trading_cash
+strategy_name                   
+jensen_system          18.466367
 
 ********************************************************************************
                                  END OF REPORT                                  
