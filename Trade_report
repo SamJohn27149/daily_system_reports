@@ -1,6 +1,6 @@
 
 ********************************************************************************
-Trades report produced on 19/11/2026 19:50 from 18/11/2026 19:50 to 19/11/2026 19:50
+Trades report produced on 23/11/2026 19:51 from 22/11/2026 19:51 to 23/11/2026 19:51
 ********************************************************************************
 
 
@@ -10,18 +10,13 @@ Trades report produced on 19/11/2026 19:50 from 18/11/2026 19:50 to 19/11/2026 1
 =================================================================================================
 
      instrument_code          strategy_name contract_date       fill_datetime  fill  filled_price
-3719             AEX          jensen_system    [20261200] 2026-11-19 16:02:38  [-1]       1106.50
-3713             CAC          jensen_system    [20261200] 2026-11-19 16:00:09   [1]       8195.50
-3717             CAC          jensen_system    [20261200] 2026-11-19 16:02:33   [1]       8207.00
-3714         EU-AUTO          jensen_system    [20261200] 2026-11-19 16:00:11  [-1]        419.00
-3718         EUROSTX          jensen_system    [20261200] 2026-11-19 16:02:37  [-1]       6205.00
-3712        HANGTECH          jensen_system    [20261100] 2026-11-19 10:15:03   [1]       3652.00
-3710           TOPIX          jensen_system    [20261200] 2026-11-19 09:22:46   [1]       3814.00
-3711           TOPIX          jensen_system    [20261200] 2026-11-19 09:23:33  [-1]       3813.25
-3715             V2X  _ROLL_PSEUDO_STRATEGY    [20270100] 2026-11-19 16:00:24   [1]         20.90
-3716             V2X  _ROLL_PSEUDO_STRATEGY    [20270200] 2026-11-19 16:02:30  [-1]         21.20
-3720             V2X  _ROLL_PSEUDO_STRATEGY    [20270100] 2026-11-19 16:02:48   [1]         20.90
-3721             V2X  _ROLL_PSEUDO_STRATEGY    [20270200] 2026-11-19 16:03:01  [-1]         21.20
+3745            BUND          jensen_system    [20261200] 2026-11-23 16:00:29   [1]        122.54
+3744             DAX          jensen_system    [20261200] 2026-11-23 16:00:10  [-1]      25005.00
+3742      FTSECHINAA          jensen_system    [20261100] 2026-11-23 10:00:01   [1]      12539.00
+3743        HANGTECH          jensen_system    [20261200] 2026-11-23 10:15:02  [-1]       3428.00
+3746             OAT          jensen_system    [20261200] 2026-11-23 16:00:33   [1]        109.53
+3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY    [20270100] 2026-11-23 18:00:06   [1]       2881.00
+3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY    [20270300] 2026-11-23 18:07:49  [-1]       2855.00
 
 
 =================================================================================================================================================================
@@ -29,18 +24,13 @@ Trades report produced on 19/11/2026 19:50 from 18/11/2026 19:50 to 19/11/2026 1
 =================================================================================================================================================================
 
      instrument_code          strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
-3710           TOPIX          jensen_system       2026-11-18 00:00:00  2026-11-19 09:22:46.117000  2026-11-19 09:22:46             120166.117                 NaN
-3711           TOPIX          jensen_system       2026-11-17 00:00:00  2026-11-19 09:23:32.943000  2026-11-19 09:23:33             206612.943               0.057
-3712        HANGTECH          jensen_system       2026-11-18 00:00:00  2026-11-19 10:15:00.970000  2026-11-19 10:15:03              123300.97                2.03
-3713             CAC          jensen_system       2026-11-18 00:00:00  2026-11-19 16:00:08.784000  2026-11-19 16:00:09             144008.784               0.216
-3714         EU-AUTO          jensen_system       2026-11-18 00:00:00  2026-11-19 16:00:10.247000  2026-11-19 16:00:11             144010.247               0.753
-3717             CAC          jensen_system       2026-11-17 00:00:00  2026-11-19 16:02:30.993000  2026-11-19 16:02:33             230550.993               2.007
-3718         EUROSTX          jensen_system       2026-11-17 00:00:00  2026-11-19 16:02:33.713000  2026-11-19 16:02:37             230553.713               3.287
-3719             AEX          jensen_system       2026-11-18 00:00:00  2026-11-19 16:02:37.927000  2026-11-19 16:02:38             144157.927               0.073
-3715             V2X  _ROLL_PSEUDO_STRATEGY       2026-11-17 04:00:00  2026-11-19 16:00:15.805000  2026-11-19 16:00:24             216015.805               8.195
-3716             V2X  _ROLL_PSEUDO_STRATEGY       2026-11-17 04:00:00  2026-11-19 16:00:25.143000  2026-11-19 16:02:30             216025.143             124.857
-3720             V2X  _ROLL_PSEUDO_STRATEGY       2026-11-17 04:00:00  2026-11-19 16:02:43.259000  2026-11-19 16:02:48             216163.259               4.741
-3721             V2X  _ROLL_PSEUDO_STRATEGY       2026-11-17 04:00:00  2026-11-19 16:02:49.443000  2026-11-19 16:03:01             216169.443              11.557
+3742      FTSECHINAA          jensen_system       2026-11-20 00:00:00  2026-11-23 10:00:01.396000  2026-11-23 10:00:01             295201.396                 NaN
+3743        HANGTECH          jensen_system       2026-11-20 00:00:00  2026-11-23 10:15:02.203000  2026-11-23 10:15:02             296102.203                 NaN
+3744             DAX          jensen_system       2026-11-20 00:00:00  2026-11-23 16:00:10.169000  2026-11-23 16:00:10             316810.169                 NaN
+3745            BUND          jensen_system       2026-11-20 00:00:00  2026-11-23 16:00:12.806000  2026-11-23 16:00:29             316812.806              16.194
+3746             OAT          jensen_system       2026-11-20 00:00:00  2026-11-23 16:00:31.525000  2026-11-23 16:00:33             316831.525               1.475
+3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY       2026-11-21 01:00:00  2026-11-23 18:00:06.515000  2026-11-23 18:00:06             234006.515                 NaN
+3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY       2026-11-21 01:00:00  2026-11-23 18:00:07.734000  2026-11-23 18:07:49             234007.734             461.266
 
 
 ===============================================================================================================================================================================================================================
@@ -48,127 +38,107 @@ Trades report produced on 19/11/2026 19:50 from 18/11/2026 19:50 to 19/11/2026 1
 ===============================================================================================================================================================================================================================
 
      instrument_code          strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price  delay bid_ask execution versus_limit versus_parent_limit total_trading
-3710           TOPIX          jensen_system   [1]                 3830.5               None   3814.25     3814.5        3814.0      3814.0       3814.0  16.25   -0.25       0.5          0.0                 NaN          0.25
-3711           TOPIX          jensen_system  [-1]                 3841.0               None    3813.5    3813.25       3813.75     3813.75      3813.25  -27.5   -0.25      -0.0         -0.5                 NaN         -0.25
-3712        HANGTECH          jensen_system   [1]                 3725.0               None    3651.0     3652.0        3650.0      3650.0       3652.0   74.0    -1.0       0.0         -2.0                 NaN          -1.0
-3713             CAC          jensen_system   [1]                 8231.5               None    8195.5     8196.0        8195.0         NaN       8195.5   36.0    -0.5       0.5          NaN                 NaN           0.0
-3714         EU-AUTO          jensen_system  [-1]                  419.4               None    419.95      419.0         420.9       420.9        419.0   0.55   -0.95      -0.0         -1.9                 NaN         -0.95
-3717             CAC          jensen_system   [1]                 8327.5               None    8206.5     8207.0        8206.0      8206.0       8207.0  121.0    -0.5       0.0         -1.0                 NaN          -0.5
-3718         EUROSTX          jensen_system  [-1]                 6307.0               None    6206.5     6206.0        6207.0      6207.0       6205.0 -100.5    -0.5      -1.0         -2.0                 NaN          -1.5
-3719             AEX          jensen_system  [-1]                1108.85               None   1106.75     1106.5        1107.0      1107.0       1106.5   -2.1   -0.25      -0.0         -0.5                 NaN         -0.25
-3715             V2X  _ROLL_PSEUDO_STRATEGY   [1]                  20.45               None    20.925      20.95          20.9        20.9         20.9 -0.475  -0.025      0.05          0.0                 NaN         0.025
-3716             V2X  _ROLL_PSEUDO_STRATEGY  [-1]                   20.9               None     21.25       21.2          21.3        21.3         21.2   0.35   -0.05      -0.0         -0.1                 NaN         -0.05
-3720             V2X  _ROLL_PSEUDO_STRATEGY   [1]                  20.45               None     20.85       20.9          20.8        20.8         20.9   -0.4   -0.05       0.0         -0.1                 NaN         -0.05
-3721             V2X  _ROLL_PSEUDO_STRATEGY  [-1]                   20.9               None     21.25       21.2          21.3        21.3         21.2   0.35   -0.05      -0.0         -0.1                 NaN         -0.05
+3742      FTSECHINAA          jensen_system   [1]                12517.0               None   12540.5    12541.0       12540.0     12540.0      12539.0  -23.5    -0.5       2.0          1.0                 NaN           1.5
+3743        HANGTECH          jensen_system  [-1]                 3514.0               None    3428.0     3427.0        3429.0      3429.0       3428.0  -86.0    -1.0       1.0         -1.0                 NaN           0.0
+3744             DAX          jensen_system  [-1]                24622.0               None   25000.5    24999.0       25002.0     25002.0      25005.0  378.5    -1.5       6.0          3.0                 NaN           4.5
+3745            BUND          jensen_system   [1]                 122.74               None   122.545     122.55        122.54      122.54       122.54  0.195  -0.005      0.01          0.0                 NaN         0.005
+3746             OAT          jensen_system   [1]                 109.26               None   109.535     109.54        109.53      109.53       109.53 -0.275  -0.005      0.01          0.0                 NaN         0.005
+3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY   [1]                 2891.0               None    2896.5     2897.0        2896.0      2896.0       2881.0   -5.5    -0.5      16.0         15.0                 NaN          15.5
+3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY  [-1]                 2875.0               None    2870.5     2870.0        2871.0      2871.0       2855.0   -4.5    -0.5     -15.0        -16.0                 NaN         -15.5
 
 
-===================================================================================================================================================================
-                                                       Slippage (normalised by annual vol, BP of annual SR)                                                        
-===================================================================================================================================================================
+==================================================================================================================================================================
+                                                       Slippage (normalised by annual vol, BP of annual SR)                                                       
+==================================================================================================================================================================
 
-     instrument_code          strategy_name trade last_annual_vol    delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
-3710           TOPIX          jensen_system   [1]      866.324935   187.573961   -2.885753      5.771507              0.0                     NaN          2.885753
-3711           TOPIX          jensen_system  [-1]      866.324935  -317.432858   -2.885753          -0.0        -5.771507                     NaN         -2.885753
-3712        HANGTECH          jensen_system   [1]     1345.125727   550.134449   -7.434249           0.0       -14.868499                     NaN         -7.434249
-3713             CAC          jensen_system   [1]     1110.643575   324.136391   -4.501894      4.501894              NaN                     NaN               0.0
-3714         EU-AUTO          jensen_system  [-1]       87.995852    62.502947 -107.959635          -0.0       -215.91927                     NaN       -107.959635
-3717             CAC          jensen_system   [1]     1110.643575  1089.458425   -4.501894           0.0        -9.003789                     NaN         -4.501894
-3718         EUROSTX          jensen_system  [-1]      1034.70621  -971.290198    -4.83229     -9.664579       -19.329158                     NaN        -14.496869
-3719             AEX          jensen_system  [-1]       140.60798  -149.351409   -17.77993          -0.0       -35.559859                     NaN         -17.77993
-3715             V2X  _ROLL_PSEUDO_STRATEGY   [1]        7.847872  -605.259608  -31.855769     63.711538              0.0                     NaN         31.855769
-3716             V2X  _ROLL_PSEUDO_STRATEGY  [-1]        7.847872   445.980763  -63.711538          -0.0      -127.423075                     NaN        -63.711538
-3720             V2X  _ROLL_PSEUDO_STRATEGY   [1]        7.847872  -509.692301  -63.711538           0.0      -127.423075                     NaN        -63.711538
-3721             V2X  _ROLL_PSEUDO_STRATEGY  [-1]        7.847872   445.980763  -63.711538          -0.0      -127.423075                     NaN        -63.711538
+     instrument_code          strategy_name trade last_annual_vol   delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
+3742      FTSECHINAA          jensen_system   [1]     2124.817334 -110.597742   -2.353143      9.412574         4.706287                     NaN           7.05943
+3743        HANGTECH          jensen_system  [-1]     1351.014592 -636.558632   -7.401845      7.401845        -7.401845                     NaN               0.0
+3744             DAX          jensen_system  [-1]     5356.523096  706.615081   -2.800324     11.201296         5.600648                     NaN          8.400972
+3745            BUND          jensen_system   [1]        5.299198  367.980177   -9.435389     18.870778              0.0                     NaN          9.435389
+3746             OAT          jensen_system   [1]        7.791716 -352.938949   -6.417072     12.834144              0.0                     NaN          6.417072
+3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY   [1]      921.736323  -59.669993   -5.424545    173.585434       162.736345                     NaN        168.160889
+3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY  [-1]      921.736323  -48.820903   -5.424545   -162.736345      -173.585434                     NaN       -168.160889
 
 
-=============================================================================================================================================================================
-                                                                         Slippage (In base currency)                                                                         
-=============================================================================================================================================================================
+============================================================================================================================================================================
+                                                                        Slippage (In base currency)                                                                         
+============================================================================================================================================================================
 
-     instrument_code          strategy_name trade value_of_price_point   delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
-3710           TOPIX          jensen_system   [1]              6.26971   101.882794    -1.567428       3.134855               0.0                      NaN           1.567428
-3711           TOPIX          jensen_system  [-1]              6.26971  -172.417036    -1.567428           -0.0         -3.134855                      NaN          -1.567428
-3712        HANGTECH          jensen_system   [1]             6.373348   471.627766    -6.373348            0.0        -12.746696                      NaN          -6.373348
-3713             CAC          jensen_system   [1]             10.96875      394.875    -5.484375       5.484375               NaN                      NaN                0.0
-3714         EU-AUTO          jensen_system  [-1]             54.84375    30.164063   -52.101562           -0.0       -104.203125                      NaN         -52.101562
-3717             CAC          jensen_system   [1]             10.96875   1327.21875    -5.484375            0.0         -10.96875                      NaN          -5.484375
-3718         EUROSTX          jensen_system  [-1]             10.96875 -1102.359375    -5.484375      -10.96875          -21.9375                      NaN         -16.453125
-3719             AEX          jensen_system  [-1]              219.375    -460.6875    -54.84375           -0.0         -109.6875                      NaN          -54.84375
-3715             V2X  _ROLL_PSEUDO_STRATEGY   [1]             109.6875   -52.101562    -2.742188       5.484375               0.0                      NaN           2.742187
-3716             V2X  _ROLL_PSEUDO_STRATEGY  [-1]             109.6875    38.390625    -5.484375           -0.0         -10.96875                      NaN          -5.484375
-3720             V2X  _ROLL_PSEUDO_STRATEGY   [1]             109.6875      -43.875    -5.484375            0.0         -10.96875                      NaN          -5.484375
-3721             V2X  _ROLL_PSEUDO_STRATEGY  [-1]             109.6875    38.390625    -5.484375           -0.0         -10.96875                      NaN          -5.484375
+     instrument_code          strategy_name trade value_of_price_point  delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
+3742      FTSECHINAA          jensen_system   [1]                  1.0       -23.5         -0.5            2.0               1.0                      NaN                1.5
+3743        HANGTECH          jensen_system  [-1]             6.378702 -548.568396    -6.378702       6.378702         -6.378702                      NaN                0.0
+3744             DAX          jensen_system  [-1]             1.099555  416.181568    -1.649333        6.59733          3.298665                      NaN           4.947998
+3745            BUND          jensen_system   [1]             1099.555  214.413225    -5.497775       10.99555               0.0                      NaN           5.497775
+3746             OAT          jensen_system   [1]             1099.555 -302.377625    -5.497775       10.99555               0.0                      NaN           5.497775
+3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY   [1]                 10.0       -55.0         -5.0          160.0             150.0                      NaN              155.0
+3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY  [-1]                 10.0       -45.0         -5.0         -150.0            -160.0                      NaN             -155.0
 
 delay_cash Sum
-                                        delay_cash
-strategy_name         instrument_code             
-_ROLL_PSEUDO_STRATEGY V2X               -19.195312
-jensen_system         AEX                -460.6875
-                      CAC               1722.09375
-                      EU-AUTO            30.164063
-                      EUROSTX         -1102.359375
-                      HANGTECH          471.627766
-                      TOPIX             -70.534242
+                                       delay_cash
+strategy_name         instrument_code            
+_ROLL_PSEUDO_STRATEGY ROBUSTA              -100.0
+jensen_system         BUND             214.413225
+                      DAX              416.181568
+                      FTSECHINAA            -23.5
+                      HANGTECH        -548.568396
+                      OAT             -302.377625
 delay_cash Total Sum
                        delay_cash
 strategy_name                    
-_ROLL_PSEUDO_STRATEGY  -19.195312
-jensen_system          590.304461
+_ROLL_PSEUDO_STRATEGY      -100.0
+jensen_system         -243.851228
 bid_ask_cash Sum
                                       bid_ask_cash
 strategy_name         instrument_code             
-_ROLL_PSEUDO_STRATEGY V2X               -19.195313
-jensen_system         AEX                -54.84375
-                      CAC                -10.96875
-                      EU-AUTO           -52.101562
-                      EUROSTX            -5.484375
-                      HANGTECH           -6.373348
-                      TOPIX              -3.134855
+_ROLL_PSEUDO_STRATEGY ROBUSTA                -10.0
+jensen_system         BUND               -5.497775
+                      DAX                -1.649333
+                      FTSECHINAA              -0.5
+                      HANGTECH           -6.378702
+                      OAT                -5.497775
 bid_ask_cash Total Sum
                       bid_ask_cash
 strategy_name                     
-_ROLL_PSEUDO_STRATEGY   -19.195313
-jensen_system          -132.906641
+_ROLL_PSEUDO_STRATEGY        -10.0
+jensen_system           -19.523585
 execution_cash Sum
                                       execution_cash
 strategy_name         instrument_code               
-_ROLL_PSEUDO_STRATEGY V2X                   5.484375
-jensen_system         AEX                       -0.0
-                      CAC                   5.484375
-                      EU-AUTO                   -0.0
-                      EUROSTX              -10.96875
-                      HANGTECH                   0.0
-                      TOPIX                 3.134855
+_ROLL_PSEUDO_STRATEGY ROBUSTA                   10.0
+jensen_system         BUND                  10.99555
+                      DAX                    6.59733
+                      FTSECHINAA                 2.0
+                      HANGTECH              6.378702
+                      OAT                   10.99555
 execution_cash Total Sum
                       execution_cash
 strategy_name                       
-_ROLL_PSEUDO_STRATEGY       5.484375
-jensen_system               -2.34952
+_ROLL_PSEUDO_STRATEGY           10.0
+jensen_system              36.967132
 versus_limit_cash Sum
                                       versus_limit_cash
 strategy_name         instrument_code                  
-_ROLL_PSEUDO_STRATEGY V2X                     -32.90625
-jensen_system         AEX                     -109.6875
-                      CAC                     -10.96875
-                      EU-AUTO               -104.203125
-                      EUROSTX                  -21.9375
-                      HANGTECH               -12.746696
-                      TOPIX                   -3.134855
+_ROLL_PSEUDO_STRATEGY ROBUSTA                     -10.0
+jensen_system         BUND                          0.0
+                      DAX                      3.298665
+                      FTSECHINAA                    1.0
+                      HANGTECH                -6.378702
+                      OAT                           0.0
 versus_limit_cash Total Sum
                       versus_limit_cash
 strategy_name                          
-_ROLL_PSEUDO_STRATEGY         -32.90625
-jensen_system               -262.678427
+_ROLL_PSEUDO_STRATEGY             -10.0
+jensen_system                 -2.080037
 versus_parent_limit_cash Sum
                                       versus_parent_limit_cash
 strategy_name         instrument_code                         
-_ROLL_PSEUDO_STRATEGY V2X                                    0
-jensen_system         AEX                                    0
-                      CAC                                    0
-                      EU-AUTO                                0
-                      EUROSTX                                0
+_ROLL_PSEUDO_STRATEGY ROBUSTA                                0
+jensen_system         BUND                                   0
+                      DAX                                    0
+                      FTSECHINAA                             0
                       HANGTECH                               0
-                      TOPIX                                  0
+                      OAT                                    0
 versus_parent_limit_cash Total Sum
                       versus_parent_limit_cash
 strategy_name                                 
@@ -177,18 +147,17 @@ jensen_system                                0
 total_trading_cash Sum
                                       total_trading_cash
 strategy_name         instrument_code                   
-_ROLL_PSEUDO_STRATEGY V2X                     -13.710938
-jensen_system         AEX                      -54.84375
-                      CAC                      -5.484375
-                      EU-AUTO                 -52.101562
-                      EUROSTX                 -16.453125
-                      HANGTECH                 -6.373348
-                      TOPIX                          0.0
+_ROLL_PSEUDO_STRATEGY ROBUSTA                        0.0
+jensen_system         BUND                      5.497775
+                      DAX                       4.947998
+                      FTSECHINAA                     1.5
+                      HANGTECH                       0.0
+                      OAT                       5.497775
 total_trading_cash Total Sum
                       total_trading_cash
 strategy_name                           
-_ROLL_PSEUDO_STRATEGY         -13.710938
-jensen_system                -135.256161
+_ROLL_PSEUDO_STRATEGY                0.0
+jensen_system                  17.443547
 
 ********************************************************************************
                                  END OF REPORT                                  
