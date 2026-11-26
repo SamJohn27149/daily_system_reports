@@ -1,163 +1,124 @@
 
 ********************************************************************************
-Trades report produced on 23/11/2026 19:51 from 22/11/2026 19:51 to 23/11/2026 19:51
+Trades report produced on 25/11/2026 19:51 from 24/11/2026 19:51 to 25/11/2026 19:51
 ********************************************************************************
 
 
 
-=================================================================================================
-                                          Broker orders                                          
-=================================================================================================
+=========================================================================================
+                                      Broker orders                                      
+=========================================================================================
 
-     instrument_code          strategy_name contract_date       fill_datetime  fill  filled_price
-3745            BUND          jensen_system    [20261200] 2026-11-23 16:00:29   [1]        122.54
-3744             DAX          jensen_system    [20261200] 2026-11-23 16:00:10  [-1]      25005.00
-3742      FTSECHINAA          jensen_system    [20261100] 2026-11-23 10:00:01   [1]      12539.00
-3743        HANGTECH          jensen_system    [20261200] 2026-11-23 10:15:02  [-1]       3428.00
-3746             OAT          jensen_system    [20261200] 2026-11-23 16:00:33   [1]        109.53
-3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY    [20270100] 2026-11-23 18:00:06   [1]       2881.00
-3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY    [20270300] 2026-11-23 18:07:49  [-1]       2855.00
+     instrument_code  strategy_name contract_date       fill_datetime  fill  filled_price
+3773         RUSSELL  jensen_system    [20261200] 2026-11-25 00:13:01   [1]       2666.00
+3771     US-PROPERTY  jensen_system    [20261200] 2026-11-25 00:12:56  [-1]        211.40
+3772        VIX_mini  jensen_system    [20270100] 2026-11-25 00:13:00   [1]         25.07
+3774        VIX_mini  jensen_system    [20270100] 2026-11-25 00:13:05   [1]         25.07
 
 
-=================================================================================================================================================================
-                                                                             Delays                                                                              
-=================================================================================================================================================================
+=========================================================================================================================================================
+                                                                         Delays                                                                          
+=========================================================================================================================================================
 
-     instrument_code          strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
-3742      FTSECHINAA          jensen_system       2026-11-20 00:00:00  2026-11-23 10:00:01.396000  2026-11-23 10:00:01             295201.396                 NaN
-3743        HANGTECH          jensen_system       2026-11-20 00:00:00  2026-11-23 10:15:02.203000  2026-11-23 10:15:02             296102.203                 NaN
-3744             DAX          jensen_system       2026-11-20 00:00:00  2026-11-23 16:00:10.169000  2026-11-23 16:00:10             316810.169                 NaN
-3745            BUND          jensen_system       2026-11-20 00:00:00  2026-11-23 16:00:12.806000  2026-11-23 16:00:29             316812.806              16.194
-3746             OAT          jensen_system       2026-11-20 00:00:00  2026-11-23 16:00:31.525000  2026-11-23 16:00:33             316831.525               1.475
-3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY       2026-11-21 01:00:00  2026-11-23 18:00:06.515000  2026-11-23 18:00:06             234006.515                 NaN
-3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY       2026-11-21 01:00:00  2026-11-23 18:00:07.734000  2026-11-23 18:07:49             234007.734             461.266
+     instrument_code  strategy_name parent_reference_datetime             submit_datetime        fill_datetime submit_minus_generated filled_minus_submit
+3771     US-PROPERTY  jensen_system       2026-11-24 00:00:00  2026-11-25 00:12:50.198000  2026-11-25 00:12:56              87170.198               5.802
+3773         RUSSELL  jensen_system       2026-11-24 00:00:00  2026-11-25 00:13:00.750000  2026-11-25 00:13:01               87180.75                0.25
+3772        VIX_mini  jensen_system       2026-11-24 00:00:00  2026-11-25 00:12:57.261000  2026-11-25 00:13:00              87177.261               2.739
+3774        VIX_mini  jensen_system       2026-11-24 00:00:00  2026-11-25 00:13:04.360000  2026-11-25 00:13:05               87184.36                0.64
 
 
-===============================================================================================================================================================================================================================
-                                                                                                   Slippage (ticks per lot)                                                                                                    
-===============================================================================================================================================================================================================================
+=======================================================================================================================================================================================================================
+                                                                                               Slippage (ticks per lot)                                                                                                
+=======================================================================================================================================================================================================================
 
-     instrument_code          strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price  delay bid_ask execution versus_limit versus_parent_limit total_trading
-3742      FTSECHINAA          jensen_system   [1]                12517.0               None   12540.5    12541.0       12540.0     12540.0      12539.0  -23.5    -0.5       2.0          1.0                 NaN           1.5
-3743        HANGTECH          jensen_system  [-1]                 3514.0               None    3428.0     3427.0        3429.0      3429.0       3428.0  -86.0    -1.0       1.0         -1.0                 NaN           0.0
-3744             DAX          jensen_system  [-1]                24622.0               None   25000.5    24999.0       25002.0     25002.0      25005.0  378.5    -1.5       6.0          3.0                 NaN           4.5
-3745            BUND          jensen_system   [1]                 122.74               None   122.545     122.55        122.54      122.54       122.54  0.195  -0.005      0.01          0.0                 NaN         0.005
-3746             OAT          jensen_system   [1]                 109.26               None   109.535     109.54        109.53      109.53       109.53 -0.275  -0.005      0.01          0.0                 NaN         0.005
-3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY   [1]                 2891.0               None    2896.5     2897.0        2896.0      2896.0       2881.0   -5.5    -0.5      16.0         15.0                 NaN          15.5
-3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY  [-1]                 2875.0               None    2870.5     2870.0        2871.0      2871.0       2855.0   -4.5    -0.5     -15.0        -16.0                 NaN         -15.5
+     instrument_code  strategy_name trade parent_reference_price parent_limit_price mid_price side_price offside_price limit_price filled_price  delay bid_ask execution versus_limit versus_parent_limit total_trading
+3771     US-PROPERTY  jensen_system  [-1]                 210.35               None   211.525     211.45         211.6       211.6        211.4  1.175  -0.075     -0.05         -0.2                 NaN        -0.125
+3773         RUSSELL  jensen_system   [1]                 2678.2               None   2665.95     2666.0        2665.9      2665.9       2666.0  12.25   -0.05       0.0         -0.1                 NaN         -0.05
+3772        VIX_mini  jensen_system   [1]                   23.5               None    25.015      25.05         24.98       24.98        25.07 -1.515  -0.035     -0.02        -0.09                 NaN        -0.055
+3774        VIX_mini  jensen_system   [1]                   23.5               None    25.025      25.07         24.98       24.98        25.07 -1.525  -0.045       0.0        -0.09                 NaN        -0.045
 
 
-==================================================================================================================================================================
-                                                       Slippage (normalised by annual vol, BP of annual SR)                                                       
-==================================================================================================================================================================
+===========================================================================================================================================================
+                                                   Slippage (normalised by annual vol, BP of annual SR)                                                    
+===========================================================================================================================================================
 
-     instrument_code          strategy_name trade last_annual_vol   delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
-3742      FTSECHINAA          jensen_system   [1]     2124.817334 -110.597742   -2.353143      9.412574         4.706287                     NaN           7.05943
-3743        HANGTECH          jensen_system  [-1]     1351.014592 -636.558632   -7.401845      7.401845        -7.401845                     NaN               0.0
-3744             DAX          jensen_system  [-1]     5356.523096  706.615081   -2.800324     11.201296         5.600648                     NaN          8.400972
-3745            BUND          jensen_system   [1]        5.299198  367.980177   -9.435389     18.870778              0.0                     NaN          9.435389
-3746             OAT          jensen_system   [1]        7.791716 -352.938949   -6.417072     12.834144              0.0                     NaN          6.417072
-3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY   [1]      921.736323  -59.669993   -5.424545    173.585434       162.736345                     NaN        168.160889
-3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY  [-1]      921.736323  -48.820903   -5.424545   -162.736345      -173.585434                     NaN       -168.160889
+     instrument_code  strategy_name trade last_annual_vol    delay_vol bid_ask_vol execution_vol versus_limit_vol versus_parent_limit_vol total_trading_vol
+3771     US-PROPERTY  jensen_system  [-1]       35.113634   334.627854  -21.359225    -14.239483       -56.957933                     NaN        -35.598708
+3773         RUSSELL  jensen_system   [1]       558.64229   219.281644   -0.895027           0.0        -1.790054                     NaN         -0.895027
+3772        VIX_mini  jensen_system   [1]       12.644733 -1198.127297  -27.679509    -15.816862       -71.175879                     NaN        -43.496371
+3774        VIX_mini  jensen_system   [1]       12.644733 -1206.035728   -35.58794           0.0       -71.175879                     NaN         -35.58794
 
 
-============================================================================================================================================================================
-                                                                        Slippage (In base currency)                                                                         
-============================================================================================================================================================================
+===================================================================================================================================================================
+                                                                    Slippage (In base currency)                                                                    
+===================================================================================================================================================================
 
-     instrument_code          strategy_name trade value_of_price_point  delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
-3742      FTSECHINAA          jensen_system   [1]                  1.0       -23.5         -0.5            2.0               1.0                      NaN                1.5
-3743        HANGTECH          jensen_system  [-1]             6.378702 -548.568396    -6.378702       6.378702         -6.378702                      NaN                0.0
-3744             DAX          jensen_system  [-1]             1.099555  416.181568    -1.649333        6.59733          3.298665                      NaN           4.947998
-3745            BUND          jensen_system   [1]             1099.555  214.413225    -5.497775       10.99555               0.0                      NaN           5.497775
-3746             OAT          jensen_system   [1]             1099.555 -302.377625    -5.497775       10.99555               0.0                      NaN           5.497775
-3747         ROBUSTA  _ROLL_PSEUDO_STRATEGY   [1]                 10.0       -55.0         -5.0          160.0             150.0                      NaN              155.0
-3748         ROBUSTA  _ROLL_PSEUDO_STRATEGY  [-1]                 10.0       -45.0         -5.0         -150.0            -160.0                      NaN             -155.0
+     instrument_code  strategy_name trade value_of_price_point delay_cash bid_ask_cash execution_cash versus_limit_cash versus_parent_limit_cash total_trading_cash
+3771     US-PROPERTY  jensen_system  [-1]                250.0     293.75       -18.75          -12.5             -50.0                      NaN             -31.25
+3773         RUSSELL  jensen_system   [1]                  5.0      61.25        -0.25            0.0              -0.5                      NaN              -0.25
+3772        VIX_mini  jensen_system   [1]                100.0     -151.5         -3.5           -2.0              -9.0                      NaN               -5.5
+3774        VIX_mini  jensen_system   [1]                100.0     -152.5         -4.5            0.0              -9.0                      NaN               -4.5
 
 delay_cash Sum
-                                       delay_cash
-strategy_name         instrument_code            
-_ROLL_PSEUDO_STRATEGY ROBUSTA              -100.0
-jensen_system         BUND             214.413225
-                      DAX              416.181568
-                      FTSECHINAA            -23.5
-                      HANGTECH        -548.568396
-                      OAT             -302.377625
+                              delay_cash
+strategy_name instrument_code           
+jensen_system RUSSELL              61.25
+              US-PROPERTY         293.75
+              VIX_mini            -304.0
 delay_cash Total Sum
-                       delay_cash
-strategy_name                    
-_ROLL_PSEUDO_STRATEGY      -100.0
-jensen_system         -243.851228
+              delay_cash
+strategy_name           
+jensen_system       51.0
 bid_ask_cash Sum
-                                      bid_ask_cash
-strategy_name         instrument_code             
-_ROLL_PSEUDO_STRATEGY ROBUSTA                -10.0
-jensen_system         BUND               -5.497775
-                      DAX                -1.649333
-                      FTSECHINAA              -0.5
-                      HANGTECH           -6.378702
-                      OAT                -5.497775
+                              bid_ask_cash
+strategy_name instrument_code             
+jensen_system RUSSELL                -0.25
+              US-PROPERTY           -18.75
+              VIX_mini                -8.0
 bid_ask_cash Total Sum
-                      bid_ask_cash
-strategy_name                     
-_ROLL_PSEUDO_STRATEGY        -10.0
-jensen_system           -19.523585
+              bid_ask_cash
+strategy_name             
+jensen_system        -27.0
 execution_cash Sum
-                                      execution_cash
-strategy_name         instrument_code               
-_ROLL_PSEUDO_STRATEGY ROBUSTA                   10.0
-jensen_system         BUND                  10.99555
-                      DAX                    6.59733
-                      FTSECHINAA                 2.0
-                      HANGTECH              6.378702
-                      OAT                   10.99555
+                              execution_cash
+strategy_name instrument_code               
+jensen_system RUSSELL                    0.0
+              US-PROPERTY              -12.5
+              VIX_mini                  -2.0
 execution_cash Total Sum
-                      execution_cash
-strategy_name                       
-_ROLL_PSEUDO_STRATEGY           10.0
-jensen_system              36.967132
+              execution_cash
+strategy_name               
+jensen_system          -14.5
 versus_limit_cash Sum
-                                      versus_limit_cash
-strategy_name         instrument_code                  
-_ROLL_PSEUDO_STRATEGY ROBUSTA                     -10.0
-jensen_system         BUND                          0.0
-                      DAX                      3.298665
-                      FTSECHINAA                    1.0
-                      HANGTECH                -6.378702
-                      OAT                           0.0
+                              versus_limit_cash
+strategy_name instrument_code                  
+jensen_system RUSSELL                      -0.5
+              US-PROPERTY                 -50.0
+              VIX_mini                    -18.0
 versus_limit_cash Total Sum
-                      versus_limit_cash
-strategy_name                          
-_ROLL_PSEUDO_STRATEGY             -10.0
-jensen_system                 -2.080037
+              versus_limit_cash
+strategy_name                  
+jensen_system             -68.5
 versus_parent_limit_cash Sum
-                                      versus_parent_limit_cash
-strategy_name         instrument_code                         
-_ROLL_PSEUDO_STRATEGY ROBUSTA                                0
-jensen_system         BUND                                   0
-                      DAX                                    0
-                      FTSECHINAA                             0
-                      HANGTECH                               0
-                      OAT                                    0
+                              versus_parent_limit_cash
+strategy_name instrument_code                         
+jensen_system RUSSELL                                0
+              US-PROPERTY                            0
+              VIX_mini                               0
 versus_parent_limit_cash Total Sum
-                      versus_parent_limit_cash
-strategy_name                                 
-_ROLL_PSEUDO_STRATEGY                        0
-jensen_system                                0
+              versus_parent_limit_cash
+strategy_name                         
+jensen_system                        0
 total_trading_cash Sum
-                                      total_trading_cash
-strategy_name         instrument_code                   
-_ROLL_PSEUDO_STRATEGY ROBUSTA                        0.0
-jensen_system         BUND                      5.497775
-                      DAX                       4.947998
-                      FTSECHINAA                     1.5
-                      HANGTECH                       0.0
-                      OAT                       5.497775
+                              total_trading_cash
+strategy_name instrument_code                   
+jensen_system RUSSELL                      -0.25
+              US-PROPERTY                 -31.25
+              VIX_mini                     -10.0
 total_trading_cash Total Sum
-                      total_trading_cash
-strategy_name                           
-_ROLL_PSEUDO_STRATEGY                0.0
-jensen_system                  17.443547
+              total_trading_cash
+strategy_name                   
+jensen_system              -41.5
 
 ********************************************************************************
                                  END OF REPORT                                  
